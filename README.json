@@ -14,7 +14,7 @@
             "last_commit": "2024-08-21T02:01:07Z",
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32873
+            "stars": 32874
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-01-24T04:56:27Z",
             "owner": "microsoft",
             "repo": "GLIP",
-            "stars": 2607
+            "stars": 2606
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2024-01-24T04:56:27Z",
             "owner": "microsoft",
             "repo": "GLIP",
-            "stars": 2607
+            "stars": 2606
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2024-06-07T06:51:14Z",
             "owner": "FoundationVision",
             "repo": "Groma",
-            "stars": 585
+            "stars": 586
           }
         },
         {
@@ -199,10 +199,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-12T12:20:59Z",
+            "last_commit": "2026-08-13T19:06:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38526
+            "stars": 38530
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2024-08-12T08:52:02Z",
             "owner": "IDEA-Research",
             "repo": "GroundingDINO",
-            "stars": 10501
+            "stars": 10499
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2024-08-07T02:37:06Z",
             "owner": "QwenLM",
             "repo": "Qwen-VL",
-            "stars": 6723
+            "stars": 6724
           }
         },
         {
@@ -387,10 +387,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-12T12:20:59Z",
+            "last_commit": "2026-08-13T19:06:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38526
+            "stars": 38530
           }
         },
         {
@@ -401,10 +401,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-12T12:20:59Z",
+            "last_commit": "2026-08-13T19:06:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38526
+            "stars": 38530
           }
         },
         {
@@ -502,7 +502,7 @@
             "last_commit": "2026-03-12T03:04:38Z",
             "owner": "om-ai-lab",
             "repo": "OmDet",
-            "stars": 1392
+            "stars": 1393
           }
         },
         {
@@ -544,7 +544,7 @@
             "last_commit": "2026-02-04T13:22:36Z",
             "owner": "iSEE-Laboratory",
             "repo": "LLMDet",
-            "stars": 612
+            "stars": 614
           }
         },
         {
@@ -810,7 +810,7 @@
             "last_commit": "2025-07-29T07:25:27Z",
             "owner": "wengminghe",
             "repo": "Dynamic-DINO",
-            "stars": 80
+            "stars": 81
           }
         },
         {
@@ -908,7 +908,7 @@
             "last_commit": "2025-10-06T11:56:04Z",
             "owner": "chiara-cap",
             "repo": "DitHub",
-            "stars": 42
+            "stars": 43
           }
         },
         {
@@ -1482,7 +1482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:05:16.636Z",
+    "last_updated": "2026-08-13T20:07:31.721Z",
     "original_repository": "Charles-Xie/awesome-described-object-detection",
     "original_repository_sha": "2a10281ef3abd4100dc530688c16ea18e5404e3c",
     "enhanced_repository": "enhansome/enhansome-described-object-detection",
