@@ -1,0 +1,1492 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "An Open and Comprehensive Pipeline for Unified Object Grounding and Detection (arxiv 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-21T02:01:07Z",
+            "owner": "open-mmlab",
+            "repo": "mmdetection",
+            "stars": 32873
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model (arxiv 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-07T01:50:29Z",
+            "owner": "om-ai-lab",
+            "repo": "VLM-R1",
+            "stars": 6016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLIPv2: Unifying Localization and Vision-Language Understanding (NeurIPS 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-24T04:56:27Z",
+            "owner": "microsoft",
+            "repo": "GLIP",
+            "stars": 2607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grounded Language-Image Pre-training (CVPR 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-24T04:56:27Z",
+            "owner": "microsoft",
+            "repo": "GLIP",
+            "stars": 2607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aligning and Prompting Everything All at Once for Universal Visual Perception (arxiv 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-08T01:41:00Z",
+            "owner": "shenyunhang",
+            "repo": "APE",
+            "stars": 609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models (ECCV 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-07T06:51:14Z",
+            "owner": "FoundationVision",
+            "repo": "Groma",
+            "stars": 585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Described Object Detection: Liberating Object Detection with Flexible Expressions (NeurIPS 2023) [paper]",
+          "description": "[dataset] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T02:19:35Z",
+            "owner": "shikras",
+            "repo": "d-cube",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone (NeurIPS 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-10T00:06:39Z",
+            "owner": "microsoft",
+            "repo": "FIBER",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RefDrone: A Challenging Benchmark for Referring Expression Comprehension in Drone Scenes (arxiv 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T03:58:03Z",
+            "owner": "sunzc-sunny",
+            "repo": "refdrone",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM (ECCV 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-12T12:21:46Z",
+            "owner": "yixuan730",
+            "repo": "DetToolChain",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Re-Aligning Language to Visual Objects with an Agentic Workflow (ICLR 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-20T04:35:19Z",
+            "owner": "FishAndWasabi",
+            "repo": "Real-LOD",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DesCo: Learning Object Recognition with Rich Language Descriptions (NeurIPS 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-13T04:11:28Z",
+            "owner": "liunian-harold-li",
+            "repo": "DesCo",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generating Enhanced Negatives for Training Language-Based Object Detectors (CVPR 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-17T08:09:09Z",
+            "owner": "xiaofeng94",
+            "repo": "Gen-Enhanced-Negs",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Described Object Detection"
+    },
+    {
+      "description": "These methods are either MLLM with capabilities related to detection/localization, or multi-task models handling both OD/OVD and REC. Though they are not directly handling DOD and not evaluated on DOD benchmarks in their original papers, it is possible that they obtain a performance similar to the DOD baseline.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FindIt: Generalized Localization with Natural Language Queries (ECCV 2022) [paper]",
+          "description": "[code] (REC, OD, etc.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T12:20:59Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kosmos-2: Grounding Multimodal Large Language Models to the World (ICLR 2024) [paper]",
+          "description": "[demo] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-23T04:09:35Z",
+            "owner": "microsoft",
+            "repo": "unilm",
+            "stars": 22186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection (arxiv 2023) [paper]",
+          "description": "[code (eval)] (REC, OD, etc.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-12T08:52:02Z",
+            "owner": "IDEA-Research",
+            "repo": "GroundingDINO",
+            "stars": 10501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ferret: Refer and Ground Anything Anywhere at Any Granularity [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-09T02:40:44Z",
+            "owner": "apple",
+            "repo": "ml-ferret",
+            "stars": 8675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond (arxiv 2023) [paper]",
+          "description": "[demo] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-07T02:37:06Z",
+            "owner": "QwenLM",
+            "repo": "Qwen-VL",
+            "stars": 6723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models (arxiv 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-13T06:05:22Z",
+            "owner": "Alpha-VLLM",
+            "repo": "LLaMA2-Accessory",
+            "stars": 2802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Universal Instance Perception as Object Discovery and Retrieval (CVPR 2023) [paper]",
+          "description": "[code] (REC, OVD, etc.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-18T13:02:16Z",
+            "owner": "MasterBin-IIAU",
+            "repo": "UNINEXT",
+            "stars": 1278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic (arxiv 2023) [paper]",
+          "description": "[demo] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-08T16:14:12Z",
+            "owner": "shikras",
+            "repo": "shikra",
+            "stars": 816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GRiT: A Generative Region-to-text Transformer for Object Understanding (arxiv 2022) [paper]",
+          "description": "[demo (colab)] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-08T17:34:53Z",
+            "owner": "JialianW",
+            "repo": "GRiT",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Contextual Object Detection with Multimodal Large Language Models (arxiv 2023) [paper]",
+          "description": "[demo] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-14T07:35:36Z",
+            "owner": "yuhangzang",
+            "repo": "ContextDET",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Griffon: Spelling out All Object Locations at Any Granularity with Large Language Models (arxiv 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-17T11:47:24Z",
+            "owner": "jefferyZhan",
+            "repo": "Griffon",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generative Region-Language Pretraining for Open-Ended Object Detection (CVPR 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-29T02:38:54Z",
+            "owner": "FoundationVision",
+            "repo": "GenerateU",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs (CVPR 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-16T08:28:53Z",
+            "owner": "SY-Xuan",
+            "repo": "Pink",
+            "stars": 100
+          }
+        }
+      ],
+      "title": "Methods with Potential for DOD"
+    },
+    {
+      "description": "Note that some generic object detection methods accepting language prompts are also listed here. Though they may not be evaluated on OVD benchmarks, they are essentially capable of this setting.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers (CVPR 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T12:20:59Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models (ICLR 2023) [paper]",
+          "description": "[code] [website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T12:20:59Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YOLO-World: Real-Time Open-Vocabulary Object Detection (arxiv 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-26T18:29:03Z",
+            "owner": "AILab-CVC",
+            "repo": "YOLO-World",
+            "stars": 6507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-vocabulary Object Detection via Vision and Language Knowledge Distillation (ICLR 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-22T19:40:55Z",
+            "owner": "tensorflow",
+            "repo": "tpu",
+            "stars": 5279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scaling Open-Vocabulary Object Detection (arxiv 2023) [paper]",
+          "description": "[code (jax)]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T09:53:31Z",
+            "owner": "google-research",
+            "repo": "scenic",
+            "stars": 3821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Open-Vocabulary Object Detection with Vision Transformers (ECCV 2022) [paper]",
+          "description": "[code (jax)] [code (huggingface)]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T09:53:31Z",
+            "owner": "google-research",
+            "repo": "scenic",
+            "stars": 3821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Open-Vocabulary Object Detection with Vision Transformers (ECCV 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T09:53:31Z",
+            "owner": "google-research",
+            "repo": "scenic",
+            "stars": 3821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy (arxiv 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-15T02:24:49Z",
+            "owner": "IDEA-Research",
+            "repo": "T-Rex",
+            "stars": 2697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Real-time Transformer-based Open-Vocabulary Detection with Efficient Fusion Head (arxiv 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-12T03:04:38Z",
+            "owner": "om-ai-lab",
+            "repo": "OmDet",
+            "stars": 1392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RegionCLIP: Region-Based Language-Image Pretraining (CVPR 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T16:11:19Z",
+            "owner": "microsoft",
+            "repo": "RegionCLIP",
+            "stars": 817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Simple Framework for Open-Vocabulary Segmentation and Detection (ICCV 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-22T14:12:04Z",
+            "owner": "IDEA-Research",
+            "repo": "OpenSeeD",
+            "stars": 763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models (CVPR 2025 Highlight) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T13:22:36Z",
+            "owner": "iSEE-Laboratory",
+            "repo": "LLMDet",
+            "stars": 612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OVLW-DETR: Open-Vocabulary Light-Weighted Detection Transformer (arxiv 2024) [paper]",
+          "description": "[code (TBD)]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-18T12:31:00Z",
+            "owner": "Atten4Vis",
+            "repo": "LW-DETR",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion (arxiv 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-12T04:14:39Z",
+            "owner": "wanghao9610",
+            "repo": "OV-DINO",
+            "stars": 409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection (NeurIPS 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-10-12T17:59:51Z",
+            "owner": "hanoonaR",
+            "repo": "object-centric-ovd",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-Vocabulary Object Detection Using Captions (CVPR 2021) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-11T20:04:35Z",
+            "owner": "alirezazareian",
+            "repo": "ovr-cnn",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-Vocabulary DETR with Conditional Matching (ECCV 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-03T14:10:38Z",
+            "owner": "yuhangzang",
+            "repo": "OV-DETR",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CORA: Adapting CLIP for Open-Vocabulary Detection with Region Prompting and Anchor Pre-Matching (CVPR 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-16T11:36:37Z",
+            "owner": "tgxs002",
+            "repo": "CORA",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Object-Language Alignments for Open-Vocabulary Object Detection (ICLR 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-22T05:26:40Z",
+            "owner": "clin1223",
+            "repo": "VLDet",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aligning Bag of Regions for Open-Vocabulary Object Detection (CVPR 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-25T03:55:43Z",
+            "owner": "wusize",
+            "repo": "ovdet",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model (CVPR 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-07T00:36:29Z",
+            "owner": "dyabel",
+            "repo": "detpro",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PromptDet: Towards Open-vocabulary Detection using Uncurated Images (ECCV 2022) [paper]",
+          "description": "[website] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-18T03:35:03Z",
+            "owner": "fcjian",
+            "repo": "PromptDet",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distilling DETR with Visual-Linguistic Knowledge for Open-Vocabulary Object Detection (ICCV 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-05T07:56:56Z",
+            "owner": "hikvision-research",
+            "repo": "opera",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection (NeurIPS 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-26T09:25:09Z",
+            "owner": "CVMI-Lab",
+            "repo": "CoDet",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection (CVPR 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-24T19:04:30Z",
+            "owner": "naver",
+            "repo": "shine",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploiting Unlabeled Data with Vision and Language Models for Object Detection (ECCV 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-16T22:28:51Z",
+            "owner": "xiaofeng94",
+            "repo": "VL-PLM",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Modal Classifiers for Open-Vocabulary Object Detection (ICML 2023) [paper]",
+          "description": "[code (eval)]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-22T01:09:07Z",
+            "owner": "prannaykaul",
+            "repo": "mm-ovod",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Language-conditioned Detection Transformer (arxiv 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-17T05:16:57Z",
+            "owner": "janghyuncho",
+            "repo": "DECOLA",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning (ECCV 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-15T08:46:45Z",
+            "owner": "VisionXLab",
+            "repo": "CastDet",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enhancing Novel Object Detection via Cooperative Foundational Models （WACV 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-02T15:18:16Z",
+            "owner": "rohit901",
+            "repo": "cooperative-foundational-models",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection (ICCV 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-29T07:25:27Z",
+            "owner": "wengminghe",
+            "repo": "Dynamic-DINO",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The devil is in the fine-grained details: Evaluating open-vocabulary object detectors for fine-grained understanding (CVPR 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-04T14:57:44Z",
+            "owner": "lorebianchi98",
+            "repo": "FG-OVD",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Vocabulary Object Detection with Pseudo Bounding-Box Labels (ECCV 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-06-25T16:28:23Z",
+            "owner": "salesforce",
+            "repo": "PB-OVD",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection (CVPR 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-06T07:18:36Z",
+            "owner": "LutingWang",
+            "repo": "OADP",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to Evaluate the Generalization of Detection? A Benchmark for Comprehensive Open-Vocabulary Detection (arxiv 2023) [paper]",
+          "description": "[dataset]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-10T10:34:59Z",
+            "owner": "om-ai-lab",
+            "repo": "OVDEval",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Retrieval-Augmented Open-Vocabulary Object Detection (CVPR 2024) [paper]",
+          "description": "[code (TBD)]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-12T08:30:27Z",
+            "owner": "mlvlab",
+            "repo": "RALF",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-Vocabulary Instance Segmentation via Robust Cross-Modal Pseudo-Labeling (CVPR 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-10T23:24:22Z",
+            "owner": "hbdat",
+            "repo": "cvpr22_cross_modal_pseudo_labeling",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DitHub: A Modular Framework for Incremental Open-Vocabulary Object Detection (NeurIPS 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-06T11:56:04Z",
+            "owner": "chiara-cap",
+            "repo": "DitHub",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-Vocabulary One-Stage Detection With Hierarchical Visual-Language Knowledge Distillation (CVPR 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-25T15:04:45Z",
+            "owner": "mengqiDyangge",
+            "repo": "HierKD",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OV-DQUO: Open-Vocabulary DETR with Denoising Text Query Training and Open-World Unknown Objects Supervision (arxiv 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-15T10:35:32Z",
+            "owner": "xiaomoguhz",
+            "repo": "OV-DQUO",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection (arxiv 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-03T13:12:50Z",
+            "owner": "xushilin1",
+            "repo": "dst-det",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLIFF: Continual Latent Diffusion for Open-Vocabulary Object Detection (ECCV 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-26T05:15:31Z",
+            "owner": "CUHK-AIM-Group",
+            "repo": "CLIFF",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLIM: Contrastive Language-Image Mosaic for Region Representation (AAAI 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-04T13:00:28Z",
+            "owner": "wusize",
+            "repo": "CLIM",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Image-level Classification Improves Open-vocabulary Object Detection (arxiv 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-12T13:36:27Z",
+            "owner": "mala-lab",
+            "repo": "SIC-CADS",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LP-OVOD: Open-Vocabulary Object Detection by Linear Probing (WACV 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-23T02:43:04Z",
+            "owner": "VinAIResearch",
+            "repo": "LP-OVOD",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Vocabulary Object Detection with Proposal Mining and Prediction Equalization (arXiv 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-23T18:00:09Z",
+            "owner": "PeixianChen",
+            "repo": "MEDet",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taming Self-Training for Open-Vocabulary Object Detection (CVPR 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-30T00:17:52Z",
+            "owner": "xiaofeng94",
+            "repo": "SAS-Det",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Localized Vision-Language Matching for Open-vocabulary Object Detection (GCPR 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-11T09:14:28Z",
+            "owner": "lmb-freiburg",
+            "repo": "locov",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Training-free Boost for Open-Vocabulary Object Detection with Confidence Aggregation (arxiv 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-15T02:56:00Z",
+            "owner": "WarlockWendell",
+            "repo": "AggDet",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MarvelOVD: Marrying Object Recognition and Vision-Language Models for Robust Open-Vocabulary Object Detection (ECCV 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-04T16:21:07Z",
+            "owner": "wkfdb",
+            "repo": "MarvelOVD",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSD: Unified Open-Vocabulary Segmentation and Detection (arxiv 2023) [paper]",
+          "description": "[code (TBD)]",
+          "children": []
+        }
+      ],
+      "title": "Open-Vocabulary Object Detection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework (ICML 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-24T06:20:34Z",
+            "owner": "OFA-Sys",
+            "repo": "OFA",
+            "stars": 2558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities (arxiv 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-06T04:13:22Z",
+            "owner": "OFA-Sys",
+            "repo": "ONE-PEACE",
+            "stars": 1062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding (ICCV 2021) [paper]",
+          "description": "[website] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-03T19:35:46Z",
+            "owner": "ashkamath",
+            "repo": "mdetr",
+            "stars": 1052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unleashing Text-to-Image Diffusion Models for Visual Perception (ICCV 2023) [paper]",
+          "description": "[website] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-21T02:22:30Z",
+            "owner": "wl-zhao",
+            "repo": "VPD",
+            "stars": 541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks (ICLR 2023) [paper]",
+          "description": "[code (eval)]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-18T22:01:21Z",
+            "owner": "allenai",
+            "repo": "unified-io-inference",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PolyFormer: Referring Image Segmentation as Sequential Polygon Generation (CVPR 2023) [paper]",
+          "description": "[website] [code] [demo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-19T18:11:50Z",
+            "owner": "amazon-science",
+            "repo": "polygon-transformer",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding (CVPR 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-13T14:06:56Z",
+            "owner": "LeapLabTHU",
+            "repo": "Pseudo-Q",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeqTR: A Simple yet Universal Network for Visual Grounding (ECCV 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-30T02:51:46Z",
+            "owner": "seanzhuh",
+            "repo": "SeqTR",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding (TMM 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-10T05:37:24Z",
+            "owner": "linhuixiao",
+            "repo": "CLIP-VG",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improving Visual Grounding with Visual-Linguistic Verification and Iterative Reasoning (CVPR 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-02T09:13:32Z",
+            "owner": "yangli18",
+            "repo": "VLTVG",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GroundVLP: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection (arxiv 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-10T07:11:04Z",
+            "owner": "om-ai-lab",
+            "repo": "GroundVLP",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring (ICCV 2021) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-22T09:22:00Z",
+            "owner": "CurryYuan",
+            "repo": "InstanceRefer",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Referring Transformer: A One-step Approach to Multi-task Visual Grounding (NeurIPS 2021) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-26T17:15:50Z",
+            "owner": "ubc-vision",
+            "repo": "RefTR",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding (arxiv 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-10T05:37:37Z",
+            "owner": "linhuixiao",
+            "repo": "HiVG",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DQ-DETR: Dual Query Detection Transformer for Phrase Extraction and Grounding (AAAI 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-28T16:47:25Z",
+            "owner": "IDEA-Research",
+            "repo": "DQ-DETR",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models (arxiv 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-24T16:13:40Z",
+            "owner": "avaxiao",
+            "repo": "TextRegion",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advancing Visual Grounding With Scene Knowledge: Benchmark and Method (CVPR 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-12T13:13:55Z",
+            "owner": "zhjohnchan",
+            "repo": "SK-VG",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OV-VG: A Benchmark for Open-Vocabulary Visual Grounding (arxiv 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-25T08:34:23Z",
+            "owner": "cv516Buaa",
+            "repo": "OV-VG",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Context Disentangling and Prototype Inheriting for Robust Visual Grounding (TPAMI 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-08T10:35:02Z",
+            "owner": "WayneTomas",
+            "repo": "TransCP",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual Grounding with Transformers (ICME 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-27T04:58:23Z",
+            "owner": "usr922",
+            "repo": "vgtr",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Modal Dynamic Graph Transformer for Visual Grounding (CVPR 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-26T16:24:53Z",
+            "owner": "iQua",
+            "repo": "M-DGT",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MC-Bench: A Benchmark for Multi-Context Visual Grounding in the Era of MLLMs (arxiv 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-22T22:17:13Z",
+            "owner": "XuYunqiu",
+            "repo": "MC-Bench",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Continual Referring Expression Comprehension via Dual Modular Memorization (arxiv 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-15T02:37:12Z",
+            "owner": "zackschen",
+            "repo": "DMM",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Perspective Cross-Modal Object Encoding for Referring Expression Comprehension (TIP 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-28T08:39:36Z",
+            "owner": "freedom6927",
+            "repo": "ELR_CCS",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Language-Guided Diffusion Model for Visual Grounding (arxiv 2023) [paper]",
+          "description": "[code (TBD)]",
+          "children": []
+        }
+      ],
+      "title": "Referring Expression Comprehension/Visual Grounding"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets for DOD and Similar Tasks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Detection Datasets"
+    },
+    {
+      "description": "Some survey papers regarding relevant tasks (open-vocabulary learning, etc.)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Towards Open Vocabulary Learning: A Survey (TPAMI 2024) [paper]",
+          "description": "[repo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-12T06:41:25Z",
+            "owner": "jianzongwu",
+            "repo": "Awesome-Open-Vocabulary",
+            "stars": 1002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Visual Grounding: A Survey (arxiv 2024) [paper]",
+          "description": "[repo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-11-18T03:39:01Z",
+            "owner": "linhuixiao",
+            "repo": "Awesome-Visual-Grounding",
+            "stars": 323
+          }
+        }
+      ],
+      "title": "Grounding Datasets"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:16.636Z",
+    "original_repository": "Charles-Xie/awesome-described-object-detection",
+    "original_repository_sha": "2a10281ef3abd4100dc530688c16ea18e5404e3c",
+    "enhanced_repository": "enhansome/enhansome-described-object-detection",
+    "enhanced_repository_description": null,
+    "title": "Awesome Described Object Detection with stars"
+  }
+}
