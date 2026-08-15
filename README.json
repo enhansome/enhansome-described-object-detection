@@ -14,7 +14,7 @@
             "last_commit": "2024-08-21T02:01:07Z",
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32876
+            "stars": 32875
           }
         },
         {
@@ -199,10 +199,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T19:06:46Z",
+            "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38531
+            "stars": 38540
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22187
+            "stars": 22189
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2024-08-12T08:52:02Z",
             "owner": "IDEA-Research",
             "repo": "GroundingDINO",
-            "stars": 10499
+            "stars": 10498
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2023-07-18T13:02:16Z",
             "owner": "MasterBin-IIAU",
             "repo": "UNINEXT",
-            "stars": 1278
+            "stars": 1279
           }
         },
         {
@@ -387,10 +387,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T19:06:46Z",
+            "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38531
+            "stars": 38540
           }
         },
         {
@@ -401,10 +401,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T19:06:46Z",
+            "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38531
+            "stars": 38540
           }
         },
         {
@@ -418,7 +418,7 @@
             "last_commit": "2025-02-26T18:29:03Z",
             "owner": "AILab-CVC",
             "repo": "YOLO-World",
-            "stars": 6509
+            "stars": 6510
           }
         },
         {
@@ -530,7 +530,7 @@
             "last_commit": "2024-01-22T14:12:04Z",
             "owner": "IDEA-Research",
             "repo": "OpenSeeD",
-            "stars": 762
+            "stars": 763
           }
         },
         {
@@ -1482,7 +1482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:05:55.568Z",
+    "last_updated": "2026-08-15T19:49:35.753Z",
     "original_repository": "Charles-Xie/awesome-described-object-detection",
     "original_repository_sha": "2a10281ef3abd4100dc530688c16ea18e5404e3c",
     "enhanced_repository": "enhansome/enhansome-described-object-detection",
