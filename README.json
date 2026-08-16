@@ -14,7 +14,7 @@
             "last_commit": "2024-08-21T02:01:07Z",
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32875
+            "stars": 32879
           }
         },
         {
@@ -199,10 +199,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T22:49:14Z",
+            "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38540
+            "stars": 38547
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22189
+            "stars": 22190
           }
         },
         {
@@ -387,10 +387,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T22:49:14Z",
+            "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38540
+            "stars": 38547
           }
         },
         {
@@ -401,10 +401,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T22:49:14Z",
+            "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38540
+            "stars": 38547
           }
         },
         {
@@ -418,7 +418,7 @@
             "last_commit": "2025-02-26T18:29:03Z",
             "owner": "AILab-CVC",
             "repo": "YOLO-World",
-            "stars": 6510
+            "stars": 6511
           }
         },
         {
@@ -1482,7 +1482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:49:35.753Z",
+    "last_updated": "2026-08-16T19:48:59.809Z",
     "original_repository": "Charles-Xie/awesome-described-object-detection",
     "original_repository_sha": "2a10281ef3abd4100dc530688c16ea18e5404e3c",
     "enhanced_repository": "enhansome/enhansome-described-object-detection",
