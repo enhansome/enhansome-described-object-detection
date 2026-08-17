@@ -14,7 +14,7 @@
             "last_commit": "2024-08-21T02:01:07Z",
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32879
+            "stars": 32882
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-07T01:50:29Z",
             "owner": "om-ai-lab",
             "repo": "VLM-R1",
-            "stars": 6016
+            "stars": 6015
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-07-08T03:58:03Z",
             "owner": "sunzc-sunny",
             "repo": "refdrone",
-            "stars": 45
+            "stars": 47
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38547
+            "stars": 38567
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22190
+            "stars": 22189
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2024-08-12T08:52:02Z",
             "owner": "IDEA-Research",
             "repo": "GroundingDINO",
-            "stars": 10498
+            "stars": 10500
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2023-07-18T13:02:16Z",
             "owner": "MasterBin-IIAU",
             "repo": "UNINEXT",
-            "stars": 1279
+            "stars": 1278
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38547
+            "stars": 38567
           }
         },
         {
@@ -404,7 +404,7 @@
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38547
+            "stars": 38567
           }
         },
         {
@@ -418,7 +418,7 @@
             "last_commit": "2025-02-26T18:29:03Z",
             "owner": "AILab-CVC",
             "repo": "YOLO-World",
-            "stars": 6511
+            "stars": 6513
           }
         },
         {
@@ -1116,7 +1116,7 @@
             "last_commit": "2024-10-06T04:13:22Z",
             "owner": "OFA-Sys",
             "repo": "ONE-PEACE",
-            "stars": 1061
+            "stars": 1060
           }
         },
         {
@@ -1482,7 +1482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:48:59.809Z",
+    "last_updated": "2026-08-17T19:54:35.108Z",
     "original_repository": "Charles-Xie/awesome-described-object-detection",
     "original_repository_sha": "2a10281ef3abd4100dc530688c16ea18e5404e3c",
     "enhanced_repository": "enhansome/enhansome-described-object-detection",
