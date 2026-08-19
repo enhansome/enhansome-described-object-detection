@@ -17,7 +17,7 @@
                 "last_commit": "2024-08-21T02:01:07Z",
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32883
+                "stars": 32884
               }
             },
             {
@@ -214,7 +214,7 @@
                     "last_commit": "2026-08-16T18:45:46Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38579
+                    "stars": 38580
                   }
                 },
                 {
@@ -244,7 +244,7 @@
                     "last_commit": "2024-08-12T08:52:02Z",
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10502
+                    "stars": 10503
                   }
                 },
                 {
@@ -421,7 +421,7 @@
                 "last_commit": "2026-08-16T18:45:46Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38579
+                "stars": 38580
               }
             },
             {
@@ -436,7 +436,7 @@
                 "last_commit": "2026-08-16T18:45:46Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38579
+                "stars": 38580
               }
             },
             {
@@ -1318,21 +1318,6 @@
             },
             {
               "node_type": "item",
-              "title": "GroundVLP: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection (arxiv 2023) [paper]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 732911173,
-                "language": "Jupyter Notebook",
-                "last_commit": "2026-04-10T07:11:04Z",
-                "owner": "om-ai-lab",
-                "repo": "GroundVLP",
-                "stars": 74
-              }
-            },
-            {
-              "node_type": "item",
               "title": "InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring (ICCV 2021) [paper]",
               "description": "[code]",
               "children": [],
@@ -1344,6 +1329,21 @@
                 "owner": "CurryYuan",
                 "repo": "InstanceRefer",
                 "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GroundVLP: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection (arxiv 2023) [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732911173,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-04-10T07:11:04Z",
+                "owner": "om-ai-lab",
+                "repo": "GroundVLP",
+                "stars": 73
               }
             },
             {
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:27:12.517Z",
+    "last_updated": "2026-08-19T19:53:43.108Z",
     "original_repository": "Charles-Xie/awesome-described-object-detection",
     "original_repository_id": 688454620,
     "original_repository_sha": "2a10281ef3abd4100dc530688c16ea18e5404e3c",
