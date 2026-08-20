@@ -17,7 +17,7 @@
                 "last_commit": "2024-08-21T02:01:07Z",
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32884
+                "stars": 32887
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2024-05-08T01:41:00Z",
                 "owner": "shenyunhang",
                 "repo": "APE",
-                "stars": 609
+                "stars": 610
               }
             },
             {
@@ -211,10 +211,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-16T18:45:46Z",
+                    "last_commit": "2026-08-19T20:48:11Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38580
+                    "stars": 38589
                   }
                 },
                 {
@@ -244,7 +244,7 @@
                     "last_commit": "2024-08-12T08:52:02Z",
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10503
+                    "stars": 10505
                   }
                 },
                 {
@@ -259,7 +259,7 @@
                     "last_commit": "2024-10-09T02:40:44Z",
                     "owner": "apple",
                     "repo": "ml-ferret",
-                    "stars": 8674
+                    "stars": 8675
                   }
                 },
                 {
@@ -274,7 +274,7 @@
                     "last_commit": "2024-08-07T02:37:06Z",
                     "owner": "QwenLM",
                     "repo": "Qwen-VL",
-                    "stars": 6726
+                    "stars": 6728
                   }
                 },
                 {
@@ -304,7 +304,7 @@
                     "last_commit": "2023-07-18T13:02:16Z",
                     "owner": "MasterBin-IIAU",
                     "repo": "UNINEXT",
-                    "stars": 1277
+                    "stars": 1278
                   }
                 },
                 {
@@ -418,10 +418,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-16T18:45:46Z",
+                "last_commit": "2026-08-19T20:48:11Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38580
+                "stars": 38589
               }
             },
             {
@@ -433,10 +433,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-16T18:45:46Z",
+                "last_commit": "2026-08-19T20:48:11Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38580
+                "stars": 38589
               }
             },
             {
@@ -451,7 +451,7 @@
                 "last_commit": "2025-02-26T18:29:03Z",
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6516
+                "stars": 6517
               }
             },
             {
@@ -571,7 +571,7 @@
                 "last_commit": "2024-01-22T14:12:04Z",
                 "owner": "IDEA-Research",
                 "repo": "OpenSeeD",
-                "stars": 764
+                "stars": 765
               }
             },
             {
@@ -951,6 +951,21 @@
             },
             {
               "node_type": "item",
+              "title": "OV-DQUO: Open-Vocabulary DETR with Denoising Text Query Training and Open-World Unknown Objects Supervision (arxiv 2024) [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 903701441,
+                "language": "Python",
+                "last_commit": "2024-12-15T10:35:32Z",
+                "owner": "xiaomoguhz",
+                "repo": "OV-DQUO",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Open-Vocabulary Instance Segmentation via Robust Cross-Modal Pseudo-Labeling (CVPR 2022) [paper]",
               "description": "[code]",
               "children": [],
@@ -992,21 +1007,6 @@
                 "owner": "mengqiDyangge",
                 "repo": "HierKD",
                 "stars": 39
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "OV-DQUO: Open-Vocabulary DETR with Denoising Text Query Training and Open-World Unknown Objects Supervision (arxiv 2024) [paper]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 903701441,
-                "language": "Python",
-                "last_commit": "2024-12-15T10:35:32Z",
-                "owner": "xiaomoguhz",
-                "repo": "OV-DQUO",
-                "stars": 37
               }
             },
             {
@@ -1729,7 +1729,7 @@
             "last_commit": "2025-11-18T03:39:01Z",
             "owner": "linhuixiao",
             "repo": "Awesome-Visual-Grounding",
-            "stars": 323
+            "stars": 324
           }
         },
         {
@@ -1744,7 +1744,7 @@
             "last_commit": "2025-09-21T10:32:22Z",
             "owner": "TheShadow29",
             "repo": "awesome-grounding",
-            "stars": 1126
+            "stars": 1127
           }
         },
         {
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:53:43.108Z",
+    "last_updated": "2026-08-20T19:58:30.005Z",
     "original_repository": "Charles-Xie/awesome-described-object-detection",
     "original_repository_id": 688454620,
     "original_repository_sha": "2a10281ef3abd4100dc530688c16ea18e5404e3c",
