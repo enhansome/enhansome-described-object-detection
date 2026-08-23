@@ -214,7 +214,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38597
+                    "stars": 38606
                   }
                 },
                 {
@@ -421,7 +421,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38597
+                "stars": 38606
               }
             },
             {
@@ -436,7 +436,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38597
+                "stars": 38606
               }
             },
             {
@@ -451,7 +451,7 @@
                 "last_commit": "2025-02-26T18:29:03Z",
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6522
+                "stars": 6525
               }
             },
             {
@@ -876,6 +876,21 @@
             },
             {
               "node_type": "item",
+              "title": "OV-DQUO: Open-Vocabulary DETR with Denoising Text Query Training and Open-World Unknown Objects Supervision (arxiv 2024) [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 903701441,
+                "language": "Python",
+                "last_commit": "2024-12-15T10:35:32Z",
+                "owner": "xiaomoguhz",
+                "repo": "OV-DQUO",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
               "title": "The devil is in the fine-grained details: Evaluating open-vocabulary object detectors for fine-grained understanding (CVPR 2024) [paper]",
               "description": "[code]",
               "children": [],
@@ -902,21 +917,6 @@
                 "owner": "salesforce",
                 "repo": "PB-OVD",
                 "stars": 65
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "OV-DQUO: Open-Vocabulary DETR with Denoising Text Query Training and Open-World Unknown Objects Supervision (arxiv 2024) [paper]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 903701441,
-                "language": "Python",
-                "last_commit": "2024-12-15T10:35:32Z",
-                "owner": "xiaomoguhz",
-                "repo": "OV-DQUO",
-                "stars": 64
               }
             },
             {
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:51:03.041Z",
+    "last_updated": "2026-08-23T19:50:18.751Z",
     "original_repository": "Charles-Xie/awesome-described-object-detection",
     "original_repository_id": 688454620,
     "original_repository_sha": "2a10281ef3abd4100dc530688c16ea18e5404e3c",
