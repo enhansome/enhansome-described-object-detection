@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-07T01:50:29Z",
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6014
+                "stars": 6015
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2024-01-24T04:56:27Z",
                 "owner": "microsoft",
                 "repo": "GLIP",
-                "stars": 2606
+                "stars": 2607
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2024-01-24T04:56:27Z",
                 "owner": "microsoft",
                 "repo": "GLIP",
-                "stars": 2606
+                "stars": 2607
               }
             },
             {
@@ -214,7 +214,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38606
+                    "stars": 38611
                   }
                 },
                 {
@@ -229,7 +229,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22194
+                    "stars": 22195
                   }
                 },
                 {
@@ -244,7 +244,7 @@
                     "last_commit": "2024-08-12T08:52:02Z",
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10511
+                    "stars": 10514
                   }
                 },
                 {
@@ -259,7 +259,7 @@
                     "last_commit": "2024-10-09T02:40:44Z",
                     "owner": "apple",
                     "repo": "ml-ferret",
-                    "stars": 8675
+                    "stars": 8674
                   }
                 },
                 {
@@ -421,7 +421,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38606
+                "stars": 38611
               }
             },
             {
@@ -436,7 +436,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38606
+                "stars": 38611
               }
             },
             {
@@ -451,7 +451,7 @@
                 "last_commit": "2025-02-26T18:29:03Z",
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6525
+                "stars": 6529
               }
             },
             {
@@ -616,7 +616,7 @@
                 "last_commit": "2025-03-12T04:14:39Z",
                 "owner": "wanghao9610",
                 "repo": "OV-DINO",
-                "stars": 410
+                "stars": 411
               }
             },
             {
@@ -886,7 +886,7 @@
                 "last_commit": "2024-12-15T10:35:32Z",
                 "owner": "xiaomoguhz",
                 "repo": "OV-DQUO",
-                "stars": 72
+                "stars": 79
               }
             },
             {
@@ -1700,6 +1700,303 @@
       "title": "Awesome Papers"
     },
     {
+      "description": "This part is still in progress.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "$D^3$",
+              "description": "Described Object Detection: Liberating Object Detection with Flexible Expressions (NeurIPS 2023) - Github eval only -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 668201182,
+                "language": "Python",
+                "last_commit": "2024-03-20T02:19:35Z",
+                "owner": "shikras",
+                "repo": "d-cube",
+                "stars": 138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OmniLabel",
+              "description": "OmniLabel: A Challenging Benchmark for Language-Based Object Detection (ICCV 2023) Project Github eval only -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 598398213,
+                "language": "Python",
+                "last_commit": "2025-02-01T01:29:06Z",
+                "owner": "samschulter",
+                "repo": "omnilabeltools",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OVDEval",
+              "description": "How to Evaluate the Generalization of Detection? A Benchmark for Comprehensive Open-Vocabulary Detection (AAAI 2024) - Github eval only -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 679041241,
+                "language": "Python",
+                "last_commit": "2026-04-10T10:34:59Z",
+                "owner": "om-ai-lab",
+                "repo": "OVDEval",
+                "stars": 63
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datasets for DOD and Similar Tasks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bamboo",
+              "description": "Bamboo: Building Mega-Scale Vision Dataset Continually with Human-Machine Synergy OD - Github detector pretraining build upon public datasets; 69M image classification annotations and 32M object bounding boxes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469003163,
+                "language": "Python",
+                "last_commit": "2024-04-07T02:55:17Z",
+                "owner": "ZhangYuanhan-AI",
+                "repo": "Bamboo",
+                "stars": 180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BigDetection",
+              "description": "BigDetection: A Large-scale Benchmark for Improved Object Detector Pre-training (CVPR 2022 Workshop) OD - Github detector pretraining -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 465210616,
+                "language": "Python",
+                "last_commit": "2024-10-23T17:41:21Z",
+                "owner": "amazon-science",
+                "repo": "bigdetection",
+                "stars": 399
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LVIS",
+              "description": "LVIS: A Dataset for Large Vocabulary Instance Segmentation (CVPR 2019) OD&OVD Link Github train & eval long-tail; federated annotation; also used for OVD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201142472,
+                "language": "Python",
+                "last_commit": "2024-02-21T00:43:47Z",
+                "owner": "lvis-dataset",
+                "repo": "lvis-api",
+                "stars": 429
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "COCO",
+              "description": "Microsoft COCO: Common Objects in Context (ECCV 2014) OD&OVD Link Github train & eval also used for OVD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29829603,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-04-17T05:14:06Z",
+                "owner": "cocodataset",
+                "repo": "cocoapi",
+                "stars": 6383
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Detection Datasets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GRIT (Ground-and-Refer Instruction-Tuning)",
+              "description": "Ferret: Refer and Ground Anything Anywhere at Any Granularity (arxiv 2023) ground-and-refer - Github instruction tuning 1.1M samples",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 701540574,
+                "language": "Python",
+                "last_commit": "2024-10-09T02:40:44Z",
+                "owner": "apple",
+                "repo": "ml-ferret",
+                "stars": 8674
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ferret-Bench",
+              "description": "Ferret: Refer and Ground Anything Anywhere at Any Granularity (arxiv 2023) ground-and-refer - Github eval only -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 701540574,
+                "language": "Python",
+                "last_commit": "2024-10-09T02:40:44Z",
+                "owner": "apple",
+                "repo": "ml-ferret",
+                "stars": 8674
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GRIT (Grounded Image-Text)",
+              "description": "Kosmos-2: Grounding Multimodal Large Language Models to the World (arxiv 2023) visual grounding (REC & Phrase Grounding) - Github Huggingface train only created based on image-text pairs from a subset of COYO-700M and LAION-2B; 20.5M",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198350484,
+                "language": "Python",
+                "last_commit": "2026-01-23T04:09:35Z",
+                "owner": "microsoft",
+                "repo": "unilm",
+                "stars": 22195
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SK-VG",
+              "description": "Advancing Visual Grounding With Scene Knowledge: Benchmark and Method (CVPR 2023) REC - Github train & eval scene knowledge in natural language is required",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 611588059,
+                "language": null,
+                "last_commit": "2023-07-12T13:13:55Z",
+                "owner": "zhjohnchan",
+                "repo": "SK-VG",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GRiT (General Robust Image Task)",
+              "description": "GRIT: General Robust Image Task Benchmark (arxiv 2022) REC Link Github eval only -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 459296055,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-03-29T20:42:42Z",
+                "owner": "allenai",
+                "repo": "grit_official",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cops-Ref",
+              "description": "Cops-Ref: A new Dataset and Task on Compositional Referring Expression Comprehension (CVPR 2020) Compositional REC - Github eval only A variant of REC",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247587772,
+                "language": null,
+                "last_commit": "2024-07-11T16:54:21Z",
+                "owner": "zfchenUnique",
+                "repo": "Cops-Ref",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Visual Genome",
+              "description": "Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations (IJCV 2017) OD & Phrase Grounding Link Github multiple multi-modal tasks (including REC)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43793466,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-09-21T20:39:56Z",
+                "owner": "ranjaykrishna",
+                "repo": "visual_genome_python_driver",
+                "stars": 371
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RefCOCOg",
+              "description": "Generation and Comprehension of Unambiguous Object Descriptions (CVPR 2016) REC - Github train & eval images from COCO",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47009782,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-03-01T23:57:39Z",
+                "owner": "mjhucla",
+                "repo": "Google_Refexp_toolbox",
+                "stars": 166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RefClef",
+              "description": "ReferItGame: Referring to Objects in Photographs of Natural Scenes (EMNLP 2014) REC - Github train & eval -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54487819,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-08-27T08:53:26Z",
+                "owner": "lichengunc",
+                "repo": "refer",
+                "stars": 576
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RefCOCO+",
+              "description": "ReferItGame: Referring to Objects in Photographs of Natural Scenes (EMNLP 2014) REC - Github train & eval images from COCO",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54487819,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-08-27T08:53:26Z",
+                "owner": "lichengunc",
+                "repo": "refer",
+                "stars": 576
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RefCOCO",
+              "description": "ReferItGame: Referring to Objects in Photographs of Natural Scenes (EMNLP 2014) REC - Github train & eval images from COCO",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54487819,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-08-27T08:53:26Z",
+                "owner": "lichengunc",
+                "repo": "refer",
+                "stars": 576
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Grounding Datasets"
+        }
+      ],
+      "title": "Awesome Datasets"
+    },
+    {
       "description": "Some survey papers regarding relevant tasks (open-vocabulary learning, etc.)\nSome similar github repos like awesome lists:",
       "items": [
         {
@@ -1797,7 +2094,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:50:18.751Z",
+    "last_updated": "2026-08-24T14:29:20.016Z",
     "original_repository": "Charles-Xie/awesome-described-object-detection",
     "original_repository_id": 688454620,
     "original_repository_sha": "2a10281ef3abd4100dc530688c16ea18e5404e3c",
