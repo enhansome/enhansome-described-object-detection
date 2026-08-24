@@ -17,7 +17,7 @@
                 "last_commit": "2024-08-21T02:01:07Z",
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32888
+                "stars": 32887
               }
             },
             {
@@ -229,7 +229,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22195
+                    "stars": 22194
                   }
                 },
                 {
@@ -886,7 +886,7 @@
                 "last_commit": "2024-12-15T10:35:32Z",
                 "owner": "xiaomoguhz",
                 "repo": "OV-DQUO",
-                "stars": 79
+                "stars": 80
               }
             },
             {
@@ -1865,7 +1865,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22195
+                "stars": 22194
               }
             },
             {
@@ -2094,7 +2094,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:29:20.016Z",
+    "last_updated": "2026-08-24T19:58:16.526Z",
     "original_repository": "Charles-Xie/awesome-described-object-detection",
     "original_repository_id": 688454620,
     "original_repository_sha": "2a10281ef3abd4100dc530688c16ea18e5404e3c",
