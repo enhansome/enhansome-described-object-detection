@@ -17,7 +17,7 @@
                 "last_commit": "2024-08-21T02:01:07Z",
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32887
+                "stars": 32888
               }
             },
             {
@@ -214,7 +214,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38611
+                    "stars": 38614
                   }
                 },
                 {
@@ -229,7 +229,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22194
+                    "stars": 22193
                   }
                 },
                 {
@@ -421,7 +421,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -436,7 +436,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -846,6 +846,21 @@
             },
             {
               "node_type": "item",
+              "title": "OV-DQUO: Open-Vocabulary DETR with Denoising Text Query Training and Open-World Unknown Objects Supervision (arxiv 2024) [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 903701441,
+                "language": "Python",
+                "last_commit": "2024-12-15T10:35:32Z",
+                "owner": "xiaomoguhz",
+                "repo": "OV-DQUO",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Enhancing Novel Object Detection via Cooperative Foundational Models （WACV 2025) [paper]",
               "description": "[code]",
               "children": [],
@@ -872,21 +887,6 @@
                 "owner": "wengminghe",
                 "repo": "Dynamic-DINO",
                 "stars": 81
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "OV-DQUO: Open-Vocabulary DETR with Denoising Text Query Training and Open-World Unknown Objects Supervision (arxiv 2024) [paper]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 903701441,
-                "language": "Python",
-                "last_commit": "2024-12-15T10:35:32Z",
-                "owner": "xiaomoguhz",
-                "repo": "OV-DQUO",
-                "stars": 80
               }
             },
             {
@@ -1813,7 +1813,7 @@
                 "last_commit": "2024-04-17T05:14:06Z",
                 "owner": "cocodataset",
                 "repo": "cocoapi",
-                "stars": 6383
+                "stars": 6384
               }
             }
           ],
@@ -1865,7 +1865,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22194
+                "stars": 22193
               }
             },
             {
@@ -2011,7 +2011,7 @@
             "last_commit": "2026-05-12T06:41:25Z",
             "owner": "jianzongwu",
             "repo": "Awesome-Open-Vocabulary",
-            "stars": 1000
+            "stars": 1001
           }
         },
         {
@@ -2094,7 +2094,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:58:16.526Z",
+    "last_updated": "2026-08-25T06:18:45.946Z",
     "original_repository": "Charles-Xie/awesome-described-object-detection",
     "original_repository_id": 688454620,
     "original_repository_sha": "2a10281ef3abd4100dc530688c16ea18e5404e3c",
