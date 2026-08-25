@@ -17,7 +17,7 @@
                 "last_commit": "2024-08-21T02:01:07Z",
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32888
+                "stars": 32892
               }
             },
             {
@@ -211,10 +211,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-21T19:58:51Z",
+                    "last_commit": "2026-08-25T18:30:01Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38614
+                    "stars": 38618
                   }
                 },
                 {
@@ -244,7 +244,7 @@
                     "last_commit": "2024-08-12T08:52:02Z",
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10514
+                    "stars": 10515
                   }
                 },
                 {
@@ -289,7 +289,7 @@
                     "last_commit": "2025-01-13T06:05:22Z",
                     "owner": "Alpha-VLLM",
                     "repo": "LLaMA2-Accessory",
-                    "stars": 2801
+                    "stars": 2800
                   }
                 },
                 {
@@ -418,10 +418,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:58:51Z",
+                "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38614
+                "stars": 38618
               }
             },
             {
@@ -433,10 +433,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:58:51Z",
+                "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38614
+                "stars": 38618
               }
             },
             {
@@ -571,7 +571,7 @@
                 "last_commit": "2024-01-22T14:12:04Z",
                 "owner": "IDEA-Research",
                 "repo": "OpenSeeD",
-                "stars": 765
+                "stars": 764
               }
             },
             {
@@ -816,6 +816,21 @@
             },
             {
               "node_type": "item",
+              "title": "OV-DQUO: Open-Vocabulary DETR with Denoising Text Query Training and Open-World Unknown Objects Supervision (arxiv 2024) [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 903701441,
+                "language": "Python",
+                "last_commit": "2024-12-15T10:35:32Z",
+                "owner": "xiaomoguhz",
+                "repo": "OV-DQUO",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Language-conditioned Detection Transformer (arxiv 2023) [paper]",
               "description": "[code]",
               "children": [],
@@ -841,21 +856,6 @@
                 "last_commit": "2026-03-15T08:46:45Z",
                 "owner": "VisionXLab",
                 "repo": "CastDet",
-                "stars": 85
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "OV-DQUO: Open-Vocabulary DETR with Denoising Text Query Training and Open-World Unknown Objects Supervision (arxiv 2024) [paper]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 903701441,
-                "language": "Python",
-                "last_commit": "2024-12-15T10:35:32Z",
-                "owner": "xiaomoguhz",
-                "repo": "OV-DQUO",
                 "stars": 85
               }
             },
@@ -1813,7 +1813,7 @@
                 "last_commit": "2024-04-17T05:14:06Z",
                 "owner": "cocodataset",
                 "repo": "cocoapi",
-                "stars": 6384
+                "stars": 6385
               }
             }
           ],
@@ -2011,7 +2011,7 @@
             "last_commit": "2026-05-12T06:41:25Z",
             "owner": "jianzongwu",
             "repo": "Awesome-Open-Vocabulary",
-            "stars": 1001
+            "stars": 1002
           }
         },
         {
@@ -2094,7 +2094,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:18:45.946Z",
+    "last_updated": "2026-08-25T19:58:16.300Z",
     "original_repository": "Charles-Xie/awesome-described-object-detection",
     "original_repository_id": 688454620,
     "original_repository_sha": "2a10281ef3abd4100dc530688c16ea18e5404e3c",
