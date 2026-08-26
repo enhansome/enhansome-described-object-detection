@@ -214,7 +214,7 @@
                     "last_commit": "2026-08-25T18:30:01Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38618
+                    "stars": 38625
                   }
                 },
                 {
@@ -226,10 +226,10 @@
                     "archived": false,
                     "id": 198350484,
                     "language": "Python",
-                    "last_commit": "2026-01-23T04:09:35Z",
+                    "last_commit": "2026-08-26T08:16:01Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22193
+                    "stars": 22194
                   }
                 },
                 {
@@ -274,7 +274,7 @@
                     "last_commit": "2024-08-07T02:37:06Z",
                     "owner": "QwenLM",
                     "repo": "Qwen-VL",
-                    "stars": 6727
+                    "stars": 6726
                   }
                 },
                 {
@@ -421,7 +421,7 @@
                 "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38618
+                "stars": 38625
               }
             },
             {
@@ -436,7 +436,7 @@
                 "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38618
+                "stars": 38625
               }
             },
             {
@@ -616,7 +616,7 @@
                 "last_commit": "2025-03-12T04:14:39Z",
                 "owner": "wanghao9610",
                 "repo": "OV-DINO",
-                "stars": 411
+                "stars": 412
               }
             },
             {
@@ -646,7 +646,7 @@
                 "last_commit": "2023-02-11T20:04:35Z",
                 "owner": "alirezazareian",
                 "repo": "ovr-cnn",
-                "stars": 249
+                "stars": 248
               }
             },
             {
@@ -771,6 +771,21 @@
             },
             {
               "node_type": "item",
+              "title": "OV-DQUO: Open-Vocabulary DETR with Denoising Text Query Training and Open-World Unknown Objects Supervision (arxiv 2024) [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 903701441,
+                "language": "Python",
+                "last_commit": "2024-12-15T10:35:32Z",
+                "owner": "xiaomoguhz",
+                "repo": "OV-DQUO",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
               "title": "SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection (CVPR 2024) [paper]",
               "description": "[code]",
               "children": [],
@@ -812,21 +827,6 @@
                 "owner": "prannaykaul",
                 "repo": "mm-ovod",
                 "stars": 95
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "OV-DQUO: Open-Vocabulary DETR with Denoising Text Query Training and Open-World Unknown Objects Supervision (arxiv 2024) [paper]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 903701441,
-                "language": "Python",
-                "last_commit": "2024-12-15T10:35:32Z",
-                "owner": "xiaomoguhz",
-                "repo": "OV-DQUO",
-                "stars": 88
               }
             },
             {
@@ -1813,7 +1813,7 @@
                 "last_commit": "2024-04-17T05:14:06Z",
                 "owner": "cocodataset",
                 "repo": "cocoapi",
-                "stars": 6385
+                "stars": 6384
               }
             }
           ],
@@ -1862,10 +1862,10 @@
                 "archived": false,
                 "id": 198350484,
                 "language": "Python",
-                "last_commit": "2026-01-23T04:09:35Z",
+                "last_commit": "2026-08-26T08:16:01Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22193
+                "stars": 22194
               }
             },
             {
@@ -2094,7 +2094,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:58:16.300Z",
+    "last_updated": "2026-08-26T22:27:23.940Z",
     "original_repository": "Charles-Xie/awesome-described-object-detection",
     "original_repository_id": 688454620,
     "original_repository_sha": "2a10281ef3abd4100dc530688c16ea18e5404e3c",
