@@ -17,7 +17,7 @@
                 "last_commit": "2024-08-21T02:01:07Z",
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32892
+                "stars": 32894
               }
             },
             {
@@ -211,10 +211,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-25T18:30:01Z",
+                    "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38625
+                    "stars": 38630
                   }
                 },
                 {
@@ -244,7 +244,7 @@
                     "last_commit": "2024-08-12T08:52:02Z",
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10515
+                    "stars": 10518
                   }
                 },
                 {
@@ -418,10 +418,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:30:01Z",
+                "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38625
+                "stars": 38630
               }
             },
             {
@@ -433,10 +433,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:30:01Z",
+                "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38625
+                "stars": 38630
               }
             },
             {
@@ -451,7 +451,7 @@
                 "last_commit": "2025-02-26T18:29:03Z",
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6529
+                "stars": 6530
               }
             },
             {
@@ -781,7 +781,7 @@
                 "last_commit": "2024-12-15T10:35:32Z",
                 "owner": "xiaomoguhz",
                 "repo": "OV-DQUO",
-                "stars": 104
+                "stars": 111
               }
             },
             {
@@ -2094,9 +2094,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:27:23.940Z",
-    "original_repository": "Charles-Xie/awesome-described-object-detection",
-    "original_repository_id": 688454620,
+    "last_updated": "2026-08-27T11:32:53.446Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 688454620,
+      "language": null,
+      "last_commit": "2025-11-06T06:12:57Z",
+      "owner": "Charles-Xie",
+      "repo": "awesome-described-object-detection",
+      "stars": 360
+    },
     "original_repository_sha": "2a10281ef3abd4100dc530688c16ea18e5404e3c",
     "enhanced_repository": "enhansome/enhansome-described-object-detection",
     "enhanced_repository_description": null,
