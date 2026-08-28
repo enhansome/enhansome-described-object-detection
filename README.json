@@ -214,7 +214,7 @@
                     "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38630
+                    "stars": 38634
                   }
                 },
                 {
@@ -229,7 +229,7 @@
                     "last_commit": "2026-08-26T08:16:01Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22194
+                    "stars": 22196
                   }
                 },
                 {
@@ -244,7 +244,7 @@
                     "last_commit": "2024-08-12T08:52:02Z",
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10518
+                    "stars": 10519
                   }
                 },
                 {
@@ -259,7 +259,7 @@
                     "last_commit": "2024-10-09T02:40:44Z",
                     "owner": "apple",
                     "repo": "ml-ferret",
-                    "stars": 8674
+                    "stars": 8673
                   }
                 },
                 {
@@ -304,7 +304,7 @@
                     "last_commit": "2023-07-18T13:02:16Z",
                     "owner": "MasterBin-IIAU",
                     "repo": "UNINEXT",
-                    "stars": 1278
+                    "stars": 1279
                   }
                 },
                 {
@@ -421,7 +421,7 @@
                 "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38630
+                "stars": 38634
               }
             },
             {
@@ -436,7 +436,7 @@
                 "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38630
+                "stars": 38634
               }
             },
             {
@@ -478,7 +478,7 @@
                 "archived": false,
                 "id": 385275507,
                 "language": "Python",
-                "last_commit": "2026-08-10T09:53:31Z",
+                "last_commit": "2026-08-28T01:41:47Z",
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3821
@@ -493,7 +493,7 @@
                 "archived": false,
                 "id": 385275507,
                 "language": "Python",
-                "last_commit": "2026-08-10T09:53:31Z",
+                "last_commit": "2026-08-28T01:41:47Z",
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3821
@@ -508,7 +508,7 @@
                 "archived": false,
                 "id": 385275507,
                 "language": "Python",
-                "last_commit": "2026-08-10T09:53:31Z",
+                "last_commit": "2026-08-28T01:41:47Z",
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3821
@@ -781,7 +781,7 @@
                 "last_commit": "2024-12-15T10:35:32Z",
                 "owner": "xiaomoguhz",
                 "repo": "OV-DQUO",
-                "stars": 111
+                "stars": 115
               }
             },
             {
@@ -1835,7 +1835,7 @@
                 "last_commit": "2024-10-09T02:40:44Z",
                 "owner": "apple",
                 "repo": "ml-ferret",
-                "stars": 8674
+                "stars": 8673
               }
             },
             {
@@ -1850,7 +1850,7 @@
                 "last_commit": "2024-10-09T02:40:44Z",
                 "owner": "apple",
                 "repo": "ml-ferret",
-                "stars": 8674
+                "stars": 8673
               }
             },
             {
@@ -1865,7 +1865,7 @@
                 "last_commit": "2026-08-26T08:16:01Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22194
+                "stars": 22196
               }
             },
             {
@@ -2094,7 +2094,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:32:53.446Z",
+    "last_updated": "2026-08-28T03:39:47.717Z",
     "original_repository_info": {
       "archived": false,
       "id": 688454620,
