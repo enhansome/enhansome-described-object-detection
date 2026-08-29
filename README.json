@@ -21,7 +21,7 @@
                 "open_issues": 1960,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32894,
+                "stars": 32895,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -63,7 +63,7 @@
                 "open_issues": 166,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6016,
+                "stars": 6014,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -353,7 +353,7 @@
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38643,
+                    "stars": 38650,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -614,7 +614,7 @@
                     "open_issues": 4,
                     "owner": "jefferyZhan",
                     "repo": "Griffon",
-                    "stars": 250,
+                    "stars": 251,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
@@ -696,7 +696,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38643,
+                "stars": 38650,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -721,7 +721,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38643,
+                "stars": 38650,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -746,7 +746,7 @@
                 "open_issues": 422,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6531,
+                "stars": 6532,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -1260,7 +1260,7 @@
                 "open_issues": 5,
                 "owner": "xiaomoguhz",
                 "repo": "OV-DQUO",
-                "stars": 123,
+                "stars": 130,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:49:57.114Z",
+    "last_updated": "2026-08-29T21:55:17.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
