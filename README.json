@@ -12,12 +12,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenMMLab Detection Toolbox and Benchmark",
+                "homepage": "https://mmdetection.readthedocs.io",
                 "id": 145670234,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-21T02:01:07Z",
+                "open_issues": 1960,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32894
+                "stars": 32894,
+                "topics": [
+                  "cascade-rcnn",
+                  "convnext",
+                  "detr",
+                  "fast-rcnn",
+                  "faster-rcnn",
+                  "glip",
+                  "grounding-dino",
+                  "instance-segmentation",
+                  "mask-rcnn",
+                  "object-detection",
+                  "panoptic-segmentation",
+                  "pytorch",
+                  "retinanet",
+                  "rtmdet",
+                  "semisupervised-learning",
+                  "ssd",
+                  "swin-transformer",
+                  "transformer",
+                  "vision-transformer",
+                  "yolo"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -28,12 +54,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solve Visual Understanding with Reinforced VLMs",
+                "homepage": null,
                 "id": 928427049,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-07T01:50:29Z",
+                "open_issues": 166,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6016
+                "stars": 6016,
+                "topics": [
+                  "deepseek-r1",
+                  "grpo",
+                  "llm",
+                  "multimodal",
+                  "multimodal-r1",
+                  "qwen",
+                  "r1-zero",
+                  "reinforcement-learning",
+                  "vlm",
+                  "vlm-r1"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -44,12 +86,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Grounded Language-Image Pre-training",
+                "homepage": null,
                 "id": 431300490,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-24T04:56:27Z",
+                "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "GLIP",
-                "stars": 2607
+                "stars": 2607,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -60,12 +107,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Grounded Language-Image Pre-training",
+                "homepage": null,
                 "id": 431300490,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-24T04:56:27Z",
+                "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "GLIP",
-                "stars": 2607
+                "stars": 2607,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -76,12 +128,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Aligning and Prompting Everything All at Once for Universal Visual Perception",
+                "homepage": "https://arxiv.org/abs/2312.02153",
                 "id": 682863836,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-08T01:41:00Z",
+                "open_issues": 59,
                 "owner": "shenyunhang",
                 "repo": "APE",
-                "stars": 609
+                "stars": 609,
+                "topics": [
+                  "image-segmentation",
+                  "object-detection",
+                  "open-world",
+                  "referring-expression-comprehension",
+                  "vision-language-transformer"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -92,12 +155,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV2024] Grounded Multimodal Large Language Model with Localized Visual Tokenization",
+                "homepage": "https://groma-mllm.github.io/",
                 "id": 789669647,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-07T06:51:14Z",
+                "open_issues": 17,
                 "owner": "FoundationVision",
                 "repo": "Groma",
-                "stars": 586
+                "stars": 586,
+                "topics": [
+                  "foundation-models",
+                  "grounding",
+                  "large-language-models",
+                  "llama",
+                  "llama2",
+                  "llm",
+                  "mllm",
+                  "multimodal",
+                  "vision-language-model"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -108,12 +186,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A detection/segmentation dataset with labels characterized by intricate and flexible expressions. \"Described Object Detection: Liberating Object Detection with Flexible Expressions\" (NeurIPS 2023).",
+                "homepage": "https://arxiv.org/abs/2307.12813",
                 "id": 668201182,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-20T02:19:35Z",
+                "open_issues": 7,
                 "owner": "shikras",
                 "repo": "d-cube",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "dataset",
+                  "multi-modal-learning",
+                  "object-detection",
+                  "open-vocabulary-detection",
+                  "referring-expression-comprehension",
+                  "vision-language"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -124,12 +214,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone",
+                "homepage": null,
                 "id": 496783603,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-10T00:06:39Z",
+                "open_issues": 11,
                 "owner": "microsoft",
                 "repo": "FIBER",
-                "stars": 131
+                "stars": 131,
+                "topics": [
+                  "vision-language"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -140,12 +237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RefDrone: A Challenging Benchmark for Drone Scene Referring Expression Comprehension",
+                "homepage": null,
                 "id": 830925003,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-08T03:58:03Z",
+                "open_issues": 7,
                 "owner": "sunzc-sunny",
                 "repo": "refdrone",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -156,12 +258,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dettoolchain: A new prompting paradigm to unleash detection ability of MLLM",
+                "homepage": "https://arxiv.org/abs/2403.12488",
                 "id": 827115329,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-12T12:21:46Z",
+                "open_issues": 7,
                 "owner": "yixuan730",
                 "repo": "DetToolChain",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -172,12 +279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offical implementation of  \"Re-Aligning Language to Visual Objects with an Agentic Workflow\"",
+                "homepage": null,
                 "id": 932553061,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-20T04:35:19Z",
+                "open_issues": 1,
                 "owner": "FishAndWasabi",
                 "repo": "Real-LOD",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -188,12 +300,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 654700323,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-13T04:11:28Z",
+                "open_issues": 4,
                 "owner": "liunian-harold-li",
                 "repo": "DesCo",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -204,12 +321,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generating Enhanced Negatives for Training Language-Based Object Detectors, CVPR2024",
+                "homepage": null,
                 "id": 777096787,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-17T08:09:09Z",
+                "open_issues": 3,
                 "owner": "xiaofeng94",
                 "repo": "Gen-Enhanced-Negs",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -222,12 +344,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Google Research",
+                    "homepage": "https://research.google",
                     "id": 151619717,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T09:11:14Z",
+                    "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38642
+                    "stars": 38643,
+                    "topics": [
+                      "ai",
+                      "machine-learning",
+                      "research"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
                 },
@@ -238,12 +369,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+                    "homepage": "https://aka.ms/GeneralAI",
                     "id": 198350484,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T08:16:01Z",
+                    "open_issues": 684,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22196
+                    "stars": 22196,
+                    "topics": [
+                      "beit",
+                      "beit-3",
+                      "bitnet",
+                      "deepnet",
+                      "document-ai",
+                      "foundation-models",
+                      "kosmos",
+                      "kosmos-1",
+                      "layoutlm",
+                      "layoutxlm",
+                      "llm",
+                      "minilm",
+                      "mllm",
+                      "multimodal",
+                      "nlp",
+                      "pre-trained-model",
+                      "textdiffuser",
+                      "trocr",
+                      "unilm",
+                      "xlm-e"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
                 },
@@ -254,12 +411,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2024] Official implementation of the paper \"Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection\"",
+                    "homepage": "https://arxiv.org/abs/2303.05499",
                     "id": 611591640,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-08-12T08:52:02Z",
+                    "open_issues": 325,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10522
+                    "stars": 10522,
+                    "topics": [
+                      "object-detection",
+                      "open-world",
+                      "open-world-detection",
+                      "vision-language",
+                      "vision-language-transformer"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
                 },
@@ -270,12 +438,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 701540574,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-10-09T02:40:44Z",
+                    "open_issues": 7,
                     "owner": "apple",
                     "repo": "ml-ferret",
-                    "stars": 8673
+                    "stars": 8673,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
                 },
@@ -286,12 +459,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.",
+                    "homepage": null,
                     "id": 681075491,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-08-07T02:37:06Z",
+                    "open_issues": 324,
                     "owner": "QwenLM",
                     "repo": "Qwen-VL",
-                    "stars": 6726
+                    "stars": 6726,
+                    "topics": [
+                      "large-language-models",
+                      "vision-language-model"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
                 },
@@ -302,12 +483,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Open-source Toolkit for LLM Development",
+                    "homepage": "https://llama2-accessory.readthedocs.io/",
                     "id": 669055343,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-01-13T06:05:22Z",
+                    "open_issues": 57,
                     "owner": "Alpha-VLLM",
                     "repo": "LLaMA2-Accessory",
-                    "stars": 2800
+                    "stars": 2800,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
                 },
@@ -318,12 +504,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR'23] Universal Instance Perception as Object Discovery and Retrieval",
+                    "homepage": null,
                     "id": 612919129,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-07-18T13:02:16Z",
+                    "open_issues": 32,
                     "owner": "MasterBin-IIAU",
                     "repo": "UNINEXT",
-                    "stars": 1279
+                    "stars": 1279,
+                    "topics": [
+                      "instance-segmentation",
+                      "multi-object-tracking-segmentation",
+                      "multiple-object-tracking",
+                      "object-detection",
+                      "object-tracking",
+                      "perception",
+                      "referring-expression-comprehension",
+                      "referring-expression-segmentation",
+                      "referring-video-object-segmentation",
+                      "single-object-tracking",
+                      "unified-model",
+                      "video-instance-segmentation",
+                      "video-object-segmentation"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
                 },
@@ -334,12 +539,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 658847441,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-07-08T16:14:12Z",
+                    "open_issues": 48,
                     "owner": "shikras",
                     "repo": "shikra",
-                    "stars": 816
+                    "stars": 816,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
                 },
@@ -350,12 +560,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GRiT: A Generative Region-to-text Transformer for Object Understanding (ECCV2024)",
+                    "homepage": null,
                     "id": 572809231,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-01-08T17:34:53Z",
+                    "open_issues": 17,
                     "owner": "JialianW",
                     "repo": "GRiT",
-                    "stars": 342
+                    "stars": 342,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
                 },
@@ -366,12 +581,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Contextual Object Detection with Multimodal Large Language Models",
+                    "homepage": null,
                     "id": 646800873,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-10-14T07:35:36Z",
+                    "open_issues": 7,
                     "owner": "yuhangzang",
                     "repo": "ContextDET",
-                    "stars": 261
+                    "stars": 261,
+                    "topics": [
+                      "large-language-model",
+                      "object-detection"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
                 },
@@ -382,12 +605,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official repo of Griffon series including v1(ECCV 2024), v2(ICCV 2025), G, and R, and also the RL tool Vision-R1(CVPR 2026).",
+                    "homepage": null,
                     "id": 721913051,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-17T11:47:24Z",
+                    "open_issues": 4,
                     "owner": "jefferyZhan",
                     "repo": "Griffon",
-                    "stars": 250
+                    "stars": 250,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
                 },
@@ -398,12 +626,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2024] Generative Region-Language Pretraining for Open-Ended Object Detection",
+                    "homepage": null,
                     "id": 772471743,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-03-29T02:38:54Z",
+                    "open_issues": 15,
                     "owner": "FoundationVision",
                     "repo": "GenerateU",
-                    "stars": 196
+                    "stars": 196,
+                    "topics": [
+                      "mllm",
+                      "multimodality",
+                      "object-detection",
+                      "open-vocabulary",
+                      "open-vocabulary-detection",
+                      "open-world"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
                 },
@@ -414,12 +654,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs",
+                    "homepage": null,
                     "id": 692947557,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-01-16T08:28:53Z",
+                    "open_issues": 10,
                     "owner": "SY-Xuan",
                     "repo": "Pink",
-                    "stars": 100
+                    "stars": 100,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
                 }
@@ -442,12 +687,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Research",
+                "homepage": "https://research.google",
                 "id": 151619717,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T09:11:14Z",
+                "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38642
+                "stars": 38643,
+                "topics": [
+                  "ai",
+                  "machine-learning",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -458,12 +712,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Research",
+                "homepage": "https://research.google",
                 "id": 151619717,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T09:11:14Z",
+                "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38642
+                "stars": 38643,
+                "topics": [
+                  "ai",
+                  "machine-learning",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -474,12 +737,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Real-Time Open-Vocabulary Object Detection",
+                "homepage": "https://www.yoloworld.cc",
                 "id": 749596944,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-26T18:29:03Z",
+                "open_issues": 422,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6531
+                "stars": 6531,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -490,12 +758,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reference models and tools for Cloud TPUs.",
+                "homepage": "https://cloud.google.com/tpu/",
                 "id": 96946693,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-22T19:40:55Z",
+                "open_issues": 319,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5278
+                "stars": 5278,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -506,12 +779,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scenic: A Jax Library for Computer Vision Research and Beyond",
+                "homepage": null,
                 "id": 385275507,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:16:01Z",
+                "open_issues": 305,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3821
+                "stars": 3821,
+                "topics": [
+                  "attention",
+                  "computer-vision",
+                  "deep-learning",
+                  "jax",
+                  "research",
+                  "transformers",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -522,12 +808,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scenic: A Jax Library for Computer Vision Research and Beyond",
+                "homepage": null,
                 "id": 385275507,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:16:01Z",
+                "open_issues": 305,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3821
+                "stars": 3821,
+                "topics": [
+                  "attention",
+                  "computer-vision",
+                  "deep-learning",
+                  "jax",
+                  "research",
+                  "transformers",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -538,12 +837,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scenic: A Jax Library for Computer Vision Research and Beyond",
+                "homepage": null,
                 "id": 385275507,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:16:01Z",
+                "open_issues": 305,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3821
+                "stars": 3821,
+                "topics": [
+                  "attention",
+                  "computer-vision",
+                  "deep-learning",
+                  "jax",
+                  "research",
+                  "transformers",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -554,12 +866,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV2024] API code for T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy",
+                "homepage": "https://deepdataspace.com/blog/T-Rex",
                 "id": 717356163,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-15T02:24:49Z",
+                "open_issues": 16,
                 "owner": "IDEA-Research",
                 "repo": "T-Rex",
-                "stars": 2698
+                "stars": 2698,
+                "topics": [
+                  "interactive",
+                  "object-counting",
+                  "object-detection",
+                  "open-set",
+                  "text-prompt",
+                  "visual-prompt"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -570,12 +894,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time and accurate open-vocabulary end-to-end object detection",
+                "homepage": null,
                 "id": 770489628,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-12T03:04:38Z",
+                "open_issues": 6,
                 "owner": "om-ai-lab",
                 "repo": "OmDet",
-                "stars": 1393
+                "stars": 1393,
+                "topics": [
+                  "coco",
+                  "computer-vision",
+                  "lvis",
+                  "object-detection",
+                  "open-vocabulary",
+                  "real-time",
+                  "vision-and-language",
+                  "zero-shot",
+                  "zero-shot-object-detection"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -586,12 +925,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] Official code for \"RegionCLIP: Region-based Language-Image Pretraining\"",
+                "homepage": null,
                 "id": 471498123,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-20T16:11:19Z",
+                "open_issues": 21,
                 "owner": "microsoft",
                 "repo": "RegionCLIP",
-                "stars": 817
+                "stars": 817,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -602,12 +946,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] Official implementation of the paper \"A Simple Framework for Open-Vocabulary Segmentation and Detection\"",
+                "homepage": null,
                 "id": 613983414,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-22T14:12:04Z",
+                "open_issues": 21,
                 "owner": "IDEA-Research",
                 "repo": "OpenSeeD",
-                "stars": 764
+                "stars": 764,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -618,12 +967,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(CVPR 2025 highlight✨) Official repository of paper \"LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models\"",
+                "homepage": null,
                 "id": 924554036,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-04T13:22:36Z",
+                "open_issues": 4,
                 "owner": "iSEE-Laboratory",
                 "repo": "LLMDet",
-                "stars": 614
+                "stars": 614,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -634,12 +988,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is an official implementation of the paper \"LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection\".",
+                "homepage": null,
                 "id": 807048658,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-18T12:31:00Z",
+                "open_issues": 15,
                 "owner": "Atten4Vis",
                 "repo": "LW-DETR",
-                "stars": 509
+                "stars": 509,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -650,12 +1009,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion",
+                "homepage": "https://wanghao9610.github.io/OV-DINO",
                 "id": 826670133,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-12T04:14:39Z",
+                "open_issues": 6,
                 "owner": "wanghao9610",
                 "repo": "OV-DINO",
-                "stars": 413
+                "stars": 413,
+                "topics": [
+                  "fundation-models",
+                  "object-detection",
+                  "open-vocabulary-detection",
+                  "open-vocabulary-segmentation",
+                  "open-world",
+                  "ov-dino",
+                  "zero-shot-object-detection"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -666,12 +1038,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2022]  Official repository of paper titled \"Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection\".",
+                "homepage": null,
                 "id": 511553725,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-12T17:59:51Z",
+                "open_issues": 3,
                 "owner": "hanoonaR",
                 "repo": "object-centric-ovd",
-                "stars": 296
+                "stars": 296,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -682,12 +1059,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A new framework for open-vocabulary object detection, based on maskrcnn-benchmark",
+                "homepage": null,
                 "id": 289062099,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-11T20:04:35Z",
+                "open_issues": 9,
                 "owner": "alirezazareian",
                 "repo": "ovr-cnn",
-                "stars": 248
+                "stars": 248,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -698,12 +1080,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Under preparation] Code repo for \"Open-Vocabulary DETR with Conditional Matching\" (ECCV 2022)",
+                "homepage": null,
                 "id": 472738394,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-08-03T14:10:38Z",
+                "open_issues": 22,
                 "owner": "yuhangzang",
                 "repo": "OV-DETR",
-                "stars": 241
+                "stars": 241,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -714,12 +1101,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A DETR-style framework for open-vocabulary detection (OVD). CVPR 2023",
+                "homepage": null,
                 "id": 617807219,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-16T11:36:37Z",
+                "open_issues": 23,
                 "owner": "tgxs002",
                 "repo": "CORA",
-                "stars": 202
+                "stars": 202,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -730,12 +1122,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2023] PyTorch implementation of VLDet （https://arxiv.org/abs/2211.14843）",
+                "homepage": null,
                 "id": 570098147,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-22T05:26:40Z",
+                "open_issues": 11,
                 "owner": "clin1223",
                 "repo": "VLDet",
-                "stars": 191
+                "stars": 191,
+                "topics": [
+                  "iclr2023",
+                  "multi-modal",
+                  "object-detection",
+                  "open-vocabulary",
+                  "pytorch",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -746,12 +1150,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2023] Code Release of Aligning Bag of Regions for Open-Vocabulary Object Detection",
+                "homepage": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Aligning_Bag_of_Regions_for_Open-Vocabulary_Object_Detection_CVPR_2023_paper.pdf",
                 "id": 606622218,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-25T03:55:43Z",
+                "open_issues": 21,
                 "owner": "wusize",
                 "repo": "ovdet",
-                "stars": 188
+                "stars": 188,
+                "topics": [
+                  "cvpr2023",
+                  "object-detection",
+                  "open-vocabulary"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -762,12 +1175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 467433024,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-07T00:36:29Z",
+                "open_issues": 15,
                 "owner": "dyabel",
                 "repo": "detpro",
-                "stars": 188
+                "stars": 188,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -778,12 +1196,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PromptDet: Towards Open-vocabulary Detection using Uncurated Images, ECCV2022",
+                "homepage": null,
                 "id": 474928347,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-09-18T03:35:03Z",
+                "open_issues": 11,
                 "owner": "fcjian",
                 "repo": "PromptDet",
-                "stars": 173
+                "stars": 173,
+                "topics": [
+                  "clip",
+                  "computer-vision",
+                  "eccv2022",
+                  "novel-categories",
+                  "object-detection",
+                  "prompt-learning",
+                  "pseudo-labeling",
+                  "regional-prompt",
+                  "self-training",
+                  "vocabulary",
+                  "web-image",
+                  "zero-shot-learning"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -794,12 +1230,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Unified Toolbox for Object Perception & Application",
+                "homepage": null,
                 "id": 473116835,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-05T07:56:56Z",
+                "open_issues": 28,
                 "owner": "hikvision-research",
                 "repo": "opera",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -810,12 +1251,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI2025] Code Release of OV-DQUO: Open-Vocabulary DETR with Denoising Text Query Training and Open-World Unknown Objects Supervision",
+                "homepage": null,
                 "id": 903701441,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-15T10:35:32Z",
+                "open_issues": 5,
                 "owner": "xiaomoguhz",
                 "repo": "OV-DQUO",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -826,12 +1272,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(NeurIPS2023) CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection",
+                "homepage": null,
                 "id": 709305536,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-26T09:25:09Z",
+                "open_issues": 4,
                 "owner": "CVMI-Lab",
                 "repo": "CoDet",
-                "stars": 123
+                "stars": 123,
+                "topics": [
+                  "object-detection",
+                  "open-vocabulary",
+                  "open-vocabulary-detection"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -842,12 +1297,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'24 Highlight] SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection",
+                "homepage": null,
                 "id": 777169050,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-24T19:04:30Z",
+                "open_issues": 2,
                 "owner": "naver",
                 "repo": "shine",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "open-vocabulary-detection",
+                  "vision-language"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -858,12 +1321,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exploiting unlabeled data with vision and language models for object detection, ECCV 2022",
+                "homepage": null,
                 "id": 483400045,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-16T22:28:51Z",
+                "open_issues": 12,
                 "owner": "xiaofeng94",
                 "repo": "VL-PLM",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "object-detection",
+                  "unsupervised-learning",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -874,12 +1346,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repo for our ICML 23 paper: \"Multi-Modal Classifiers for Open-Vocabulary Object Detection\"",
+                "homepage": null,
                 "id": 644931022,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-22T01:09:07Z",
+                "open_issues": 7,
                 "owner": "prannaykaul",
                 "repo": "mm-ovod",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -890,12 +1367,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for \"Language-conditioned Detection Transformer\"",
+                "homepage": "https://arxiv.org/abs/2311.17902",
                 "id": 725382934,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-17T05:16:57Z",
+                "open_issues": 3,
                 "owner": "janghyuncho",
                 "repo": "DECOLA",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -906,12 +1388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV'24/IJCV'26] Code repo for \"Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning\" ",
+                "homepage": null,
                 "id": 788501108,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-15T08:46:45Z",
+                "open_issues": 6,
                 "owner": "VisionXLab",
                 "repo": "CastDet",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -922,12 +1409,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WACV 2025] Official code for our paper \"Enhancing Novel Object Detection via Cooperative Foundational Models\"",
+                "homepage": "https://rohit901.github.io/coop-foundation-models/",
                 "id": 720741598,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-02T15:18:16Z",
+                "open_issues": 2,
                 "owner": "rohit901",
                 "repo": "cooperative-foundational-models",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "novel-objects",
+                  "object-detection",
+                  "open-set-object-detection",
+                  "open-vocabulary-detection",
+                  "pytorch",
+                  "zero-shot-object-detection"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -938,12 +1439,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] Official implementation of the paper: \"Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection\"",
+                "homepage": null,
                 "id": 1024246656,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-07-29T07:25:27Z",
+                "open_issues": 2,
                 "owner": "wengminghe",
                 "repo": "Dynamic-DINO",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -954,12 +1460,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024 Highlight] Official repository of the paper \"The devil is in the fine-grained details: Evaluating open-vocabulary object detectors for fine-grained understanding.\"",
+                "homepage": "https://lorebianchi98.github.io/FG-OVD/",
                 "id": 722677330,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-04T14:57:44Z",
+                "open_issues": 2,
                 "owner": "lorebianchi98",
                 "repo": "FG-OVD",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "artificial-intelligence",
+                  "computer-vision",
+                  "deep-learning",
+                  "fine-grained-open-vocabulary-object-detection",
+                  "object-detection",
+                  "open-vocabulary-detection",
+                  "zero-shot-object-detection"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -970,12 +1489,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A pytorch Implementation of Open Vocabulary Object Detection with Pseudo Bounding-Box Labels",
+                "homepage": null,
                 "id": 459146476,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-25T16:28:23Z",
+                "open_issues": 6,
                 "owner": "salesforce",
                 "repo": "PB-OVD",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -986,12 +1510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection",
+                "homepage": null,
                 "id": 565907132,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-06T07:18:36Z",
+                "open_issues": 6,
                 "owner": "LutingWang",
                 "repo": "OADP",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1002,12 +1531,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Comprehensive Evaluation Benchmark for Open-Vocabulary Detection (AAAI 2024)",
+                "homepage": null,
                 "id": 679041241,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-10T10:34:59Z",
+                "open_issues": 1,
                 "owner": "om-ai-lab",
                 "repo": "OVDEval",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "object-detection",
+                  "open-vocabulary-detection",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1018,12 +1556,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of CVPR 2024 paper \"Retrieval-Augmented Open-Vocabulary Object Detection\".",
+                "homepage": null,
                 "id": 784035334,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-09-12T08:30:27Z",
+                "open_issues": 2,
                 "owner": "mlvlab",
                 "repo": "RALF",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "computer-vision",
+                  "cvpr2024",
+                  "object-detection",
+                  "open-vocabulary-object-detection"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1034,12 +1582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-Vocabulary Instance Segmentation via Robust Cross-Modal Pseudo-Labeling @ CVPR22",
+                "homepage": null,
                 "id": 475002177,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-10T23:24:22Z",
+                "open_issues": 6,
                 "owner": "hbdat",
                 "repo": "cvpr22_cross_modal_pseudo_labeling",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1050,12 +1603,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 974974892,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-06T11:56:04Z",
+                "open_issues": 0,
                 "owner": "chiara-cap",
                 "repo": "DitHub",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1066,12 +1624,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 470613658,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-08-25T15:04:45Z",
+                "open_issues": 9,
                 "owner": "mengqiDyangge",
                 "repo": "HierKD",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1082,12 +1645,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TCSVT] state-of-the-art open vocabulary detector on COCO/LVIS/V3Det",
+                "homepage": null,
                 "id": 670472883,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-03T13:12:50Z",
+                "open_issues": 7,
                 "owner": "xushilin1",
                 "repo": "dst-det",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1098,12 +1666,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV' 24 Oral] CLIFF: Continual Latent Diffusion for Open-Vocabulary Object Detection",
+                "homepage": null,
                 "id": 822980022,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-26T05:15:31Z",
+                "open_issues": 2,
                 "owner": "CUHK-AIM-Group",
                 "repo": "CLIFF",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "diffusion-models",
+                  "open-vocabulary-detection"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1114,12 +1690,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI2024] Code Release of CLIM: Contrastive Language-Image Mosaic for Region Representation",
+                "homepage": "https://arxiv.org/abs/2312.11376",
                 "id": 729402803,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-02-04T13:00:28Z",
+                "open_issues": 3,
                 "owner": "wusize",
                 "repo": "CLIM",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "detection",
+                  "open-vocabulary-detection"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1130,12 +1714,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code Implementation of \"Simple Image-level Classification Improves Open-vocabulary Object Detection\" (AAAI'24)",
+                "homepage": null,
                 "id": 731503634,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-12T13:36:27Z",
+                "open_issues": 8,
                 "owner": "mala-lab",
                 "repo": "SIC-CADS",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "foundation-models",
+                  "object-detection",
+                  "open-vocabulary-detection",
+                  "vision-and-language-pre-training",
+                  "vision-language-model"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1146,12 +1741,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LP-OVOD: Open-Vocabulary Object Detection by Linear Probing (WACV 2024)",
+                "homepage": null,
                 "id": 710054156,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-07-23T02:43:04Z",
+                "open_issues": 6,
                 "owner": "VinAIResearch",
                 "repo": "LP-OVOD",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1162,12 +1762,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 504052369,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-23T18:00:09Z",
+                "open_issues": 6,
                 "owner": "PeixianChen",
                 "repo": "MEDet",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1178,12 +1783,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Taming Self-Training for Open-Vocabulary Object Detection, CVPR 2024",
+                "homepage": "https://arxiv.org/abs/2308.06412",
                 "id": 737108537,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-30T00:17:52Z",
+                "open_issues": 3,
                 "owner": "xiaofeng94",
                 "repo": "SAS-Det",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "object-detection",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1194,12 +1807,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Localized Vision-Language Matching for Open-vocabulary Object Detection",
+                "homepage": null,
                 "id": 518435852,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-08-11T09:14:28Z",
+                "open_issues": 1,
                 "owner": "lmb-freiburg",
                 "repo": "locov",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1210,12 +1828,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "official implementation of Training-free Boost for Open-Vocabulary Object Detection with Confidence Aggregation",
+                "homepage": null,
                 "id": 780408856,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-15T02:56:00Z",
+                "open_issues": 1,
                 "owner": "WarlockWendell",
                 "repo": "AggDet",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1226,12 +1849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 826751166,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-04T16:21:07Z",
+                "open_issues": 5,
                 "owner": "wkfdb",
                 "repo": "MarvelOVD",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             }
@@ -1249,12 +1877,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository of OFA (ICML 2022). Paper: OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework",
+                "homepage": null,
                 "id": 453343381,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-24T06:20:34Z",
+                "open_issues": 113,
                 "owner": "OFA-Sys",
                 "repo": "OFA",
-                "stars": 2557
+                "stars": 2557,
+                "topics": [
+                  "chinese",
+                  "image-captioning",
+                  "multimodal",
+                  "pretrained-models",
+                  "pretraining",
+                  "prompt",
+                  "prompt-tuning",
+                  "referring-expression-comprehension",
+                  "text-to-image-synthesis",
+                  "vision-language",
+                  "visual-question-answering"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1265,12 +1910,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A general representation model across vision, audio, language modalities. Paper: ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities",
+                "homepage": null,
                 "id": 642596800,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-06T04:13:22Z",
+                "open_issues": 10,
                 "owner": "OFA-Sys",
                 "repo": "ONE-PEACE",
-                "stars": 1060
+                "stars": 1060,
+                "topics": [
+                  "audio-language",
+                  "contrastive-loss",
+                  "foundation-models",
+                  "multimodal",
+                  "representation-learning",
+                  "vision-and-language",
+                  "vision-language",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1281,12 +1940,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 360631605,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-03T19:35:46Z",
+                "open_issues": 32,
                 "owner": "ashkamath",
                 "repo": "mdetr",
-                "stars": 1052
+                "stars": 1052,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1297,12 +1961,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] VPD is a framework that leverages the high-level and low-level knowledge of a pre-trained text-to-image diffusion model to downstream visual perception tasks.",
+                "homepage": "https://vpd.ivg-research.xyz",
                 "id": 609230704,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-12-21T02:22:30Z",
+                "open_issues": 32,
                 "owner": "wl-zhao",
                 "repo": "VPD",
-                "stars": 541
+                "stars": 541,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1313,12 +1982,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 521089080,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-18T22:01:21Z",
+                "open_issues": 15,
                 "owner": "allenai",
                 "repo": "unified-io-inference",
-                "stars": 231
+                "stars": 231,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1329,12 +2003,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 640047401,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-19T18:11:50Z",
+                "open_issues": 3,
                 "owner": "amazon-science",
                 "repo": "polygon-transformer",
-                "stars": 165
+                "stars": 165,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1345,12 +2024,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding",
+                "homepage": "https://arxiv.org/abs/2203.08481",
                 "id": 469620485,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-13T14:06:56Z",
+                "open_issues": 0,
                 "owner": "LeapLabTHU",
                 "repo": "Pseudo-Q",
-                "stars": 153
+                "stars": 153,
+                "topics": [
+                  "computer-vision",
+                  "cvpr2022",
+                  "deep-learning",
+                  "multimodal-deep-learning",
+                  "pytorch",
+                  "vision-and-language",
+                  "visual-grounding"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1361,12 +2053,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SeqTR: A Simple yet Universal Network for Visual Grounding",
+                "homepage": "https://arxiv.org/abs/2203.16265",
                 "id": 475700798,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-30T02:51:46Z",
+                "open_issues": 15,
                 "owner": "seanzhuh",
                 "repo": "SeqTR",
-                "stars": 144
+                "stars": 144,
+                "topics": [
+                  "auto-regressive-models",
+                  "visual-grounding"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1377,12 +2077,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TMM 2023] Self-paced Curriculum Adapting of CLIP for Visual Grounding.",
+                "homepage": "https://ieeexplore.ieee.org/abstract/document/10269126",
                 "id": 640267667,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-10T05:37:24Z",
+                "open_issues": 9,
                 "owner": "linhuixiao",
                 "repo": "CLIP-VG",
-                "stars": 135
+                "stars": 135,
+                "topics": [
+                  "clip",
+                  "grounding"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1393,12 +2101,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Improving Visual Grounding with Visual-Linguistic Verification and Iterative Reasoning, CVPR 2022",
+                "homepage": null,
                 "id": 486967135,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-02T09:13:32Z",
+                "open_issues": 7,
                 "owner": "yangli18",
                 "repo": "VLTVG",
-                "stars": 98
+                "stars": 98,
+                "topics": [
+                  "cross-modal",
+                  "vision-language",
+                  "visual-grounding",
+                  "visual-linguistic"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1409,12 +2127,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2021] InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring",
+                "homepage": null,
                 "id": 343624770,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-22T09:22:00Z",
+                "open_issues": 5,
                 "owner": "CurryYuan",
                 "repo": "InstanceRefer",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "iccv2021",
+                  "leaderboard",
+                  "pytorch",
+                  "scanrefer"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1425,12 +2153,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GroundVLP: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection (AAAI 2024)",
+                "homepage": null,
                 "id": 732911173,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-10T07:11:04Z",
+                "open_issues": 4,
                 "owner": "om-ai-lab",
                 "repo": "GroundVLP",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "multimodal",
+                  "object-detection",
+                  "vision-and-language",
+                  "zero-shot-learning"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1441,12 +2179,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation for paper \"Referring Transformer: A One-step Approach to Multi-task Visual Grounding\" Neurips 2021",
+                "homepage": null,
                 "id": 421229092,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-26T17:15:50Z",
+                "open_issues": 4,
                 "owner": "ubc-vision",
                 "repo": "RefTR",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1457,12 +2200,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACM MM 2024] Hierarchical Multimodal Fine-grained Modulation for Visual Grounding.",
+                "homepage": "https://dl.acm.org/doi/pdf/10.1145/3664647.3681071",
                 "id": 789352396,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-10T05:37:37Z",
+                "open_issues": 5,
                 "owner": "linhuixiao",
                 "repo": "HiVG",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "clip",
+                  "grounding"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1473,12 +2224,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2023] DQ-DETR: Dual Query Detection Transformer for Phrase Extraction and Grounding",
+                "homepage": null,
                 "id": 571644537,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-11-28T16:47:25Z",
+                "open_issues": 3,
                 "owner": "IDEA-Research",
                 "repo": "DQ-DETR",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1489,12 +2245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TMLR 2025 J2C] TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models",
+                "homepage": "https://arxiv.org/abs/2505.23769",
                 "id": 976317857,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-24T16:13:40Z",
+                "open_issues": 0,
                 "owner": "avaxiao",
                 "repo": "TextRegion",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1505,12 +2266,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR-2023] The official dataset of Advancing Visual Grounding with Scene Knowledge: Benchmark and Method.",
+                "homepage": null,
                 "id": 611588059,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-07-12T13:13:55Z",
+                "open_issues": 1,
                 "owner": "zhjohnchan",
                 "repo": "SK-VG",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1521,12 +2287,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 693497220,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-03-25T08:34:23Z",
+                "open_issues": 10,
                 "owner": "cv516Buaa",
                 "repo": "OV-VG",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1537,12 +2308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TPAMI 2024] This is the official Pytorch code for our paper \"Context Disentangling and Prototype Inheriting for Robust Visual Grounding\". ",
+                "homepage": null,
                 "id": 695572903,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-08T10:35:02Z",
+                "open_issues": 0,
                 "owner": "WayneTomas",
                 "repo": "TransCP",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1553,12 +2329,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICME'22] Visual Grounding with Transformers",
+                "homepage": null,
                 "id": 365900270,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-27T04:58:23Z",
+                "open_issues": 1,
                 "owner": "usr922",
                 "repo": "vgtr",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1569,12 +2352,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The source code of the CVPR22 paper titled \"Multi-Modal Dynamic Graph Transformer for Visual Grounding\".",
+                "homepage": null,
                 "id": 474401602,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-26T16:24:53Z",
+                "open_issues": 3,
                 "owner": "iQua",
                 "repo": "M-DGT",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1585,12 +2373,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] official repo of \"MC-Bench: A Benchmark for Multi-Context Visual Grounding in the Era of MLLMs\"",
+                "homepage": "https://xuyunqiu.github.io/MC-Bench/",
                 "id": 807583807,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-22T22:17:13Z",
+                "open_issues": 2,
                 "owner": "XuYunqiu",
                 "repo": "MC-Bench",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "benchmark",
+                  "dataset",
+                  "evaluation",
+                  "iccv2025",
+                  "mllm",
+                  "multi-image-understanding",
+                  "multimodal",
+                  "object-detection",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1601,12 +2404,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 397639540,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-11-15T02:37:12Z",
+                "open_issues": 0,
                 "owner": "zackschen",
                 "repo": "DMM",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1617,12 +2425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the Reproduce of method ELR_CCS",
+                "homepage": null,
                 "id": 909284530,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-12-28T08:39:36Z",
+                "open_issues": 0,
                 "owner": "freedom6927",
                 "repo": "ELR_CCS",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1633,12 +2446,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Research code for ECCV 2020 paper \"UNITER: UNiversal Image-TExt Representation Learning\"",
+                "homepage": "https://arxiv.org/abs/1909.11740",
                 "id": 236624100,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-06-30T21:46:55Z",
+                "open_issues": 46,
                 "owner": "ChenRocks",
                 "repo": "UNITER",
-                "stars": 799
+                "stars": 799,
+                "topics": [
+                  "pre-training",
+                  "pytorch",
+                  "transformers",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1649,12 +2472,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MAttNet: Modular Attention Network for Referring Expression Comprehension",
+                "homepage": "http://vision2.cs.unc.edu/refer",
                 "id": 120952127,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-11-29T04:15:30Z",
+                "open_issues": 22,
                 "owner": "lichengunc",
                 "repo": "MAttNet",
-                "stars": 299
+                "stars": 299,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1665,12 +2493,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Fast and Accurate One-Stage Approach to Visual Grounding, ICCV 2019 (Oral)",
+                "homepage": null,
                 "id": 185658000,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-11-18T19:34:54Z",
+                "open_issues": 3,
                 "owner": "zyang-ur",
                 "repo": "onestage_grounding",
-                "stars": 149
+                "stars": 149,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1681,12 +2514,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2020] Multi-task Collaborative  Network for Joint  Referring Expression Comprehension and Segmentation, CVPR2020 (oral)",
+                "homepage": "https://arxiv.org/abs/2003.08813",
                 "id": 248506387,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-08-04T14:30:00Z",
+                "open_issues": 7,
                 "owner": "luogen1996",
                 "repo": "MCN",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "cvpr2020",
+                  "multi-task-learning",
+                  "referring-expression-comprehension",
+                  "referring-expression-segmentation"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1697,12 +2540,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Research Code for NeurIPS 2020 Spotlight paper \"Large-Scale Adversarial Training for Vision-and-Language Representation Learning\": UNITER adversarial training part",
+                "homepage": "https://arxiv.org/pdf/2006.06195.pdf",
                 "id": 305626176,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-01-13T06:08:41Z",
+                "open_issues": 7,
                 "owner": "zhegan27",
                 "repo": "VILLA",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "adversarial-training",
+                  "neurips-2020",
+                  "pretraining",
+                  "vision-and-language",
+                  "visual-question-answering"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1713,12 +2567,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Improving One-stage Visual Grounding by Recursive Sub-query Construction, ECCV 2020",
+                "homepage": null,
                 "id": 273954112,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-30T02:49:43Z",
+                "open_issues": 2,
                 "owner": "zyang-ur",
                 "repo": "ReSC",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1729,12 +2588,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2021] Look before you leap: learning landmark features for one-stage visual grounding.",
+                "homepage": null,
                 "id": 352278792,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-08-31T11:52:18Z",
+                "open_issues": 3,
                 "owner": "svip-lab",
                 "repo": "LBYLNet",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "cvpr",
+                  "cvpr2021",
+                  "pytorch",
+                  "visual-grounding"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1745,12 +2614,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official PyTorch code for \"Relation-aware Instance Refinement for Weakly Supervised Visual Grounding\" accepted by CVPR2021",
+                "homepage": null,
                 "id": 349943859,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-10-09T00:25:54Z",
+                "open_issues": 2,
                 "owner": "youngfly11",
                 "repo": "ReIR-WeaklyGrounding.pytorch",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1761,12 +2635,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual Grounding of Referring Expressions for Human-Robot Interaction",
+                "homepage": null,
                 "id": 147082546,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2018-11-16T23:33:11Z",
+                "open_issues": 2,
                 "owner": "MohitShridhar",
                 "repo": "ingress",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "deep-learning",
+                  "expressions",
+                  "grounding",
+                  "hri",
+                  "object-detection",
+                  "referring"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1777,12 +2663,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rethinking Diversified and Discriminative Proposal Generation for Visual Grounding",
+                "homepage": null,
                 "id": 131275325,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2018-06-27T02:20:22Z",
+                "open_issues": 1,
                 "owner": "XiangChenchao",
                 "repo": "DDPN",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "caffe",
+                  "ddpn",
+                  "python",
+                  "visualgrounding"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1793,12 +2689,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 369461957,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-07-13T12:43:49Z",
+                "open_issues": 2,
                 "owner": "SijieSong",
                 "repo": "CVPR21-Cogrounding_semantic_attention",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             }
@@ -1822,12 +2723,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A detection/segmentation dataset with labels characterized by intricate and flexible expressions. \"Described Object Detection: Liberating Object Detection with Flexible Expressions\" (NeurIPS 2023).",
+                "homepage": "https://arxiv.org/abs/2307.12813",
                 "id": 668201182,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-20T02:19:35Z",
+                "open_issues": 7,
                 "owner": "shikras",
                 "repo": "d-cube",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "dataset",
+                  "multi-modal-learning",
+                  "object-detection",
+                  "open-vocabulary-detection",
+                  "referring-expression-comprehension",
+                  "vision-language"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1838,12 +2751,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python toolkit for the OmniLabel benchmark providing code for evaluation and visualization",
+                "homepage": "https://www.omnilabel.org",
                 "id": 598398213,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-01T01:29:06Z",
+                "open_issues": 4,
                 "owner": "samschulter",
                 "repo": "omnilabeltools",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1854,12 +2772,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Comprehensive Evaluation Benchmark for Open-Vocabulary Detection (AAAI 2024)",
+                "homepage": null,
                 "id": 679041241,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-10T10:34:59Z",
+                "open_issues": 1,
                 "owner": "om-ai-lab",
                 "repo": "OVDEval",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "object-detection",
+                  "open-vocabulary-detection",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             }
@@ -1877,12 +2804,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IJCV] Bamboo: 4 times larger than ImageNet; 2 time larger than Object365; Built by active learning.",
+                "homepage": null,
                 "id": 469003163,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-07T02:55:17Z",
+                "open_issues": 4,
                 "owner": "ZhangYuanhan-AI",
                 "repo": "Bamboo",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "active-learning",
+                  "dataset-generation",
+                  "pre-training"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1893,12 +2829,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BigDetection: A Large-scale Benchmark for Improved Object Detector Pre-training",
+                "homepage": null,
                 "id": 465210616,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-23T17:41:21Z",
+                "open_issues": 6,
                 "owner": "amazon-science",
                 "repo": "bigdetection",
-                "stars": 399
+                "stars": 399,
+                "topics": [
+                  "computer-vision",
+                  "few-shot",
+                  "object-detection",
+                  "pretraining"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1909,12 +2855,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python API for LVIS Dataset",
+                "homepage": "http://lvisdataset.org",
                 "id": 201142472,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-02-21T00:43:47Z",
+                "open_issues": 13,
                 "owner": "lvis-dataset",
                 "repo": "lvis-api",
-                "stars": 429
+                "stars": 429,
+                "topics": [
+                  "computer-vision",
+                  "object-detection"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1925,12 +2879,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "COCO API - Dataset @ http://cocodataset.org/ ",
+                "homepage": null,
                 "id": 29829603,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-17T05:14:06Z",
+                "open_issues": 471,
                 "owner": "cocodataset",
                 "repo": "cocoapi",
-                "stars": 6384
+                "stars": 6384,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             }
@@ -1948,12 +2907,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 701540574,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-09T02:40:44Z",
+                "open_issues": 7,
                 "owner": "apple",
                 "repo": "ml-ferret",
-                "stars": 8673
+                "stars": 8673,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1964,12 +2928,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 701540574,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-09T02:40:44Z",
+                "open_issues": 7,
                 "owner": "apple",
                 "repo": "ml-ferret",
-                "stars": 8673
+                "stars": 8673,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1980,12 +2949,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+                "homepage": "https://aka.ms/GeneralAI",
                 "id": 198350484,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T08:16:01Z",
+                "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22196
+                "stars": 22196,
+                "topics": [
+                  "beit",
+                  "beit-3",
+                  "bitnet",
+                  "deepnet",
+                  "document-ai",
+                  "foundation-models",
+                  "kosmos",
+                  "kosmos-1",
+                  "layoutlm",
+                  "layoutxlm",
+                  "llm",
+                  "minilm",
+                  "mllm",
+                  "multimodal",
+                  "nlp",
+                  "pre-trained-model",
+                  "textdiffuser",
+                  "trocr",
+                  "unilm",
+                  "xlm-e"
+                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1996,12 +2991,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR-2023] The official dataset of Advancing Visual Grounding with Scene Knowledge: Benchmark and Method.",
+                "homepage": null,
                 "id": 611588059,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-07-12T13:13:55Z",
+                "open_issues": 1,
                 "owner": "zhjohnchan",
                 "repo": "SK-VG",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -2012,12 +3012,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for the General Robust Image Task (GRIT) Benchmark",
+                "homepage": "https://grit-benchmark.org/",
                 "id": 459296055,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-29T20:42:42Z",
+                "open_issues": 2,
                 "owner": "allenai",
                 "repo": "grit_official",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -2028,12 +3033,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accepted by CVPR 2020. ",
+                "homepage": null,
                 "id": 247587772,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-11T16:54:21Z",
+                "open_issues": 3,
                 "owner": "zfchenUnique",
                 "repo": "Cops-Ref",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -2044,12 +3054,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python wrapper for the Visual Genome API",
+                "homepage": null,
                 "id": 43793466,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-09-21T20:39:56Z",
+                "open_issues": 20,
                 "owner": "ranjaykrishna",
                 "repo": "visual_genome_python_driver",
-                "stars": 371
+                "stars": 371,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -2060,12 +3075,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The toolbox for the Google Refexp dataset proposed in this paper: http://arxiv.org/abs/1511.02283",
+                "homepage": null,
                 "id": 47009782,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2017-03-01T23:57:39Z",
+                "open_issues": 3,
                 "owner": "mjhucla",
                 "repo": "Google_Refexp_toolbox",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -2076,12 +3096,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Referring Expression Datasets API",
+                "homepage": null,
                 "id": 54487819,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-27T08:53:26Z",
+                "open_issues": 20,
                 "owner": "lichengunc",
                 "repo": "refer",
-                "stars": 576
+                "stars": 576,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -2092,12 +3117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Referring Expression Datasets API",
+                "homepage": null,
                 "id": 54487819,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-27T08:53:26Z",
+                "open_issues": 20,
                 "owner": "lichengunc",
                 "repo": "refer",
-                "stars": 576
+                "stars": 576,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -2108,12 +3138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Referring Expression Datasets API",
+                "homepage": null,
                 "id": 54487819,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-27T08:53:26Z",
+                "open_issues": 20,
                 "owner": "lichengunc",
                 "repo": "refer",
-                "stars": 576
+                "stars": 576,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             }
@@ -2135,12 +3170,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(TPAMI 2024) A Survey on Open Vocabulary Learning",
+            "homepage": "https://arxiv.org/abs/2306.15880",
             "id": 650877787,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-12T06:41:25Z",
+            "open_issues": 2,
             "owner": "jianzongwu",
             "repo": "Awesome-Open-Vocabulary",
-            "stars": 1002
+            "stars": 1002,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "open-vocabulary",
+              "tpami-2024"
+            ]
           },
           "first_seen": "2026-08-29T02:25:33.857Z"
         },
@@ -2151,12 +3196,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[TPAMI 2025] Towards Visual Grounding: A Survey",
+            "homepage": "https://ieeexplore.ieee.org/document/11235566",
             "id": 823705182,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-18T03:39:01Z",
+            "open_issues": 4,
             "owner": "linhuixiao",
             "repo": "Awesome-Visual-Grounding",
-            "stars": 324
+            "stars": 324,
+            "topics": [
+              "awesome",
+              "grounding",
+              "survey",
+              "visual-grounding"
+            ]
           },
           "first_seen": "2026-08-29T02:25:33.857Z"
         },
@@ -2167,12 +3222,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "awesome grounding: A curated list of research papers in visual grounding",
+            "homepage": null,
             "id": 147236836,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-09-21T10:32:22Z",
+            "open_issues": 3,
             "owner": "TheShadow29",
             "repo": "awesome-grounding",
-            "stars": 1127
+            "stars": 1127,
+            "topics": [
+              "arxiv",
+              "awesome-list",
+              "captioning-images",
+              "captioning-videos",
+              "computer-vision",
+              "embodied-agent",
+              "grounding",
+              "image-grounding",
+              "language-grounding",
+              "multimodal-deep-learning",
+              "natural-language-processing",
+              "paper",
+              "paper-roadmap",
+              "papers",
+              "phrase-grounding",
+              "video-grounding",
+              "video-understanding",
+              "visual-grounding"
+            ]
           },
           "first_seen": "2026-08-29T02:25:33.857Z"
         },
@@ -2183,12 +3262,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: A collection of papers about Referring Image Segmentation.",
+            "homepage": null,
             "id": 188213635,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-28T12:13:10Z",
+            "open_issues": 2,
             "owner": "MarkMoHR",
             "repo": "Awesome-Referring-Image-Segmentation",
-            "stars": 828
+            "stars": 828,
+            "topics": [
+              "image-segmentation",
+              "instance-segmentation",
+              "language",
+              "referring-expressions",
+              "referring-image-segmentation",
+              "referring-segmentation",
+              "segmentation-datasets",
+              "semantic-segmentation",
+              "text-based",
+              "text-based-segmentation"
+            ]
           },
           "first_seen": "2026-08-29T02:25:33.857Z"
         },
@@ -2199,12 +3294,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of papers, datasets and resources pertaining to open vocabulary object detection.",
+            "homepage": null,
             "id": 614281516,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-13T14:13:20Z",
+            "open_issues": 0,
             "owner": "witnessai",
             "repo": "Awesome-Open-Vocabulary-Object-Detection",
-            "stars": 423
+            "stars": 423,
+            "topics": [
+              "object-detection",
+              "open-vocabulary"
+            ]
           },
           "first_seen": "2026-08-29T02:25:33.857Z"
         },
@@ -2215,12 +3318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of research papers in Referring Expression Comprehension (REC)",
+            "homepage": null,
             "id": 286046861,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-05-13T08:37:22Z",
+            "open_issues": 0,
             "owner": "daqingliu",
             "repo": "awesome-rec",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:33.857Z"
         }
@@ -2229,15 +3337,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:25:33.857Z",
+    "last_updated": "2026-08-29T04:49:57.114Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
+      "homepage": null,
       "id": 688454620,
       "language": null,
+      "license": null,
       "last_commit": "2025-11-06T06:12:57Z",
+      "open_issues": 1,
       "owner": "Charles-Xie",
       "repo": "awesome-described-object-detection",
-      "stars": 360
+      "stars": 360,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "open-vocabulary-detection",
+        "open-world-object-detection",
+        "referring-expression-comprehension",
+        "visual-grounding"
+      ]
     },
     "original_repository_sha": "2a10281ef3abd4100dc530688c16ea18e5404e3c",
     "enhanced_repository": "enhansome/enhansome-described-object-detection",
