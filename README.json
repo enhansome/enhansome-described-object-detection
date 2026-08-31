@@ -21,7 +21,7 @@
                 "open_issues": 1962,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32894,
+                "stars": 32897,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -63,7 +63,7 @@
                 "open_issues": 166,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6014,
+                "stars": 6016,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -285,7 +285,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-04-20T04:35:19Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "FishAndWasabi",
                 "repo": "Real-LOD",
                 "stars": 34,
@@ -349,11 +349,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-27T09:11:14Z",
+                    "last_commit": "2026-08-31T14:53:17Z",
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38655,
+                    "stars": 38661,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -378,7 +378,7 @@
                     "open_issues": 684,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22197,
+                    "stars": 22199,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -417,10 +417,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-08-12T08:52:02Z",
-                    "open_issues": 325,
+                    "open_issues": 324,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10525,
+                    "stars": 10526,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -692,11 +692,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T09:11:14Z",
+                "last_commit": "2026-08-31T14:53:17Z",
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38655,
+                "stars": 38661,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -717,11 +717,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T09:11:14Z",
+                "last_commit": "2026-08-31T14:53:17Z",
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38655,
+                "stars": 38661,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -746,7 +746,7 @@
                 "open_issues": 422,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6532,
+                "stars": 6536,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -767,7 +767,7 @@
                 "open_issues": 319,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5279,
+                "stars": 5278,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -934,7 +934,7 @@
                 "open_issues": 21,
                 "owner": "microsoft",
                 "repo": "RegionCLIP",
-                "stars": 817,
+                "stars": 816,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -976,7 +976,7 @@
                 "open_issues": 4,
                 "owner": "iSEE-Laboratory",
                 "repo": "LLMDet",
-                "stars": 614,
+                "stars": 615,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -1394,7 +1394,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-15T08:46:45Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "VisionXLab",
                 "repo": "CastDet",
                 "stars": 85,
@@ -1565,7 +1565,7 @@
                 "open_issues": 2,
                 "owner": "mlvlab",
                 "repo": "RALF",
-                "stars": 47,
+                "stars": 48,
                 "topics": [
                   "computer-vision",
                   "cvpr2024",
@@ -2958,7 +2958,7 @@
                 "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22197,
+                "stars": 22199,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3105,7 +3105,7 @@
                 "open_issues": 20,
                 "owner": "lichengunc",
                 "repo": "refer",
-                "stars": 576,
+                "stars": 577,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3126,7 +3126,7 @@
                 "open_issues": 20,
                 "owner": "lichengunc",
                 "repo": "refer",
-                "stars": 576,
+                "stars": 577,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3147,7 +3147,7 @@
                 "open_issues": 20,
                 "owner": "lichengunc",
                 "repo": "refer",
-                "stars": 576,
+                "stars": 577,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3205,7 +3205,7 @@
             "open_issues": 4,
             "owner": "linhuixiao",
             "repo": "Awesome-Visual-Grounding",
-            "stars": 324,
+            "stars": 325,
             "topics": [
               "awesome",
               "grounding",
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T22:01:33.074Z",
+    "last_updated": "2026-08-31T23:19:29.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
