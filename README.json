@@ -21,7 +21,7 @@
                 "open_issues": 1962,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32903,
+                "stars": 32907,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -353,7 +353,7 @@
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38689,
+                    "stars": 38691,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -420,7 +420,7 @@
                     "open_issues": 324,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10539,
+                    "stars": 10542,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -447,7 +447,7 @@
                     "open_issues": 7,
                     "owner": "apple",
                     "repo": "ml-ferret",
-                    "stars": 8669,
+                    "stars": 8668,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
@@ -468,7 +468,7 @@
                     "open_issues": 324,
                     "owner": "QwenLM",
                     "repo": "Qwen-VL",
-                    "stars": 6727,
+                    "stars": 6726,
                     "topics": [
                       "large-language-models",
                       "vision-language-model"
@@ -696,7 +696,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38689,
+                "stars": 38691,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -721,7 +721,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38689,
+                "stars": 38691,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -788,7 +788,7 @@
                 "open_issues": 304,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3821,
+                "stars": 3823,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -817,7 +817,7 @@
                 "open_issues": 304,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3821,
+                "stars": 3823,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -846,7 +846,7 @@
                 "open_issues": 304,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3821,
+                "stars": 3823,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -875,7 +875,7 @@
                 "open_issues": 16,
                 "owner": "IDEA-Research",
                 "repo": "T-Rex",
-                "stars": 2698,
+                "stars": 2700,
                 "topics": [
                   "interactive",
                   "object-counting",
@@ -1306,7 +1306,7 @@
                 "open_issues": 2,
                 "owner": "naver",
                 "repo": "shine",
-                "stars": 101,
+                "stars": 102,
                 "topics": [
                   "open-vocabulary-detection",
                   "vision-language"
@@ -2888,7 +2888,7 @@
                 "open_issues": 471,
                 "owner": "cocodataset",
                 "repo": "cocoapi",
-                "stars": 6385,
+                "stars": 6386,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2916,7 +2916,7 @@
                 "open_issues": 7,
                 "owner": "apple",
                 "repo": "ml-ferret",
-                "stars": 8669,
+                "stars": 8668,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2937,7 +2937,7 @@
                 "open_issues": 7,
                 "owner": "apple",
                 "repo": "ml-ferret",
-                "stars": 8669,
+                "stars": 8668,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:51:59.309Z",
+    "last_updated": "2026-09-04T21:45:09.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
