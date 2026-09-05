@@ -21,7 +21,7 @@
                 "open_issues": 1962,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32907,
+                "stars": 32908,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -63,7 +63,7 @@
                 "open_issues": 167,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6018,
+                "stars": 6017,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -350,10 +350,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-03T08:28:07Z",
-                    "open_issues": 1989,
+                    "open_issues": 1990,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38691,
+                    "stars": 38693,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -378,7 +378,7 @@
                     "open_issues": 684,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22203,
+                    "stars": 22204,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -420,7 +420,7 @@
                     "open_issues": 324,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10542,
+                    "stars": 10543,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -444,10 +444,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2024-10-09T02:40:44Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "apple",
                     "repo": "ml-ferret",
-                    "stars": 8668,
+                    "stars": 8667,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
@@ -468,7 +468,7 @@
                     "open_issues": 324,
                     "owner": "QwenLM",
                     "repo": "Qwen-VL",
-                    "stars": 6726,
+                    "stars": 6725,
                     "topics": [
                       "large-language-models",
                       "vision-language-model"
@@ -693,10 +693,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T08:28:07Z",
-                "open_issues": 1989,
+                "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38691,
+                "stars": 38693,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -718,10 +718,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T08:28:07Z",
-                "open_issues": 1989,
+                "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38691,
+                "stars": 38693,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -746,7 +746,7 @@
                 "open_issues": 422,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6542,
+                "stars": 6541,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -1970,7 +1970,7 @@
                 "open_issues": 32,
                 "owner": "wl-zhao",
                 "repo": "VPD",
-                "stars": 541,
+                "stars": 540,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2864,7 +2864,7 @@
                 "open_issues": 13,
                 "owner": "lvis-dataset",
                 "repo": "lvis-api",
-                "stars": 429,
+                "stars": 430,
                 "topics": [
                   "computer-vision",
                   "object-detection"
@@ -2913,10 +2913,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-10-09T02:40:44Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "apple",
                 "repo": "ml-ferret",
-                "stars": 8668,
+                "stars": 8667,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2934,10 +2934,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-10-09T02:40:44Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "apple",
                 "repo": "ml-ferret",
-                "stars": 8668,
+                "stars": 8667,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2958,7 +2958,7 @@
                 "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22203,
+                "stars": 22204,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T21:45:09.305Z",
+    "last_updated": "2026-09-05T21:38:09.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
