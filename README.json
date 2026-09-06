@@ -21,7 +21,7 @@
                 "open_issues": 1962,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32908,
+                "stars": 32911,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -353,7 +353,7 @@
                     "open_issues": 1990,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38693,
+                    "stars": 38697,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -420,7 +420,7 @@
                     "open_issues": 324,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10543,
+                    "stars": 10547,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -696,7 +696,7 @@
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38693,
+                "stars": 38697,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -721,7 +721,7 @@
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38693,
+                "stars": 38697,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -875,7 +875,7 @@
                 "open_issues": 16,
                 "owner": "IDEA-Research",
                 "repo": "T-Rex",
-                "stars": 2700,
+                "stars": 2701,
                 "topics": [
                   "interactive",
                   "object-counting",
@@ -900,7 +900,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-12T03:04:38Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "om-ai-lab",
                 "repo": "OmDet",
                 "stars": 1393,
@@ -2888,7 +2888,7 @@
                 "open_issues": 471,
                 "owner": "cocodataset",
                 "repo": "cocoapi",
-                "stars": 6386,
+                "stars": 6385,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T21:38:09.357Z",
+    "last_updated": "2026-09-06T21:39:38.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
