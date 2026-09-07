@@ -21,7 +21,7 @@
                 "open_issues": 1962,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32911,
+                "stars": 32913,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -63,7 +63,7 @@
                 "open_issues": 167,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6017,
+                "stars": 6019,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -349,11 +349,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-03T08:28:07Z",
+                    "last_commit": "2026-09-07T16:12:34Z",
                     "open_issues": 1990,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38697,
+                    "stars": 38708,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -378,7 +378,7 @@
                     "open_issues": 684,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22204,
+                    "stars": 22206,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -420,7 +420,7 @@
                     "open_issues": 324,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10547,
+                    "stars": 10550,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -447,7 +447,7 @@
                     "open_issues": 8,
                     "owner": "apple",
                     "repo": "ml-ferret",
-                    "stars": 8667,
+                    "stars": 8666,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
@@ -692,11 +692,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T08:28:07Z",
+                "last_commit": "2026-09-07T16:12:34Z",
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38697,
+                "stars": 38708,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -717,11 +717,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T08:28:07Z",
+                "last_commit": "2026-09-07T16:12:34Z",
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38697,
+                "stars": 38708,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -746,7 +746,7 @@
                 "open_issues": 422,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6541,
+                "stars": 6543,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -764,7 +764,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-22T19:40:55Z",
-                "open_issues": 319,
+                "open_issues": 320,
                 "owner": "tensorflow",
                 "repo": "tpu",
                 "stars": 5277,
@@ -788,7 +788,7 @@
                 "open_issues": 304,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3823,
+                "stars": 3824,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -817,7 +817,7 @@
                 "open_issues": 304,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3823,
+                "stars": 3824,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -846,7 +846,7 @@
                 "open_issues": 304,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3823,
+                "stars": 3824,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -875,7 +875,7 @@
                 "open_issues": 16,
                 "owner": "IDEA-Research",
                 "repo": "T-Rex",
-                "stars": 2701,
+                "stars": 2702,
                 "topics": [
                   "interactive",
                   "object-counting",
@@ -976,7 +976,7 @@
                 "open_issues": 4,
                 "owner": "iSEE-Laboratory",
                 "repo": "LLMDet",
-                "stars": 615,
+                "stars": 614,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -1383,27 +1383,6 @@
             },
             {
               "node_type": "item",
-              "title": "Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning (ECCV 2024) [paper]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV'24/IJCV'26] Code repo for \"Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning\" ",
-                "homepage": null,
-                "id": 788501108,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-03-15T08:46:45Z",
-                "open_issues": 5,
-                "owner": "VisionXLab",
-                "repo": "CastDet",
-                "stars": 85,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:25:33.857Z"
-            },
-            {
-              "node_type": "item",
               "title": "Enhancing Novel Object Detection via Cooperative Foundational Models （WACV 2025) [paper]",
               "description": "[code]",
               "children": [],
@@ -1429,6 +1408,27 @@
                   "pytorch",
                   "zero-shot-object-detection"
                 ]
+              },
+              "first_seen": "2026-08-29T02:25:33.857Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning (ECCV 2024) [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV'24/IJCV'26] Code repo for \"Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning\" ",
+                "homepage": null,
+                "id": 788501108,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-03-15T08:46:45Z",
+                "open_issues": 5,
+                "owner": "VisionXLab",
+                "repo": "CastDet",
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1723,7 +1723,7 @@
                 "open_issues": 8,
                 "owner": "mala-lab",
                 "repo": "SIC-CADS",
-                "stars": 30,
+                "stars": 29,
                 "topics": [
                   "foundation-models",
                   "object-detection",
@@ -1750,7 +1750,7 @@
                 "open_issues": 6,
                 "owner": "VinAIResearch",
                 "repo": "LP-OVOD",
-                "stars": 30,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2916,7 +2916,7 @@
                 "open_issues": 8,
                 "owner": "apple",
                 "repo": "ml-ferret",
-                "stars": 8667,
+                "stars": 8666,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2937,7 +2937,7 @@
                 "open_issues": 8,
                 "owner": "apple",
                 "repo": "ml-ferret",
-                "stars": 8667,
+                "stars": 8666,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2958,7 +2958,7 @@
                 "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22204,
+                "stars": 22206,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T21:39:38.967Z",
+    "last_updated": "2026-09-07T22:14:11.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
