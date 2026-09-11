@@ -21,7 +21,7 @@
                 "open_issues": 1962,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32917,
+                "stars": 32918,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -353,7 +353,7 @@
                     "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38724,
+                    "stars": 38737,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -378,7 +378,7 @@
                     "open_issues": 685,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22208,
+                    "stars": 22212,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -420,7 +420,7 @@
                     "open_issues": 324,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10565,
+                    "stars": 10570,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -443,9 +443,9 @@
                     "id": 701540574,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2024-10-09T02:40:44Z",
+                    "last_commit": "2026-09-11T15:56:47Z",
                     "open_issues": 8,
-                    "owner": "apple",
+                    "owner": "apple-aiml-research",
                     "repo": "ml-ferret",
                     "stars": 8665,
                     "topics": []
@@ -468,7 +468,7 @@
                     "open_issues": 324,
                     "owner": "QwenLM",
                     "repo": "Qwen-VL",
-                    "stars": 6724,
+                    "stars": 6723,
                     "topics": [
                       "large-language-models",
                       "vision-language-model"
@@ -696,7 +696,7 @@
                 "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38724,
+                "stars": 38737,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -721,7 +721,7 @@
                 "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38724,
+                "stars": 38737,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -743,10 +743,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2025-02-26T18:29:03Z",
-                "open_issues": 422,
+                "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6549,
+                "stars": 6550,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -767,7 +767,7 @@
                 "open_issues": 320,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5276,
+                "stars": 5277,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -875,7 +875,7 @@
                 "open_issues": 17,
                 "owner": "IDEA-Research",
                 "repo": "T-Rex",
-                "stars": 2700,
+                "stars": 2701,
                 "topics": [
                   "interactive",
                   "object-counting",
@@ -1383,6 +1383,27 @@
             },
             {
               "node_type": "item",
+              "title": "Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning (ECCV 2024) [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV'24/IJCV'26] Code repo for \"Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning\" ",
+                "homepage": null,
+                "id": 788501108,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-03-15T08:46:45Z",
+                "open_issues": 5,
+                "owner": "VisionXLab",
+                "repo": "CastDet",
+                "stars": 85,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T02:25:33.857Z"
+            },
+            {
+              "node_type": "item",
               "title": "Enhancing Novel Object Detection via Cooperative Foundational Models （WACV 2025) [paper]",
               "description": "[code]",
               "children": [],
@@ -1408,27 +1429,6 @@
                   "pytorch",
                   "zero-shot-object-detection"
                 ]
-              },
-              "first_seen": "2026-08-29T02:25:33.857Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning (ECCV 2024) [paper]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV'24/IJCV'26] Code repo for \"Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning\" ",
-                "homepage": null,
-                "id": 788501108,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-03-15T08:46:45Z",
-                "open_issues": 5,
-                "owner": "VisionXLab",
-                "repo": "CastDet",
-                "stars": 84,
-                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -2912,9 +2912,9 @@
                 "id": 701540574,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2024-10-09T02:40:44Z",
+                "last_commit": "2026-09-11T15:56:47Z",
                 "open_issues": 8,
-                "owner": "apple",
+                "owner": "apple-aiml-research",
                 "repo": "ml-ferret",
                 "stars": 8665,
                 "topics": []
@@ -2933,9 +2933,9 @@
                 "id": 701540574,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2024-10-09T02:40:44Z",
+                "last_commit": "2026-09-11T15:56:47Z",
                 "open_issues": 8,
-                "owner": "apple",
+                "owner": "apple-aiml-research",
                 "repo": "ml-ferret",
                 "stars": 8665,
                 "topics": []
@@ -2958,7 +2958,7 @@
                 "open_issues": 685,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22208,
+                "stars": 22212,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3179,7 +3179,7 @@
             "open_issues": 2,
             "owner": "jianzongwu",
             "repo": "Awesome-Open-Vocabulary",
-            "stars": 1003,
+            "stars": 1004,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:48:49.675Z",
+    "last_updated": "2026-09-11T21:52:36.013Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
