@@ -95,7 +95,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "GLIP",
-                "stars": 2607,
+                "stars": 2608,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -116,7 +116,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "GLIP",
-                "stars": 2607,
+                "stars": 2608,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -353,7 +353,7 @@
                     "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38740,
+                    "stars": 38750,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -375,7 +375,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-26T08:16:01Z",
-                    "open_issues": 685,
+                    "open_issues": 686,
                     "owner": "microsoft",
                     "repo": "unilm",
                     "stars": 22213,
@@ -447,7 +447,7 @@
                     "open_issues": 8,
                     "owner": "apple-aiml-research",
                     "repo": "ml-ferret",
-                    "stars": 8664,
+                    "stars": 8663,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
@@ -468,7 +468,7 @@
                     "open_issues": 324,
                     "owner": "QwenLM",
                     "repo": "Qwen-VL",
-                    "stars": 6724,
+                    "stars": 6725,
                     "topics": [
                       "large-language-models",
                       "vision-language-model"
@@ -696,7 +696,7 @@
                 "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38740,
+                "stars": 38750,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -721,7 +721,7 @@
                 "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38740,
+                "stars": 38750,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -788,7 +788,7 @@
                 "open_issues": 304,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3825,
+                "stars": 3826,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -817,7 +817,7 @@
                 "open_issues": 304,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3825,
+                "stars": 3826,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -846,7 +846,7 @@
                 "open_issues": 304,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3825,
+                "stars": 3826,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -976,7 +976,7 @@
                 "open_issues": 4,
                 "owner": "iSEE-Laboratory",
                 "repo": "LLMDet",
-                "stars": 616,
+                "stars": 615,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -1068,7 +1068,7 @@
                 "open_issues": 9,
                 "owner": "alirezazareian",
                 "repo": "ovr-cnn",
-                "stars": 248,
+                "stars": 249,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2916,7 +2916,7 @@
                 "open_issues": 8,
                 "owner": "apple-aiml-research",
                 "repo": "ml-ferret",
-                "stars": 8664,
+                "stars": 8663,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2937,7 +2937,7 @@
                 "open_issues": 8,
                 "owner": "apple-aiml-research",
                 "repo": "ml-ferret",
-                "stars": 8664,
+                "stars": 8663,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2955,7 +2955,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-26T08:16:01Z",
-                "open_issues": 685,
+                "open_issues": 686,
                 "owner": "microsoft",
                 "repo": "unilm",
                 "stars": 22213,
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T21:35:59.274Z",
+    "last_updated": "2026-09-13T21:37:04.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
