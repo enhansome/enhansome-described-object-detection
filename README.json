@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-08-21T02:01:07Z",
-                "open_issues": 1962,
+                "open_issues": 1963,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32937,
+                "stars": 32943,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -137,7 +137,7 @@
                 "open_issues": 59,
                 "owner": "shenyunhang",
                 "repo": "APE",
-                "stars": 609,
+                "stars": 610,
                 "topics": [
                   "image-segmentation",
                   "object-detection",
@@ -223,7 +223,7 @@
                 "open_issues": 11,
                 "owner": "microsoft",
                 "repo": "FIBER",
-                "stars": 131,
+                "stars": 132,
                 "topics": [
                   "vision-language"
                 ]
@@ -353,7 +353,7 @@
                     "open_issues": 1995,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38795,
+                    "stars": 38805,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -420,7 +420,7 @@
                     "open_issues": 324,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10601,
+                    "stars": 10603,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -468,7 +468,7 @@
                     "open_issues": 325,
                     "owner": "QwenLM",
                     "repo": "Qwen-VL",
-                    "stars": 6727,
+                    "stars": 6728,
                     "topics": [
                       "large-language-models",
                       "vision-language-model"
@@ -696,7 +696,7 @@
                 "open_issues": 1995,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38795,
+                "stars": 38805,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -721,7 +721,7 @@
                 "open_issues": 1995,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38795,
+                "stars": 38805,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -746,7 +746,7 @@
                 "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6562,
+                "stars": 6565,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -875,7 +875,7 @@
                 "open_issues": 17,
                 "owner": "IDEA-Research",
                 "repo": "T-Rex",
-                "stars": 2705,
+                "stars": 2707,
                 "topics": [
                   "interactive",
                   "object-counting",
@@ -976,7 +976,7 @@
                 "open_issues": 4,
                 "owner": "iSEE-Laboratory",
                 "repo": "LLMDet",
-                "stars": 617,
+                "stars": 618,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3179,7 +3179,7 @@
             "open_issues": 2,
             "owner": "jianzongwu",
             "repo": "Awesome-Open-Vocabulary",
-            "stars": 1004,
+            "stars": 1005,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -3303,7 +3303,7 @@
             "open_issues": 0,
             "owner": "witnessai",
             "repo": "Awesome-Open-Vocabulary-Object-Detection",
-            "stars": 423,
+            "stars": 424,
             "topics": [
               "object-detection",
               "open-vocabulary"
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:42:00.054Z",
+    "last_updated": "2026-09-20T21:46:35.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
