@@ -21,7 +21,7 @@
                 "open_issues": 1963,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32960,
+                "stars": 32962,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -63,7 +63,7 @@
                 "open_issues": 166,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6027,
+                "stars": 6028,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -353,7 +353,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38832,
+                    "stars": 38839,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -378,7 +378,7 @@
                     "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22226,
+                    "stars": 22225,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -420,7 +420,7 @@
                     "open_issues": 324,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10626,
+                    "stars": 10632,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -513,7 +513,7 @@
                     "open_issues": 32,
                     "owner": "MasterBin-IIAU",
                     "repo": "UNINEXT",
-                    "stars": 1280,
+                    "stars": 1279,
                     "topics": [
                       "instance-segmentation",
                       "multi-object-tracking-segmentation",
@@ -696,7 +696,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38832,
+                "stars": 38839,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -721,7 +721,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38832,
+                "stars": 38839,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -746,7 +746,7 @@
                 "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6574,
+                "stars": 6577,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -784,11 +784,11 @@
                 "id": 385275507,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T11:22:27Z",
-                "open_issues": 306,
+                "last_commit": "2026-09-28T08:48:09Z",
+                "open_issues": 305,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3839,
+                "stars": 3838,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -813,11 +813,11 @@
                 "id": 385275507,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T11:22:27Z",
-                "open_issues": 306,
+                "last_commit": "2026-09-28T08:48:09Z",
+                "open_issues": 305,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3839,
+                "stars": 3838,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -842,11 +842,11 @@
                 "id": 385275507,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T11:22:27Z",
-                "open_issues": 306,
+                "last_commit": "2026-09-28T08:48:09Z",
+                "open_issues": 305,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3839,
+                "stars": 3838,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -1362,6 +1362,27 @@
             },
             {
               "node_type": "item",
+              "title": "Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning (ECCV 2024) [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV'24/IJCV'26] Code repo for \"Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning\" ",
+                "homepage": null,
+                "id": 788501108,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-03-15T08:46:45Z",
+                "open_issues": 5,
+                "owner": "VisionXLab",
+                "repo": "CastDet",
+                "stars": 86,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T02:25:33.857Z"
+            },
+            {
+              "node_type": "item",
               "title": "Language-conditioned Detection Transformer (arxiv 2023) [paper]",
               "description": "[code]",
               "children": [],
@@ -1377,27 +1398,6 @@
                 "owner": "janghyuncho",
                 "repo": "DECOLA",
                 "stars": 86,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:25:33.857Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning (ECCV 2024) [paper]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV'24/IJCV'26] Code repo for \"Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning\" ",
-                "homepage": null,
-                "id": 788501108,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-03-15T08:46:45Z",
-                "open_issues": 5,
-                "owner": "VisionXLab",
-                "repo": "CastDet",
-                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -1949,7 +1949,7 @@
                 "open_issues": 32,
                 "owner": "ashkamath",
                 "repo": "mdetr",
-                "stars": 1053,
+                "stars": 1054,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2481,7 +2481,7 @@
                 "open_issues": 22,
                 "owner": "lichengunc",
                 "repo": "MAttNet",
-                "stars": 299,
+                "stars": 298,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2958,7 +2958,7 @@
                 "open_issues": 687,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22226,
+                "stars": 22225,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T22:31:46.079Z",
+    "last_updated": "2026-09-28T23:53:45.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
