@@ -21,7 +21,7 @@
                 "open_issues": 1963,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32971,
+                "stars": 32972,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -353,7 +353,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38856,
+                    "stars": 38859,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -378,7 +378,7 @@
                     "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22227,
+                    "stars": 22229,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -420,7 +420,7 @@
                     "open_issues": 324,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10640,
+                    "stars": 10643,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -468,7 +468,7 @@
                     "open_issues": 326,
                     "owner": "QwenLM",
                     "repo": "Qwen-VL",
-                    "stars": 6725,
+                    "stars": 6726,
                     "topics": [
                       "large-language-models",
                       "vision-language-model"
@@ -696,7 +696,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38856,
+                "stars": 38859,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -721,7 +721,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38856,
+                "stars": 38859,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -955,7 +955,7 @@
                 "open_issues": 21,
                 "owner": "IDEA-Research",
                 "repo": "OpenSeeD",
-                "stars": 764,
+                "stars": 765,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -997,7 +997,7 @@
                 "open_issues": 16,
                 "owner": "Atten4Vis",
                 "repo": "LW-DETR",
-                "stars": 513,
+                "stars": 514,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -1757,6 +1757,30 @@
             },
             {
               "node_type": "item",
+              "title": "Taming Self-Training for Open-Vocabulary Object Detection (CVPR 2024) [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Taming Self-Training for Open-Vocabulary Object Detection, CVPR 2024",
+                "homepage": "https://arxiv.org/abs/2308.06412",
+                "id": 737108537,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2023-12-30T00:17:52Z",
+                "open_issues": 3,
+                "owner": "xiaofeng94",
+                "repo": "SAS-Det",
+                "stars": 23,
+                "topics": [
+                  "object-detection",
+                  "vision-and-language"
+                ]
+              },
+              "first_seen": "2026-08-29T02:25:33.857Z"
+            },
+            {
+              "node_type": "item",
               "title": "Open Vocabulary Object Detection with Proposal Mining and Prediction Equalization (arXiv 2022) [paper]",
               "description": "[code]",
               "children": [],
@@ -1773,30 +1797,6 @@
                 "repo": "MEDet",
                 "stars": 23,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T02:25:33.857Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Taming Self-Training for Open-Vocabulary Object Detection (CVPR 2024) [paper]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Taming Self-Training for Open-Vocabulary Object Detection, CVPR 2024",
-                "homepage": "https://arxiv.org/abs/2308.06412",
-                "id": 737108537,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2023-12-30T00:17:52Z",
-                "open_issues": 3,
-                "owner": "xiaofeng94",
-                "repo": "SAS-Det",
-                "stars": 22,
-                "topics": [
-                  "object-detection",
-                  "vision-and-language"
-                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -2888,7 +2888,7 @@
                 "open_issues": 471,
                 "owner": "cocodataset",
                 "repo": "cocoapi",
-                "stars": 6385,
+                "stars": 6386,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2958,7 +2958,7 @@
                 "open_issues": 687,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22227,
+                "stars": 22229,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3179,7 +3179,7 @@
             "open_issues": 2,
             "owner": "jianzongwu",
             "repo": "Awesome-Open-Vocabulary",
-            "stars": 1007,
+            "stars": 1009,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:10:43.747Z",
+    "last_updated": "2026-10-01T23:23:27.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
@@ -3349,7 +3349,7 @@
       "open_issues": 1,
       "owner": "Charles-Xie",
       "repo": "awesome-described-object-detection",
-      "stars": 360,
+      "stars": 361,
       "topics": [
         "awesome",
         "awesome-list",
