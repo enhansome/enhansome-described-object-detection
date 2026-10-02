@@ -21,7 +21,7 @@
                 "open_issues": 1963,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32972,
+                "stars": 32975,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -353,7 +353,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38859,
+                    "stars": 38862,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -378,7 +378,7 @@
                     "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22229,
+                    "stars": 22227,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -417,10 +417,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-08-12T08:52:02Z",
-                    "open_issues": 324,
+                    "open_issues": 325,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10643,
+                    "stars": 10644,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -447,7 +447,7 @@
                     "open_issues": 8,
                     "owner": "apple-aiml-research",
                     "repo": "ml-ferret",
-                    "stars": 8661,
+                    "stars": 8658,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
@@ -696,7 +696,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38859,
+                "stars": 38862,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -721,7 +721,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38859,
+                "stars": 38862,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -746,7 +746,7 @@
                 "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6578,
+                "stars": 6577,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -767,7 +767,7 @@
                 "open_issues": 320,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5278,
+                "stars": 5279,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -934,7 +934,7 @@
                 "open_issues": 21,
                 "owner": "microsoft",
                 "repo": "RegionCLIP",
-                "stars": 818,
+                "stars": 819,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -1919,7 +1919,7 @@
                 "open_issues": 11,
                 "owner": "OFA-Sys",
                 "repo": "ONE-PEACE",
-                "stars": 1060,
+                "stars": 1061,
                 "topics": [
                   "audio-language",
                   "contrastive-loss",
@@ -2888,7 +2888,7 @@
                 "open_issues": 471,
                 "owner": "cocodataset",
                 "repo": "cocoapi",
-                "stars": 6386,
+                "stars": 6387,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2916,7 +2916,7 @@
                 "open_issues": 8,
                 "owner": "apple-aiml-research",
                 "repo": "ml-ferret",
-                "stars": 8661,
+                "stars": 8658,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2937,7 +2937,7 @@
                 "open_issues": 8,
                 "owner": "apple-aiml-research",
                 "repo": "ml-ferret",
-                "stars": 8661,
+                "stars": 8658,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2958,7 +2958,7 @@
                 "open_issues": 687,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22229,
+                "stars": 22227,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T23:23:27.520Z",
+    "last_updated": "2026-10-02T23:12:36.584Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
