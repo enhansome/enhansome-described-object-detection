@@ -21,7 +21,7 @@
                 "open_issues": 1963,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32975,
+                "stars": 32980,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -63,7 +63,7 @@
                 "open_issues": 166,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6030,
+                "stars": 6032,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -353,7 +353,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38863,
+                    "stars": 38868,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -696,7 +696,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38863,
+                "stars": 38868,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -721,7 +721,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38863,
+                "stars": 38868,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -767,7 +767,7 @@
                 "open_issues": 320,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5279,
+                "stars": 5280,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -785,7 +785,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T08:48:09Z",
-                "open_issues": 305,
+                "open_issues": 309,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3839,
@@ -814,7 +814,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T08:48:09Z",
-                "open_issues": 305,
+                "open_issues": 309,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3839,
@@ -843,7 +843,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T08:48:09Z",
-                "open_issues": 305,
+                "open_issues": 309,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3839,
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:43:03.315Z",
+    "last_updated": "2026-10-03T22:23:33.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
