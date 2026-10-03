@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "An Open and Comprehensive Pipeline for Unified Object Grounding and Detection (arxiv 2024) [paper]",
-              "description": "[code]",
+              "description": "open-mmlab/mmdetection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -50,7 +50,7 @@
             {
               "node_type": "item",
               "title": "VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model (arxiv 2025) [paper]",
-              "description": "[code]",
+              "description": "om-ai-lab/VLM-R1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -82,7 +82,7 @@
             {
               "node_type": "item",
               "title": "GLIPv2: Unifying Localization and Vision-Language Understanding (NeurIPS 2022) [paper]",
-              "description": "[code]",
+              "description": "microsoft/GLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -103,7 +103,7 @@
             {
               "node_type": "item",
               "title": "Grounded Language-Image Pre-training (CVPR 2022) [paper]",
-              "description": "[code]",
+              "description": "microsoft/GLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -124,7 +124,7 @@
             {
               "node_type": "item",
               "title": "Aligning and Prompting Everything All at Once for Universal Visual Perception (arxiv 2023) [paper]",
-              "description": "[code]",
+              "description": "shenyunhang/APE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -151,7 +151,7 @@
             {
               "node_type": "item",
               "title": "Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models (ECCV 2024) [paper]",
-              "description": "[code]",
+              "description": "FoundationVision/Groma",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -210,7 +210,7 @@
             {
               "node_type": "item",
               "title": "Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone (NeurIPS 2022) [paper]",
-              "description": "[code]",
+              "description": "microsoft/FIBER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -233,7 +233,7 @@
             {
               "node_type": "item",
               "title": "RefDrone: A Challenging Benchmark for Referring Expression Comprehension in Drone Scenes (arxiv 2025) [paper]",
-              "description": "[code]",
+              "description": "sunzc-sunny/refdrone",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -254,7 +254,7 @@
             {
               "node_type": "item",
               "title": "DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM (ECCV 2024) [paper]",
-              "description": "[code]",
+              "description": "yixuan730/DetToolChain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -275,7 +275,7 @@
             {
               "node_type": "item",
               "title": "Re-Aligning Language to Visual Objects with an Agentic Workflow (ICLR 2025) [paper]",
-              "description": "[code]",
+              "description": "FishAndWasabi/Real-LOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -296,7 +296,7 @@
             {
               "node_type": "item",
               "title": "DesCo: Learning Object Recognition with Rich Language Descriptions (NeurIPS 2023) [paper]",
-              "description": "[code]",
+              "description": "liunian-harold-li/DesCo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -317,7 +317,7 @@
             {
               "node_type": "item",
               "title": "Generating Enhanced Negatives for Training Language-Based Object Detectors (CVPR 2024) [paper]",
-              "description": "[code]",
+              "description": "xiaofeng94/Gen-Enhanced-Negs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -353,7 +353,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38862,
+                    "stars": 38863,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -420,7 +420,7 @@
                     "open_issues": 325,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10644,
+                    "stars": 10646,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -434,7 +434,7 @@
                 {
                   "node_type": "item",
                   "title": "Ferret: Refer and Ground Anything Anywhere at Any Granularity [paper]",
-                  "description": "[code]",
+                  "description": "apple-aiml-research/ml-ferret",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -447,7 +447,7 @@
                     "open_issues": 8,
                     "owner": "apple-aiml-research",
                     "repo": "ml-ferret",
-                    "stars": 8658,
+                    "stars": 8657,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
@@ -479,7 +479,7 @@
                 {
                   "node_type": "item",
                   "title": "SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models (arxiv 2023) [paper]",
-                  "description": "[code]",
+                  "description": "Alpha-VLLM/LLaMA2-Accessory",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -601,7 +601,7 @@
                 {
                   "node_type": "item",
                   "title": "Griffon: Spelling out All Object Locations at Any Granularity with Large Language Models (arxiv 2023) [paper]",
-                  "description": "[code]",
+                  "description": "jefferyZhan/Griffon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -622,7 +622,7 @@
                 {
                   "node_type": "item",
                   "title": "Generative Region-Language Pretraining for Open-Ended Object Detection (CVPR 2024) [paper]",
-                  "description": "[code]",
+                  "description": "FoundationVision/GenerateU",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -650,7 +650,7 @@
                 {
                   "node_type": "item",
                   "title": "Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs (CVPR 2024) [paper]",
-                  "description": "[code]",
+                  "description": "SY-Xuan/Pink",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -683,7 +683,7 @@
             {
               "node_type": "item",
               "title": "Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers (CVPR 2023) [paper]",
-              "description": "[code]",
+              "description": "google-research/google-research",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -696,7 +696,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38862,
+                "stars": 38863,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -721,7 +721,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38862,
+                "stars": 38863,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -733,7 +733,7 @@
             {
               "node_type": "item",
               "title": "YOLO-World: Real-Time Open-Vocabulary Object Detection (arxiv 2024) [paper]",
-              "description": "[code]",
+              "description": "AILab-CVC/YOLO-World",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -754,7 +754,7 @@
             {
               "node_type": "item",
               "title": "Open-vocabulary Object Detection via Vision and Language Knowledge Distillation (ICLR 2022) [paper]",
-              "description": "[code]",
+              "description": "tensorflow/tpu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -833,7 +833,7 @@
             {
               "node_type": "item",
               "title": "Simple Open-Vocabulary Object Detection with Vision Transformers (ECCV 2022) [paper]",
-              "description": "[code]",
+              "description": "google-research/scenic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -862,7 +862,7 @@
             {
               "node_type": "item",
               "title": "T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy (arxiv 2024) [paper]",
-              "description": "[code]",
+              "description": "IDEA-Research/T-Rex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -890,7 +890,7 @@
             {
               "node_type": "item",
               "title": "Real-time Transformer-based Open-Vocabulary Detection with Efficient Fusion Head (arxiv 2024) [paper]",
-              "description": "[code]",
+              "description": "om-ai-lab/OmDet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -921,7 +921,7 @@
             {
               "node_type": "item",
               "title": "RegionCLIP: Region-Based Language-Image Pretraining (CVPR 2022) [paper]",
-              "description": "[code]",
+              "description": "microsoft/RegionCLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -942,7 +942,7 @@
             {
               "node_type": "item",
               "title": "A Simple Framework for Open-Vocabulary Segmentation and Detection (ICCV 2023) [paper]",
-              "description": "[code]",
+              "description": "IDEA-Research/OpenSeeD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -963,7 +963,7 @@
             {
               "node_type": "item",
               "title": "LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models (CVPR 2025 Highlight) [paper]",
-              "description": "[code]",
+              "description": "iSEE-Laboratory/LLMDet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -976,7 +976,7 @@
                 "open_issues": 4,
                 "owner": "iSEE-Laboratory",
                 "repo": "LLMDet",
-                "stars": 619,
+                "stars": 620,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -1005,7 +1005,7 @@
             {
               "node_type": "item",
               "title": "OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion (arxiv 2024) [paper]",
-              "description": "[code]",
+              "description": "wanghao9610/OV-DINO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1034,7 +1034,7 @@
             {
               "node_type": "item",
               "title": "Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection (NeurIPS 2022) [paper]",
-              "description": "[code]",
+              "description": "hanoonaR/object-centric-ovd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1055,7 +1055,7 @@
             {
               "node_type": "item",
               "title": "Open-Vocabulary Object Detection Using Captions (CVPR 2021) [paper]",
-              "description": "[code]",
+              "description": "alirezazareian/ovr-cnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1076,7 +1076,7 @@
             {
               "node_type": "item",
               "title": "Open-Vocabulary DETR with Conditional Matching (ECCV 2022) [paper]",
-              "description": "[code]",
+              "description": "yuhangzang/OV-DETR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1097,7 +1097,7 @@
             {
               "node_type": "item",
               "title": "CORA: Adapting CLIP for Open-Vocabulary Detection with Region Prompting and Anchor Pre-Matching (CVPR 2023) [paper]",
-              "description": "[code]",
+              "description": "tgxs002/CORA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1118,7 +1118,7 @@
             {
               "node_type": "item",
               "title": "Learning Object-Language Alignments for Open-Vocabulary Object Detection (ICLR 2023) [paper]",
-              "description": "[code]",
+              "description": "clin1223/VLDet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1146,7 +1146,7 @@
             {
               "node_type": "item",
               "title": "Aligning Bag of Regions for Open-Vocabulary Object Detection (CVPR 2023) [paper]",
-              "description": "[code]",
+              "description": "wusize/ovdet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1171,7 +1171,7 @@
             {
               "node_type": "item",
               "title": "Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model (CVPR 2022) [paper]",
-              "description": "[code]",
+              "description": "dyabel/detpro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1226,7 +1226,7 @@
             {
               "node_type": "item",
               "title": "Distilling DETR with Visual-Linguistic Knowledge for Open-Vocabulary Object Detection (ICCV 2023) [paper]",
-              "description": "[code]",
+              "description": "hikvision-research/opera",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1247,7 +1247,7 @@
             {
               "node_type": "item",
               "title": "OV-DQUO: Open-Vocabulary DETR with Denoising Text Query Training and Open-World Unknown Objects Supervision (arxiv 2024) [paper]",
-              "description": "[code]",
+              "description": "xiaomoguhz/OV-DQUO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1268,7 +1268,7 @@
             {
               "node_type": "item",
               "title": "CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection (NeurIPS 2023) [paper]",
-              "description": "[code]",
+              "description": "CVMI-Lab/CoDet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1293,7 +1293,7 @@
             {
               "node_type": "item",
               "title": "SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection (CVPR 2024) [paper]",
-              "description": "[code]",
+              "description": "naver/shine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1317,7 +1317,7 @@
             {
               "node_type": "item",
               "title": "Exploiting Unlabeled Data with Vision and Language Models for Object Detection (ECCV 2022) [paper]",
-              "description": "[code]",
+              "description": "xiaofeng94/VL-PLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1363,7 +1363,7 @@
             {
               "node_type": "item",
               "title": "Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning (ECCV 2024) [paper]",
-              "description": "[code]",
+              "description": "VisionXLab/CastDet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1384,7 +1384,7 @@
             {
               "node_type": "item",
               "title": "Language-conditioned Detection Transformer (arxiv 2023) [paper]",
-              "description": "[code]",
+              "description": "janghyuncho/DECOLA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1405,7 +1405,7 @@
             {
               "node_type": "item",
               "title": "Enhancing Novel Object Detection via Cooperative Foundational Models （WACV 2025) [paper]",
-              "description": "[code]",
+              "description": "rohit901/cooperative-foundational-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1435,7 +1435,7 @@
             {
               "node_type": "item",
               "title": "Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection (ICCV 2025) [paper]",
-              "description": "[code]",
+              "description": "wengminghe/Dynamic-DINO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1456,7 +1456,7 @@
             {
               "node_type": "item",
               "title": "The devil is in the fine-grained details: Evaluating open-vocabulary object detectors for fine-grained understanding (CVPR 2024) [paper]",
-              "description": "[code]",
+              "description": "lorebianchi98/FG-OVD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1485,7 +1485,7 @@
             {
               "node_type": "item",
               "title": "Open Vocabulary Object Detection with Pseudo Bounding-Box Labels (ECCV 2022) [paper]",
-              "description": "[code]",
+              "description": "salesforce/PB-OVD",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1506,7 +1506,7 @@
             {
               "node_type": "item",
               "title": "Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection (CVPR 2023) [paper]",
-              "description": "[code]",
+              "description": "LutingWang/OADP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1578,7 +1578,7 @@
             {
               "node_type": "item",
               "title": "Open-Vocabulary Instance Segmentation via Robust Cross-Modal Pseudo-Labeling (CVPR 2022) [paper]",
-              "description": "[code]",
+              "description": "hbdat/cvpr22_cross_modal_pseudo_labeling",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1599,7 +1599,7 @@
             {
               "node_type": "item",
               "title": "DitHub: A Modular Framework for Incremental Open-Vocabulary Object Detection (NeurIPS 2025) [paper]",
-              "description": "[code]",
+              "description": "chiara-cap/DitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1620,7 +1620,7 @@
             {
               "node_type": "item",
               "title": "Open-Vocabulary One-Stage Detection With Hierarchical Visual-Language Knowledge Distillation (CVPR 2022) [paper]",
-              "description": "[code]",
+              "description": "mengqiDyangge/HierKD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1641,7 +1641,7 @@
             {
               "node_type": "item",
               "title": "DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection (arxiv 2023) [paper]",
-              "description": "[code]",
+              "description": "xushilin1/dst-det",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1662,7 +1662,7 @@
             {
               "node_type": "item",
               "title": "CLIFF: Continual Latent Diffusion for Open-Vocabulary Object Detection (ECCV 2024) [paper]",
-              "description": "[code]",
+              "description": "CUHK-AIM-Group/CLIFF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1686,7 +1686,7 @@
             {
               "node_type": "item",
               "title": "CLIM: Contrastive Language-Image Mosaic for Region Representation (AAAI 2024) [paper]",
-              "description": "[code]",
+              "description": "wusize/CLIM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1710,7 +1710,7 @@
             {
               "node_type": "item",
               "title": "Simple Image-level Classification Improves Open-vocabulary Object Detection (arxiv 2023) [paper]",
-              "description": "[code]",
+              "description": "mala-lab/SIC-CADS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1737,7 +1737,7 @@
             {
               "node_type": "item",
               "title": "LP-OVOD: Open-Vocabulary Object Detection by Linear Probing (WACV 2024) [paper]",
-              "description": "[code]",
+              "description": "VinAIResearch/LP-OVOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1758,7 +1758,7 @@
             {
               "node_type": "item",
               "title": "Taming Self-Training for Open-Vocabulary Object Detection (CVPR 2024) [paper]",
-              "description": "[code]",
+              "description": "xiaofeng94/SAS-Det",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1782,7 +1782,7 @@
             {
               "node_type": "item",
               "title": "Open Vocabulary Object Detection with Proposal Mining and Prediction Equalization (arXiv 2022) [paper]",
-              "description": "[code]",
+              "description": "PeixianChen/MEDet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1803,7 +1803,7 @@
             {
               "node_type": "item",
               "title": "Localized Vision-Language Matching for Open-vocabulary Object Detection (GCPR 2022) [paper]",
-              "description": "[code]",
+              "description": "lmb-freiburg/locov",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1824,7 +1824,7 @@
             {
               "node_type": "item",
               "title": "Training-free Boost for Open-Vocabulary Object Detection with Confidence Aggregation (arxiv 2024) [paper]",
-              "description": "[code]",
+              "description": "WarlockWendell/AggDet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1845,7 +1845,7 @@
             {
               "node_type": "item",
               "title": "MarvelOVD: Marrying Object Recognition and Vision-Language Models for Robust Open-Vocabulary Object Detection (ECCV 2024) [paper]",
-              "description": "[code]",
+              "description": "wkfdb/MarvelOVD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1873,7 +1873,7 @@
             {
               "node_type": "item",
               "title": "OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework (ICML 2022) [paper]",
-              "description": "[code]",
+              "description": "OFA-Sys/OFA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1906,7 +1906,7 @@
             {
               "node_type": "item",
               "title": "ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities (arxiv 2023) [paper]",
-              "description": "[code]",
+              "description": "OFA-Sys/ONE-PEACE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2020,7 +2020,7 @@
             {
               "node_type": "item",
               "title": "Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding (CVPR 2022) [paper]",
-              "description": "[code]",
+              "description": "LeapLabTHU/Pseudo-Q",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2049,7 +2049,7 @@
             {
               "node_type": "item",
               "title": "SeqTR: A Simple yet Universal Network for Visual Grounding (ECCV 2022) [paper]",
-              "description": "[code]",
+              "description": "seanzhuh/SeqTR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2073,7 +2073,7 @@
             {
               "node_type": "item",
               "title": "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding (TMM 2023) [paper]",
-              "description": "[code]",
+              "description": "linhuixiao/CLIP-VG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2097,7 +2097,7 @@
             {
               "node_type": "item",
               "title": "Improving Visual Grounding with Visual-Linguistic Verification and Iterative Reasoning (CVPR 2022) [paper]",
-              "description": "[code]",
+              "description": "yangli18/VLTVG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2123,7 +2123,7 @@
             {
               "node_type": "item",
               "title": "InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring (ICCV 2021) [paper]",
-              "description": "[code]",
+              "description": "CurryYuan/InstanceRefer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2149,7 +2149,7 @@
             {
               "node_type": "item",
               "title": "GroundVLP: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection (arxiv 2023) [paper]",
-              "description": "[code]",
+              "description": "om-ai-lab/GroundVLP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2175,7 +2175,7 @@
             {
               "node_type": "item",
               "title": "Referring Transformer: A One-step Approach to Multi-task Visual Grounding (NeurIPS 2021) [paper]",
-              "description": "[code]",
+              "description": "ubc-vision/RefTR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2196,7 +2196,7 @@
             {
               "node_type": "item",
               "title": "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding (arxiv 2024) [paper]",
-              "description": "[code]",
+              "description": "linhuixiao/HiVG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2220,7 +2220,7 @@
             {
               "node_type": "item",
               "title": "DQ-DETR: Dual Query Detection Transformer for Phrase Extraction and Grounding (AAAI 2023) [paper]",
-              "description": "[code]",
+              "description": "IDEA-Research/DQ-DETR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2241,7 +2241,7 @@
             {
               "node_type": "item",
               "title": "TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models (arxiv 2025) [paper]",
-              "description": "[code]",
+              "description": "avaxiao/TextRegion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2262,7 +2262,7 @@
             {
               "node_type": "item",
               "title": "Advancing Visual Grounding With Scene Knowledge: Benchmark and Method (CVPR 2023) [paper]",
-              "description": "[code]",
+              "description": "zhjohnchan/SK-VG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2283,7 +2283,7 @@
             {
               "node_type": "item",
               "title": "OV-VG: A Benchmark for Open-Vocabulary Visual Grounding (arxiv 2023) [paper]",
-              "description": "[code]",
+              "description": "cv516Buaa/OV-VG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2304,7 +2304,7 @@
             {
               "node_type": "item",
               "title": "Context Disentangling and Prototype Inheriting for Robust Visual Grounding (TPAMI 2023) [paper]",
-              "description": "[code]",
+              "description": "WayneTomas/TransCP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2325,7 +2325,7 @@
             {
               "node_type": "item",
               "title": "Visual Grounding with Transformers (ICME 2022) [paper]",
-              "description": "[code]",
+              "description": "usr922/vgtr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2348,7 +2348,7 @@
             {
               "node_type": "item",
               "title": "Multi-Modal Dynamic Graph Transformer for Visual Grounding (CVPR 2022) [paper]",
-              "description": "[code]",
+              "description": "iQua/M-DGT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2369,7 +2369,7 @@
             {
               "node_type": "item",
               "title": "MC-Bench: A Benchmark for Multi-Context Visual Grounding in the Era of MLLMs (arxiv 2025) [paper]",
-              "description": "[code]",
+              "description": "XuYunqiu/MC-Bench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2400,7 +2400,7 @@
             {
               "node_type": "item",
               "title": "Continual Referring Expression Comprehension via Dual Modular Memorization (arxiv 2023) [paper]",
-              "description": "[code]",
+              "description": "zackschen/DMM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2421,7 +2421,7 @@
             {
               "node_type": "item",
               "title": "Multi-Perspective Cross-Modal Object Encoding for Referring Expression Comprehension (TIP 2025) [paper]",
-              "description": "[code]",
+              "description": "freedom6927/ELR_CCS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2442,7 +2442,7 @@
             {
               "node_type": "item",
               "title": "UNITER: UNiversal Image-TExt Representation Learning (ECCV 2020) [paper]",
-              "description": "[code]",
+              "description": "ChenRocks/UNITER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2468,7 +2468,7 @@
             {
               "node_type": "item",
               "title": "MAttNet: Modular Attention Network for Referring Expression Comprehension (CVPR 2018) [paper]",
-              "description": "[code]",
+              "description": "lichengunc/MAttNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2489,7 +2489,7 @@
             {
               "node_type": "item",
               "title": "A Fast and Accurate One-Stage Approach to Visual Grounding (ICCV 2019) [paper]",
-              "description": "[code]",
+              "description": "zyang-ur/onestage_grounding",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2510,7 +2510,7 @@
             {
               "node_type": "item",
               "title": "Multi-task Collaborative Network for Joint Referring Expression Comprehension and Segmentation (CVPR 2020) [paper]",
-              "description": "[code]",
+              "description": "luogen1996/MCN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2563,7 +2563,7 @@
             {
               "node_type": "item",
               "title": "Improving One-stage Visual Grounding by Recursive Sub-query Construction (ECCV 2020) [paper]",
-              "description": "[code]",
+              "description": "zyang-ur/ReSC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2584,7 +2584,7 @@
             {
               "node_type": "item",
               "title": "Look Before You Leap: Learning Landmark Features for One-Stage Visual Grounding (CVPR 2021) [paper]",
-              "description": "[code]",
+              "description": "svip-lab/LBYLNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2610,7 +2610,7 @@
             {
               "node_type": "item",
               "title": "Relation-aware Instance Refinement for Weakly Supervised Visual Grounding (CVPR 2021) [paper]",
-              "description": "[code]",
+              "description": "youngfly11/ReIR-WeaklyGrounding.pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2631,7 +2631,7 @@
             {
               "node_type": "item",
               "title": "Interactive Visual Grounding of Referring Expressions for Human-Robot Interaction (RSS 2018) [paper]",
-              "description": "[code]",
+              "description": "MohitShridhar/ingress",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2659,7 +2659,7 @@
             {
               "node_type": "item",
               "title": "Rethinking Diversified and Discriminative Proposal Generation for Visual Grounding (IJCAI 2018) [paper]",
-              "description": "[code]",
+              "description": "XiangChenchao/DDPN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2685,7 +2685,7 @@
             {
               "node_type": "item",
               "title": "Co-Grounding Networks with Semantic Attention for Referring Expression Comprehension in Videos (CVPR 2021) [paper]",
-              "description": "[code]",
+              "description": "SijieSong/CVPR21-Cogrounding_semantic_attention",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2916,7 +2916,7 @@
                 "open_issues": 8,
                 "owner": "apple-aiml-research",
                 "repo": "ml-ferret",
-                "stars": 8658,
+                "stars": 8657,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2937,7 +2937,7 @@
                 "open_issues": 8,
                 "owner": "apple-aiml-research",
                 "repo": "ml-ferret",
-                "stars": 8658,
+                "stars": 8657,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3166,7 +3166,7 @@
         {
           "node_type": "item",
           "title": "Towards Open Vocabulary Learning: A Survey (TPAMI 2024) [paper]",
-          "description": "[repo]",
+          "description": "jianzongwu/Awesome-Open-Vocabulary",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3192,7 +3192,7 @@
         {
           "node_type": "item",
           "title": "Towards Visual Grounding: A Survey (arxiv 2024) [paper]",
-          "description": "[repo]",
+          "description": "linhuixiao/Awesome-Visual-Grounding",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:12:36.584Z",
+    "last_updated": "2026-10-03T04:43:03.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
