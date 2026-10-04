@@ -63,7 +63,7 @@
                 "open_issues": 166,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6032,
+                "stars": 6031,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -350,10 +350,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-30T21:03:49Z",
-                    "open_issues": 1996,
+                    "open_issues": 1997,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38868,
+                    "stars": 38871,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -375,10 +375,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-21T03:27:00Z",
-                    "open_issues": 687,
+                    "open_issues": 688,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22227,
+                    "stars": 22226,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -420,7 +420,7 @@
                     "open_issues": 325,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10646,
+                    "stars": 10647,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -693,10 +693,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T21:03:49Z",
-                "open_issues": 1996,
+                "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38868,
+                "stars": 38871,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -718,10 +718,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T21:03:49Z",
-                "open_issues": 1996,
+                "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38868,
+                "stars": 38871,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -746,7 +746,7 @@
                 "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6577,
+                "stars": 6578,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2955,10 +2955,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-21T03:27:00Z",
-                "open_issues": 687,
+                "open_issues": 688,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22227,
+                "stars": 22226,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T22:23:33.558Z",
+    "last_updated": "2026-10-04T22:28:52.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
