@@ -21,7 +21,7 @@
                 "open_issues": 1963,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32980,
+                "stars": 32979,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -63,7 +63,7 @@
                 "open_issues": 166,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6031,
+                "stars": 6033,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -353,7 +353,7 @@
                     "open_issues": 1997,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38871,
+                    "stars": 38873,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -378,7 +378,7 @@
                     "open_issues": 688,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22226,
+                    "stars": 22227,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -447,7 +447,7 @@
                     "open_issues": 8,
                     "owner": "apple-aiml-research",
                     "repo": "ml-ferret",
-                    "stars": 8657,
+                    "stars": 8656,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
@@ -489,7 +489,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2025-01-13T06:05:22Z",
-                    "open_issues": 58,
+                    "open_issues": 57,
                     "owner": "Alpha-VLLM",
                     "repo": "LLaMA2-Accessory",
                     "stars": 2796,
@@ -545,7 +545,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2024-07-08T16:14:12Z",
-                    "open_issues": 49,
+                    "open_issues": 48,
                     "owner": "shikras",
                     "repo": "shikra",
                     "stars": 816,
@@ -696,7 +696,7 @@
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38871,
+                "stars": 38873,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -721,7 +721,7 @@
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38871,
+                "stars": 38873,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -746,7 +746,7 @@
                 "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6578,
+                "stars": 6579,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -785,10 +785,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T08:48:09Z",
-                "open_issues": 309,
+                "open_issues": 311,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3839,
+                "stars": 3840,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -814,10 +814,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T08:48:09Z",
-                "open_issues": 309,
+                "open_issues": 311,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3839,
+                "stars": 3840,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -843,10 +843,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T08:48:09Z",
-                "open_issues": 309,
+                "open_issues": 311,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3839,
+                "stars": 3840,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -903,7 +903,7 @@
                 "open_issues": 8,
                 "owner": "om-ai-lab",
                 "repo": "OmDet",
-                "stars": 1406,
+                "stars": 1407,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -1239,7 +1239,7 @@
                 "open_issues": 28,
                 "owner": "hikvision-research",
                 "repo": "opera",
-                "stars": 168,
+                "stars": 169,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2122,6 +2122,32 @@
             },
             {
               "node_type": "item",
+              "title": "GroundVLP: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection (arxiv 2023) [paper]",
+              "description": "om-ai-lab/GroundVLP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "GroundVLP: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection (AAAI 2024)",
+                "homepage": null,
+                "id": 732911173,
+                "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
+                "last_commit": "2026-04-10T07:11:04Z",
+                "open_issues": 4,
+                "owner": "om-ai-lab",
+                "repo": "GroundVLP",
+                "stars": 74,
+                "topics": [
+                  "multimodal",
+                  "object-detection",
+                  "vision-and-language",
+                  "zero-shot-learning"
+                ]
+              },
+              "first_seen": "2026-08-29T02:25:33.857Z"
+            },
+            {
+              "node_type": "item",
               "title": "InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring (ICCV 2021) [paper]",
               "description": "CurryYuan/InstanceRefer",
               "children": [],
@@ -2142,32 +2168,6 @@
                   "leaderboard",
                   "pytorch",
                   "scanrefer"
-                ]
-              },
-              "first_seen": "2026-08-29T02:25:33.857Z"
-            },
-            {
-              "node_type": "item",
-              "title": "GroundVLP: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection (arxiv 2023) [paper]",
-              "description": "om-ai-lab/GroundVLP",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "GroundVLP: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection (AAAI 2024)",
-                "homepage": null,
-                "id": 732911173,
-                "language": "Jupyter Notebook",
-                "license": "Apache-2.0",
-                "last_commit": "2026-04-10T07:11:04Z",
-                "open_issues": 4,
-                "owner": "om-ai-lab",
-                "repo": "GroundVLP",
-                "stars": 73,
-                "topics": [
-                  "multimodal",
-                  "object-detection",
-                  "vision-and-language",
-                  "zero-shot-learning"
                 ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2916,7 +2916,7 @@
                 "open_issues": 8,
                 "owner": "apple-aiml-research",
                 "repo": "ml-ferret",
-                "stars": 8657,
+                "stars": 8656,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2937,7 +2937,7 @@
                 "open_issues": 8,
                 "owner": "apple-aiml-research",
                 "repo": "ml-ferret",
-                "stars": 8657,
+                "stars": 8656,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2958,7 +2958,7 @@
                 "open_issues": 688,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22226,
+                "stars": 22227,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T22:28:52.483Z",
+    "last_updated": "2026-10-06T00:55:46.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
