@@ -21,7 +21,7 @@
                 "open_issues": 1963,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32981,
+                "stars": 32982,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -63,7 +63,7 @@
                 "open_issues": 166,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6034,
+                "stars": 6033,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -349,11 +349,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-30T21:03:49Z",
+                    "last_commit": "2026-10-07T21:04:37Z",
                     "open_issues": 1997,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38878,
+                    "stars": 38880,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -420,7 +420,7 @@
                     "open_issues": 325,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10649,
+                    "stars": 10654,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -692,11 +692,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T21:03:49Z",
+                "last_commit": "2026-10-07T21:04:37Z",
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38878,
+                "stars": 38880,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -717,11 +717,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T21:03:49Z",
+                "last_commit": "2026-10-07T21:04:37Z",
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38878,
+                "stars": 38880,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T23:12:43.945Z",
+    "last_updated": "2026-10-07T23:45:29.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
