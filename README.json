@@ -21,7 +21,7 @@
                 "open_issues": 1963,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32982,
+                "stars": 32983,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -60,10 +60,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-07T01:50:29Z",
-                "open_issues": 166,
+                "open_issues": 165,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6033,
+                "stars": 6032,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -164,7 +164,7 @@
                 "open_issues": 17,
                 "owner": "FoundationVision",
                 "repo": "Groma",
-                "stars": 586,
+                "stars": 587,
                 "topics": [
                   "foundation-models",
                   "grounding",
@@ -349,11 +349,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-07T21:04:37Z",
+                    "last_commit": "2026-10-08T17:38:14Z",
                     "open_issues": 1997,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38880,
+                    "stars": 38884,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -378,7 +378,7 @@
                     "open_issues": 688,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22228,
+                    "stars": 22227,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -420,7 +420,7 @@
                     "open_issues": 325,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10654,
+                    "stars": 10659,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -635,7 +635,7 @@
                     "open_issues": 15,
                     "owner": "FoundationVision",
                     "repo": "GenerateU",
-                    "stars": 196,
+                    "stars": 197,
                     "topics": [
                       "mllm",
                       "multimodality",
@@ -692,11 +692,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T21:04:37Z",
+                "last_commit": "2026-10-08T17:38:14Z",
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38880,
+                "stars": 38884,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -717,11 +717,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T21:04:37Z",
+                "last_commit": "2026-10-08T17:38:14Z",
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38880,
+                "stars": 38884,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -875,7 +875,7 @@
                 "open_issues": 17,
                 "owner": "IDEA-Research",
                 "repo": "T-Rex",
-                "stars": 2709,
+                "stars": 2710,
                 "topics": [
                   "interactive",
                   "object-counting",
@@ -2174,6 +2174,30 @@
             },
             {
               "node_type": "item",
+              "title": "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding (arxiv 2024) [paper]",
+              "description": "linhuixiao/HiVG",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ACM MM 2024] Hierarchical Multimodal Fine-grained Modulation for Visual Grounding.",
+                "homepage": "https://dl.acm.org/doi/pdf/10.1145/3664647.3681071",
+                "id": 789352396,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-11-10T05:37:37Z",
+                "open_issues": 5,
+                "owner": "linhuixiao",
+                "repo": "HiVG",
+                "stars": 67,
+                "topics": [
+                  "clip",
+                  "grounding"
+                ]
+              },
+              "first_seen": "2026-08-29T02:25:33.857Z"
+            },
+            {
+              "node_type": "item",
               "title": "Referring Transformer: A One-step Approach to Multi-task Visual Grounding (NeurIPS 2021) [paper]",
               "description": "ubc-vision/RefTR",
               "children": [],
@@ -2190,30 +2214,6 @@
                 "repo": "RefTR",
                 "stars": 67,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T02:25:33.857Z"
-            },
-            {
-              "node_type": "item",
-              "title": "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding (arxiv 2024) [paper]",
-              "description": "linhuixiao/HiVG",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ACM MM 2024] Hierarchical Multimodal Fine-grained Modulation for Visual Grounding.",
-                "homepage": "https://dl.acm.org/doi/pdf/10.1145/3664647.3681071",
-                "id": 789352396,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2025-11-10T05:37:37Z",
-                "open_issues": 5,
-                "owner": "linhuixiao",
-                "repo": "HiVG",
-                "stars": 66,
-                "topics": [
-                  "clip",
-                  "grounding"
-                ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -2254,7 +2254,7 @@
                 "open_issues": 0,
                 "owner": "avaxiao",
                 "repo": "TextRegion",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2958,7 +2958,7 @@
                 "open_issues": 688,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22228,
+                "stars": 22227,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3205,7 +3205,7 @@
             "open_issues": 4,
             "owner": "linhuixiao",
             "repo": "Awesome-Visual-Grounding",
-            "stars": 329,
+            "stars": 330,
             "topics": [
               "awesome",
               "grounding",
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:45:29.097Z",
+    "last_updated": "2026-10-08T23:54:31.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
