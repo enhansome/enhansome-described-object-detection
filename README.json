@@ -246,7 +246,7 @@
                 "open_issues": 7,
                 "owner": "sunzc-sunny",
                 "repo": "refdrone",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -349,11 +349,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-13T06:27:55Z",
+                    "last_commit": "2026-10-14T21:40:54Z",
                     "open_issues": 2005,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38909,
+                    "stars": 38915,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -378,7 +378,7 @@
                     "open_issues": 689,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22235,
+                    "stars": 22234,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -420,7 +420,7 @@
                     "open_issues": 324,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10671,
+                    "stars": 10673,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -492,7 +492,7 @@
                     "open_issues": 57,
                     "owner": "Alpha-VLLM",
                     "repo": "LLaMA2-Accessory",
-                    "stars": 2797,
+                    "stars": 2796,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
@@ -692,11 +692,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T06:27:55Z",
+                "last_commit": "2026-10-14T21:40:54Z",
                 "open_issues": 2005,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38909,
+                "stars": 38915,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -717,11 +717,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T06:27:55Z",
+                "last_commit": "2026-10-14T21:40:54Z",
                 "open_issues": 2005,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38909,
+                "stars": 38915,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -746,7 +746,7 @@
                 "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6581,
+                "stars": 6584,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -875,7 +875,7 @@
                 "open_issues": 18,
                 "owner": "IDEA-Research",
                 "repo": "T-Rex",
-                "stars": 2709,
+                "stars": 2710,
                 "topics": [
                   "interactive",
                   "object-counting",
@@ -2888,7 +2888,7 @@
                 "open_issues": 471,
                 "owner": "cocodataset",
                 "repo": "cocoapi",
-                "stars": 6388,
+                "stars": 6389,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2958,7 +2958,7 @@
                 "open_issues": 689,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22235,
+                "stars": 22234,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:24:06.174Z",
+    "last_updated": "2026-10-14T22:33:55.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
