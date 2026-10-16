@@ -21,7 +21,7 @@
                 "open_issues": 1965,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32990,
+                "stars": 32992,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -63,7 +63,7 @@
                 "open_issues": 165,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6036,
+                "stars": 6035,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -288,7 +288,7 @@
                 "open_issues": 2,
                 "owner": "FishAndWasabi",
                 "repo": "Real-LOD",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -350,10 +350,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-15T02:18:00Z",
-                    "open_issues": 2006,
+                    "open_issues": 2008,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38922,
+                    "stars": 38928,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -378,7 +378,7 @@
                     "open_issues": 689,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22238,
+                    "stars": 22239,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -420,7 +420,7 @@
                     "open_issues": 324,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10677,
+                    "stars": 10682,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -693,10 +693,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-15T02:18:00Z",
-                "open_issues": 2006,
+                "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38922,
+                "stars": 38928,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -718,10 +718,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-15T02:18:00Z",
-                "open_issues": 2006,
+                "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38922,
+                "stars": 38928,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -746,7 +746,7 @@
                 "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6585,
+                "stars": 6584,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -788,7 +788,7 @@
                 "open_issues": 311,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3843,
+                "stars": 3844,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -817,7 +817,7 @@
                 "open_issues": 311,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3843,
+                "stars": 3844,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -846,7 +846,7 @@
                 "open_issues": 311,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3843,
+                "stars": 3844,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -875,7 +875,7 @@
                 "open_issues": 18,
                 "owner": "IDEA-Research",
                 "repo": "T-Rex",
-                "stars": 2710,
+                "stars": 2711,
                 "topics": [
                   "interactive",
                   "object-counting",
@@ -1505,27 +1505,6 @@
             },
             {
               "node_type": "item",
-              "title": "Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection (CVPR 2023) [paper]",
-              "description": "LutingWang/OADP",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection",
-                "homepage": null,
-                "id": 565907132,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-01-06T07:18:36Z",
-                "open_issues": 6,
-                "owner": "LutingWang",
-                "repo": "OADP",
-                "stars": 64,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:25:33.857Z"
-            },
-            {
-              "node_type": "item",
               "title": "How to Evaluate the Generalization of Detection? A Benchmark for Comprehensive Open-Vocabulary Detection (arxiv 2023) [paper]",
               "description": "[dataset]",
               "children": [],
@@ -1546,6 +1525,27 @@
                   "open-vocabulary-detection",
                   "vision-and-language"
                 ]
+              },
+              "first_seen": "2026-08-29T02:25:33.857Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection (CVPR 2023) [paper]",
+              "description": "LutingWang/OADP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection",
+                "homepage": null,
+                "id": 565907132,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-01-06T07:18:36Z",
+                "open_issues": 6,
+                "owner": "LutingWang",
+                "repo": "OADP",
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1949,7 +1949,7 @@
                 "open_issues": 32,
                 "owner": "ashkamath",
                 "repo": "mdetr",
-                "stars": 1054,
+                "stars": 1053,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2958,7 +2958,7 @@
                 "open_issues": 689,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22238,
+                "stars": 22239,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3227,8 +3227,8 @@
             "id": 147236836,
             "language": null,
             "license": "MIT",
-            "last_commit": "2025-09-21T10:32:22Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-16T20:52:02Z",
+            "open_issues": 3,
             "owner": "TheShadow29",
             "repo": "awesome-grounding",
             "stars": 1128,
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T22:39:00.332Z",
+    "last_updated": "2026-10-16T22:10:46.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
