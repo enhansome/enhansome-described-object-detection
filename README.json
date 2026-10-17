@@ -21,7 +21,7 @@
                 "open_issues": 1965,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32992,
+                "stars": 32994,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -353,7 +353,7 @@
                     "open_issues": 2008,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38928,
+                    "stars": 38930,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -696,7 +696,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38928,
+                "stars": 38930,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -721,7 +721,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38928,
+                "stars": 38930,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -746,7 +746,7 @@
                 "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6584,
+                "stars": 6585,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -976,7 +976,7 @@
                 "open_issues": 4,
                 "owner": "iSEE-Laboratory",
                 "repo": "LLMDet",
-                "stars": 620,
+                "stars": 621,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -1886,7 +1886,7 @@
                 "open_issues": 113,
                 "owner": "OFA-Sys",
                 "repo": "OFA",
-                "stars": 2552,
+                "stars": 2553,
                 "topics": [
                   "chinese",
                   "image-captioning",
@@ -3337,7 +3337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:10:46.772Z",
+    "last_updated": "2026-10-17T21:41:03.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
