@@ -21,7 +21,7 @@
                 "open_issues": 1965,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32999,
+                "stars": 33000,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -63,7 +63,7 @@
                 "open_issues": 165,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6037,
+                "stars": 6039,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -353,7 +353,7 @@
                     "open_issues": 2008,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38960,
+                    "stars": 38986,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -378,7 +378,7 @@
                     "open_issues": 689,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22237,
+                    "stars": 22238,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -417,10 +417,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-08-12T08:52:02Z",
-                    "open_issues": 324,
+                    "open_issues": 325,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10687,
+                    "stars": 10690,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -696,7 +696,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38960,
+                "stars": 38986,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -721,7 +721,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38960,
+                "stars": 38986,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -784,8 +784,8 @@
                 "id": 385275507,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T08:48:09Z",
-                "open_issues": 312,
+                "last_commit": "2026-10-20T09:39:01Z",
+                "open_issues": 313,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3844,
@@ -813,8 +813,8 @@
                 "id": 385275507,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T08:48:09Z",
-                "open_issues": 312,
+                "last_commit": "2026-10-20T09:39:01Z",
+                "open_issues": 313,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3844,
@@ -842,8 +842,8 @@
                 "id": 385275507,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T08:48:09Z",
-                "open_issues": 312,
+                "last_commit": "2026-10-20T09:39:01Z",
+                "open_issues": 313,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3844,
@@ -1949,7 +1949,7 @@
                 "open_issues": 32,
                 "owner": "ashkamath",
                 "repo": "mdetr",
-                "stars": 1053,
+                "stars": 1054,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2344,6 +2344,33 @@
                 ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Jag: Direct Box Prediction for Efficient Visual Grounding (arxiv 2026) [paper]",
+              "description": "xyzzzh/Jag",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Jag: Direct Box Prediction for Efficient Visual Grounding",
+                "homepage": "https://xyzzzh.github.io/Jag/",
+                "id": 1387137460,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-19T12:02:04Z",
+                "open_issues": 2,
+                "owner": "xyzzzh",
+                "repo": "Jag",
+                "stars": 26,
+                "topics": [
+                  "modelscope",
+                  "pytorch",
+                  "qwen",
+                  "referring-expression-comprehension",
+                  "visual-grounding"
+                ]
+              },
+              "first_seen": "2026-10-20T22:35:22.904Z"
             },
             {
               "node_type": "item",
@@ -2813,7 +2840,7 @@
                 "open_issues": 5,
                 "owner": "ZhangYuanhan-AI",
                 "repo": "Bamboo",
-                "stars": 180,
+                "stars": 181,
                 "topics": [
                   "active-learning",
                   "dataset-generation",
@@ -2958,7 +2985,7 @@
                 "open_issues": 689,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22237,
+                "stars": 22238,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3201,7 +3228,7 @@
             "id": 823705182,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2025-11-18T03:39:01Z",
+            "last_commit": "2026-10-20T02:06:45Z",
             "open_issues": 4,
             "owner": "linhuixiao",
             "repo": "Awesome-Visual-Grounding",
@@ -3337,7 +3364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:02:37.642Z",
+    "last_updated": "2026-10-20T22:35:22.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
@@ -3345,7 +3372,7 @@
       "id": 688454620,
       "language": null,
       "license": null,
-      "last_commit": "2025-11-06T06:12:57Z",
+      "last_commit": "2026-10-20T07:17:56Z",
       "open_issues": 1,
       "owner": "Charles-Xie",
       "repo": "awesome-described-object-detection",
@@ -3359,7 +3386,7 @@
         "visual-grounding"
       ]
     },
-    "original_repository_sha": "2a10281ef3abd4100dc530688c16ea18e5404e3c",
+    "original_repository_sha": "417becc78d4eb145beaf822c539032a64192fa92",
     "enhanced_repository": "enhansome/enhansome-described-object-detection",
     "enhanced_repository_description": null,
     "title": "Awesome Described Object Detection with stars"
