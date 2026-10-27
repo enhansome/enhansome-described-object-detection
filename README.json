@@ -21,7 +21,7 @@
                 "open_issues": 1965,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 33014,
+                "stars": 33013,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -63,7 +63,7 @@
                 "open_issues": 165,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6043,
+                "stars": 6045,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -137,7 +137,7 @@
                 "open_issues": 59,
                 "owner": "shenyunhang",
                 "repo": "APE",
-                "stars": 610,
+                "stars": 611,
                 "topics": [
                   "image-segmentation",
                   "object-detection",
@@ -349,11 +349,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-26T20:10:08Z",
+                    "last_commit": "2026-10-27T19:38:57Z",
                     "open_issues": 2024,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39037,
+                    "stars": 39042,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -420,7 +420,7 @@
                     "open_issues": 325,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10704,
+                    "stars": 10710,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -447,7 +447,7 @@
                     "open_issues": 8,
                     "owner": "apple-aiml-research",
                     "repo": "ml-ferret",
-                    "stars": 8650,
+                    "stars": 8649,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
@@ -692,11 +692,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T20:10:08Z",
+                "last_commit": "2026-10-27T19:38:57Z",
                 "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39037,
+                "stars": 39042,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -717,11 +717,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T20:10:08Z",
+                "last_commit": "2026-10-27T19:38:57Z",
                 "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39037,
+                "stars": 39042,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -746,7 +746,7 @@
                 "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6590,
+                "stars": 6592,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -764,10 +764,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-22T19:40:55Z",
-                "open_issues": 320,
+                "open_issues": 319,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5282,
+                "stars": 5283,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -788,7 +788,7 @@
                 "open_issues": 314,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3847,
+                "stars": 3846,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -817,7 +817,7 @@
                 "open_issues": 314,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3847,
+                "stars": 3846,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -846,7 +846,7 @@
                 "open_issues": 314,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3847,
+                "stars": 3846,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -955,7 +955,7 @@
                 "open_issues": 21,
                 "owner": "IDEA-Research",
                 "repo": "OpenSeeD",
-                "stars": 766,
+                "stars": 767,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2282,6 +2282,33 @@
             },
             {
               "node_type": "item",
+              "title": "Jag: Direct Box Prediction for Efficient Visual Grounding (arxiv 2026) [paper]",
+              "description": "xyzzzh/Jag",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Jag: Direct Box Prediction for Efficient Visual Grounding",
+                "homepage": "https://xyzzzh.github.io/Jag/",
+                "id": 1387137460,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-24T04:50:39Z",
+                "open_issues": 2,
+                "owner": "xyzzzh",
+                "repo": "Jag",
+                "stars": 31,
+                "topics": [
+                  "modelscope",
+                  "pytorch",
+                  "qwen",
+                  "referring-expression-comprehension",
+                  "visual-grounding"
+                ]
+              },
+              "first_seen": "2026-10-20T22:35:22.904Z"
+            },
+            {
+              "node_type": "item",
               "title": "OV-VG: A Benchmark for Open-Vocabulary Visual Grounding (arxiv 2023) [paper]",
               "description": "cv516Buaa/OV-VG",
               "children": [],
@@ -2300,33 +2327,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Jag: Direct Box Prediction for Efficient Visual Grounding (arxiv 2026) [paper]",
-              "description": "xyzzzh/Jag",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Jag: Direct Box Prediction for Efficient Visual Grounding",
-                "homepage": "https://xyzzzh.github.io/Jag/",
-                "id": 1387137460,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-24T04:50:39Z",
-                "open_issues": 2,
-                "owner": "xyzzzh",
-                "repo": "Jag",
-                "stars": 30,
-                "topics": [
-                  "modelscope",
-                  "pytorch",
-                  "qwen",
-                  "referring-expression-comprehension",
-                  "visual-grounding"
-                ]
-              },
-              "first_seen": "2026-10-20T22:35:22.904Z"
             },
             {
               "node_type": "item",
@@ -2915,7 +2915,7 @@
                 "open_issues": 472,
                 "owner": "cocodataset",
                 "repo": "cocoapi",
-                "stars": 6391,
+                "stars": 6390,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2943,7 +2943,7 @@
                 "open_issues": 8,
                 "owner": "apple-aiml-research",
                 "repo": "ml-ferret",
-                "stars": 8650,
+                "stars": 8649,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2964,7 +2964,7 @@
                 "open_issues": 8,
                 "owner": "apple-aiml-research",
                 "repo": "ml-ferret",
-                "stars": 8650,
+                "stars": 8649,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3229,10 +3229,10 @@
             "language": "Shell",
             "license": "Apache-2.0",
             "last_commit": "2026-10-20T02:06:45Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "linhuixiao",
             "repo": "Awesome-Visual-Grounding",
-            "stars": 330,
+            "stars": 331,
             "topics": [
               "awesome",
               "grounding",
@@ -3298,7 +3298,7 @@
             "open_issues": 2,
             "owner": "MarkMoHR",
             "repo": "Awesome-Referring-Image-Segmentation",
-            "stars": 831,
+            "stars": 830,
             "topics": [
               "image-segmentation",
               "instance-segmentation",
@@ -3364,7 +3364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T23:17:40.232Z",
+    "last_updated": "2026-10-27T23:06:16.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
