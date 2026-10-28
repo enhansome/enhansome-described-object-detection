@@ -21,7 +21,7 @@
                 "open_issues": 1965,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 33013,
+                "stars": 33016,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -137,7 +137,7 @@
                 "open_issues": 59,
                 "owner": "shenyunhang",
                 "repo": "APE",
-                "stars": 611,
+                "stars": 614,
                 "topics": [
                   "image-segmentation",
                   "object-detection",
@@ -178,6 +178,32 @@
                 ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning (ICLR 2026) [paper]",
+              "description": "IDEA-Research/Rex-Thinker",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR-2026] Rex-Thinker: Grounded Object Refering via Chain-of-Thought Reasoning",
+                "homepage": "https://rexthinker.github.io/",
+                "id": 988746624,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2025-06-30T13:36:57Z",
+                "open_issues": 12,
+                "owner": "IDEA-Research",
+                "repo": "Rex-Thinker",
+                "stars": 156,
+                "topics": [
+                  "grpo",
+                  "mllm",
+                  "object-detection",
+                  "referring-expression-comprehension"
+                ]
+              },
+              "first_seen": "2026-10-28T23:28:49.269Z"
             },
             {
               "node_type": "item",
@@ -336,6 +362,27 @@
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
             {
+              "node_type": "item",
+              "title": "Consistency Beyond Contrast: Enhancing Open-Vocabulary Object Detection Robustness via Contextual Consistency Learning (CVPR 2026) [paper]",
+              "description": "[code (TBD)]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1190822627,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-03-24T16:50:13Z",
+                "open_issues": 1,
+                "owner": "bozhao-li",
+                "repo": "CCL",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-28T23:28:49.269Z"
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -349,11 +396,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-27T19:38:57Z",
-                    "open_issues": 2024,
+                    "last_commit": "2026-10-28T13:44:13Z",
+                    "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39042,
+                    "stars": 39046,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -378,7 +425,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22237,
+                    "stars": 22235,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -420,7 +467,7 @@
                     "open_issues": 325,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10710,
+                    "stars": 10714,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -468,7 +515,7 @@
                     "open_issues": 326,
                     "owner": "QwenLM",
                     "repo": "Qwen-VL",
-                    "stars": 6728,
+                    "stars": 6726,
                     "topics": [
                       "large-language-models",
                       "vision-language-model"
@@ -496,6 +543,31 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Detect Anything via Next Point Prediction (CVPR 2026) [paper]",
+                  "description": "IDEA-Research/Rex-Omni",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR2026] Detect Anything via Next Point Prediction ",
+                    "homepage": "https://rex-omni.github.io/",
+                    "id": 1069444010,
+                    "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-02-22T02:59:06Z",
+                    "open_issues": 1,
+                    "owner": "IDEA-Research",
+                    "repo": "Rex-Omni",
+                    "stars": 1628,
+                    "topics": [
+                      "mllm",
+                      "object-detection",
+                      "open-set"
+                    ]
+                  },
+                  "first_seen": "2026-10-28T23:28:49.269Z"
                 },
                 {
                   "node_type": "item",
@@ -569,7 +641,7 @@
                     "open_issues": 17,
                     "owner": "JialianW",
                     "repo": "GRiT",
-                    "stars": 342,
+                    "stars": 341,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
@@ -595,6 +667,27 @@
                       "large-language-model",
                       "object-detection"
                     ]
+                  },
+                  "first_seen": "2026-08-29T02:25:33.857Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring (ICCV 2025) [paper]",
+                  "description": "jefferyZhan/Griffon",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official repo of Griffon series including v1(ECCV 2024), v2(ICCV 2025), G, and R, and also the RL tool Vision-R1(CVPR 2026).",
+                    "homepage": null,
+                    "id": 721913051,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-04-17T11:47:24Z",
+                    "open_issues": 4,
+                    "owner": "jefferyZhan",
+                    "repo": "Griffon",
+                    "stars": 254,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
                 },
@@ -692,11 +785,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T19:38:57Z",
-                "open_issues": 2024,
+                "last_commit": "2026-10-28T13:44:13Z",
+                "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39042,
+                "stars": 39046,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -717,11 +810,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T19:38:57Z",
-                "open_issues": 2024,
+                "last_commit": "2026-10-28T13:44:13Z",
+                "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39042,
+                "stars": 39046,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -746,7 +839,7 @@
                 "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6592,
+                "stars": 6593,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -886,6 +979,27 @@
                 ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
+            },
+            {
+              "node_type": "item",
+              "title": "YOLOE: Real-Time Seeing Anything (ICCV 2025) [paper]",
+              "description": "THU-MIG/yoloe",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "YOLOE: Real-Time Seeing Anything [ICCV 2025]",
+                "homepage": "https://arxiv.org/abs/2503.07465",
+                "id": 945852337,
+                "language": "Python",
+                "license": "AGPL-3.0",
+                "last_commit": "2025-06-26T03:45:33Z",
+                "open_issues": 82,
+                "owner": "THU-MIG",
+                "repo": "yoloe",
+                "stars": 2326,
+                "topics": []
+              },
+              "first_seen": "2026-10-28T23:28:49.269Z"
             },
             {
               "node_type": "item",
@@ -1033,6 +1147,27 @@
             },
             {
               "node_type": "item",
+              "title": "WeDetect: Fast Open-Vocabulary Object Detection as Retrieval (CVPR 2026) [paper]",
+              "description": "WeChatCV/WeDetect",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "(CVPR 2026) Official repository of paper \"WeDetect: Fast Open-Vocabulary Object Detection as Retrieval\"",
+                "homepage": "https://arxiv.org/abs/2512.12309",
+                "id": 1117252004,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-09T07:10:07Z",
+                "open_issues": 0,
+                "owner": "WeChatCV",
+                "repo": "WeDetect",
+                "stars": 306,
+                "topics": []
+              },
+              "first_seen": "2026-10-28T23:28:49.269Z"
+            },
+            {
+              "node_type": "item",
               "title": "Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection (NeurIPS 2022) [paper]",
               "description": "hanoonaR/object-centric-ovd",
               "children": [],
@@ -1131,7 +1266,7 @@
                 "open_issues": 11,
                 "owner": "clin1223",
                 "repo": "VLDet",
-                "stars": 191,
+                "stars": 190,
                 "topics": [
                   "iclr2023",
                   "multi-modal",
@@ -1862,6 +1997,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VLOD-TTA: Test-Time Adaptation of Vision-Language Object Detectors (ECCV 2026) [paper]",
+              "description": "imatif17/VLOD-TTA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "VLOD-TTA: Test-Time Adaptation of Vision-Language Object Detectors",
+                "homepage": null,
+                "id": 1064456177,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-03T12:46:20Z",
+                "open_issues": 3,
+                "owner": "imatif17",
+                "repo": "VLOD-TTA",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-10-28T23:28:49.269Z"
             }
           ],
           "description": "Note that some generic object detection methods accepting language prompts are also listed here. Though they may not be evaluated on OVD benchmarks, they are essentially capable of this setting.",
@@ -1995,6 +2151,34 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Referring to Any Person (ICCV 2025) [paper]",
+              "description": "IDEA-Research/RexSeek",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICCV2025] Referring any person or objects given a natural language description. Code base for RexSeek and HumanRef Benchmark",
+                "homepage": "https://arxiv.org/abs/2503.08507",
+                "id": 945696996,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2025-10-15T02:25:53Z",
+                "open_issues": 1,
+                "owner": "IDEA-Research",
+                "repo": "RexSeek",
+                "stars": 189,
+                "topics": [
+                  "detection",
+                  "llm",
+                  "multi-modal",
+                  "open-set",
+                  "referring",
+                  "vllm"
+                ]
+              },
+              "first_seen": "2026-10-28T23:28:49.269Z"
             },
             {
               "node_type": "item",
@@ -2296,7 +2480,7 @@
                 "open_issues": 2,
                 "owner": "xyzzzh",
                 "repo": "Jag",
-                "stars": 31,
+                "stars": 32,
                 "topics": [
                   "modelscope",
                   "pytorch",
@@ -2395,6 +2579,48 @@
             },
             {
               "node_type": "item",
+              "title": "GroundingME: Exposing the Visual Grounding Gap in MLLMs through Multi-Dimensional Evaluation (CVPR 2026) [paper]",
+              "description": "lirang04/GroundingME",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Evaluation Code for GroundingME",
+                "homepage": "https://groundingme.github.io/",
+                "id": 1123261279,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-08-04T13:02:58Z",
+                "open_issues": 1,
+                "owner": "lirang04",
+                "repo": "GroundingME",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-10-28T23:28:49.269Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VIRO: Robust and Efficient Neuro-Symbolic Reasoning with Verification for Referring Expression Comprehension (CVPR 2026) [paper]",
+              "description": "[code (TBD)]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2026] Official implementation of \"VIRO: Robust and Efficient Neuro-Symbolic Reasoning with Verification for Referring Expression Comprehension\"",
+                "homepage": null,
+                "id": 1182205696,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-03-15T07:24:43Z",
+                "open_issues": 0,
+                "owner": "ml-postech",
+                "repo": "VIRO-neuro-symbolic-reasoning-with-verification",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-10-28T23:28:49.269Z"
+            },
+            {
+              "node_type": "item",
               "title": "MC-Bench: A Benchmark for Multi-Context Visual Grounding in the Era of MLLMs (arxiv 2025) [paper]",
               "description": "XuYunqiu/MC-Bench",
               "children": [],
@@ -2423,6 +2649,27 @@
                 ]
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Heuristic-inspired Reasoning Priors Facilitate Data-Efficient Referring Object Detection (CVPR 2026) [paper]",
+              "description": "[code (TBD)]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1181342085,
+                "language": null,
+                "license": "Apache-2.0",
+                "last_commit": "2026-03-14T02:49:15Z",
+                "open_issues": 1,
+                "owner": "xuzhang1199",
+                "repo": "HeROD",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-10-28T23:28:49.269Z"
             },
             {
               "node_type": "item",
@@ -2915,7 +3162,7 @@
                 "open_issues": 472,
                 "owner": "cocodataset",
                 "repo": "cocoapi",
-                "stars": 6390,
+                "stars": 6391,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2985,7 +3232,7 @@
                 "open_issues": 690,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22237,
+                "stars": 22235,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3364,7 +3611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T23:06:16.929Z",
+    "last_updated": "2026-10-28T23:28:49.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
@@ -3372,7 +3619,7 @@
       "id": 688454620,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-20T07:17:56Z",
+      "last_commit": "2026-10-28T10:46:30Z",
       "open_issues": 1,
       "owner": "Charles-Xie",
       "repo": "awesome-described-object-detection",
@@ -3386,7 +3633,7 @@
         "visual-grounding"
       ]
     },
-    "original_repository_sha": "417becc78d4eb145beaf822c539032a64192fa92",
+    "original_repository_sha": "f34bf837ac5989ebd14872ce216cdb012cc5f25f",
     "enhanced_repository": "enhansome/enhansome-described-object-detection",
     "enhanced_repository_description": null,
     "title": "Awesome Described Object Detection with stars"
