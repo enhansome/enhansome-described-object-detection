@@ -21,7 +21,7 @@
                 "open_issues": 1967,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 33019,
+                "stars": 33021,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -63,7 +63,7 @@
                 "open_issues": 165,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6046,
+                "stars": 6045,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -137,7 +137,7 @@
                 "open_issues": 59,
                 "owner": "shenyunhang",
                 "repo": "APE",
-                "stars": 615,
+                "stars": 617,
                 "topics": [
                   "image-segmentation",
                   "object-detection",
@@ -396,11 +396,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-29T16:49:00Z",
+                    "last_commit": "2026-10-30T17:33:25Z",
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39059,
+                    "stars": 39065,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -425,7 +425,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22233,
+                    "stars": 22236,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -467,7 +467,7 @@
                     "open_issues": 325,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10719,
+                    "stars": 10721,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -515,7 +515,7 @@
                     "open_issues": 326,
                     "owner": "QwenLM",
                     "repo": "Qwen-VL",
-                    "stars": 6727,
+                    "stars": 6728,
                     "topics": [
                       "large-language-models",
                       "vision-language-model"
@@ -539,7 +539,7 @@
                     "open_issues": 57,
                     "owner": "Alpha-VLLM",
                     "repo": "LLaMA2-Accessory",
-                    "stars": 2796,
+                    "stars": 2797,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
@@ -560,7 +560,7 @@
                     "open_issues": 1,
                     "owner": "IDEA-Research",
                     "repo": "Rex-Omni",
-                    "stars": 1631,
+                    "stars": 1632,
                     "topics": [
                       "mllm",
                       "object-detection",
@@ -785,11 +785,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T16:49:00Z",
+                "last_commit": "2026-10-30T17:33:25Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39059,
+                "stars": 39065,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -810,11 +810,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T16:49:00Z",
+                "last_commit": "2026-10-30T17:33:25Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39059,
+                "stars": 39065,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -881,7 +881,7 @@
                 "open_issues": 314,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3845,
+                "stars": 3847,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -910,7 +910,7 @@
                 "open_issues": 314,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3845,
+                "stars": 3847,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -939,7 +939,7 @@
                 "open_issues": 314,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3845,
+                "stars": 3847,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -968,7 +968,7 @@
                 "open_issues": 18,
                 "owner": "IDEA-Research",
                 "repo": "T-Rex",
-                "stars": 2715,
+                "stars": 2716,
                 "topics": [
                   "interactive",
                   "object-counting",
@@ -1604,7 +1604,7 @@
                 "open_issues": 2,
                 "owner": "lorebianchi98",
                 "repo": "FG-OVD",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -2075,7 +2075,7 @@
                 "open_issues": 11,
                 "owner": "OFA-Sys",
                 "repo": "ONE-PEACE",
-                "stars": 1060,
+                "stars": 1061,
                 "topics": [
                   "audio-language",
                   "contrastive-loss",
@@ -2445,6 +2445,33 @@
             },
             {
               "node_type": "item",
+              "title": "Jag: Direct Box Prediction for Efficient Visual Grounding (arxiv 2026) [paper]",
+              "description": "xyzzzh/Jag",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Jag: Direct Box Prediction for Efficient Visual Grounding",
+                "homepage": "https://xyzzzh.github.io/Jag/",
+                "id": 1387137460,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-24T04:50:39Z",
+                "open_issues": 1,
+                "owner": "xyzzzh",
+                "repo": "Jag",
+                "stars": 35,
+                "topics": [
+                  "modelscope",
+                  "pytorch",
+                  "qwen",
+                  "referring-expression-comprehension",
+                  "visual-grounding"
+                ]
+              },
+              "first_seen": "2026-10-20T22:35:22.904Z"
+            },
+            {
+              "node_type": "item",
               "title": "Advancing Visual Grounding With Scene Knowledge: Benchmark and Method (CVPR 2023) [paper]",
               "description": "zhjohnchan/SK-VG",
               "children": [],
@@ -2463,33 +2490,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Jag: Direct Box Prediction for Efficient Visual Grounding (arxiv 2026) [paper]",
-              "description": "xyzzzh/Jag",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Jag: Direct Box Prediction for Efficient Visual Grounding",
-                "homepage": "https://xyzzzh.github.io/Jag/",
-                "id": 1387137460,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-24T04:50:39Z",
-                "open_issues": 2,
-                "owner": "xyzzzh",
-                "repo": "Jag",
-                "stars": 33,
-                "topics": [
-                  "modelscope",
-                  "pytorch",
-                  "qwen",
-                  "referring-expression-comprehension",
-                  "visual-grounding"
-                ]
-              },
-              "first_seen": "2026-10-20T22:35:22.904Z"
             },
             {
               "node_type": "item",
@@ -3232,7 +3232,7 @@
                 "open_issues": 690,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22233,
+                "stars": 22236,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3505,7 +3505,7 @@
             "open_issues": 4,
             "owner": "TheShadow29",
             "repo": "awesome-grounding",
-            "stars": 1129,
+            "stars": 1130,
             "topics": [
               "arxiv",
               "awesome-list",
@@ -3611,7 +3611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:32:35.225Z",
+    "last_updated": "2026-10-30T23:09:25.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
