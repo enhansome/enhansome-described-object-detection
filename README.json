@@ -137,7 +137,7 @@
                 "open_issues": 59,
                 "owner": "shenyunhang",
                 "repo": "APE",
-                "stars": 617,
+                "stars": 618,
                 "topics": [
                   "image-segmentation",
                   "object-detection",
@@ -396,11 +396,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T17:33:25Z",
+                    "last_commit": "2026-10-30T23:22:33Z",
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39065,
+                    "stars": 39075,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -425,7 +425,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22236,
+                    "stars": 22237,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -467,7 +467,7 @@
                     "open_issues": 325,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10721,
+                    "stars": 10722,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -515,7 +515,7 @@
                     "open_issues": 326,
                     "owner": "QwenLM",
                     "repo": "Qwen-VL",
-                    "stars": 6728,
+                    "stars": 6729,
                     "topics": [
                       "large-language-models",
                       "vision-language-model"
@@ -785,11 +785,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T17:33:25Z",
+                "last_commit": "2026-10-30T23:22:33Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39065,
+                "stars": 39075,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -810,11 +810,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T17:33:25Z",
+                "last_commit": "2026-10-30T23:22:33Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39065,
+                "stars": 39075,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -877,8 +877,8 @@
                 "id": 385275507,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T18:19:38Z",
-                "open_issues": 314,
+                "last_commit": "2026-10-31T15:53:13Z",
+                "open_issues": 313,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3847,
@@ -906,8 +906,8 @@
                 "id": 385275507,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T18:19:38Z",
-                "open_issues": 314,
+                "last_commit": "2026-10-31T15:53:13Z",
+                "open_issues": 313,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3847,
@@ -935,8 +935,8 @@
                 "id": 385275507,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T18:19:38Z",
-                "open_issues": 314,
+                "last_commit": "2026-10-31T15:53:13Z",
+                "open_issues": 313,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3847,
@@ -968,7 +968,7 @@
                 "open_issues": 18,
                 "owner": "IDEA-Research",
                 "repo": "T-Rex",
-                "stars": 2716,
+                "stars": 2717,
                 "topics": [
                   "interactive",
                   "object-counting",
@@ -3162,7 +3162,7 @@
                 "open_issues": 472,
                 "owner": "cocodataset",
                 "repo": "cocoapi",
-                "stars": 6391,
+                "stars": 6390,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3232,7 +3232,7 @@
                 "open_issues": 690,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22236,
+                "stars": 22237,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3453,7 +3453,7 @@
             "open_issues": 2,
             "owner": "jianzongwu",
             "repo": "Awesome-Open-Vocabulary",
-            "stars": 1009,
+            "stars": 1010,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -3479,7 +3479,7 @@
             "open_issues": 6,
             "owner": "linhuixiao",
             "repo": "Awesome-Visual-Grounding",
-            "stars": 331,
+            "stars": 332,
             "topics": [
               "awesome",
               "grounding",
@@ -3611,7 +3611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:09:25.534Z",
+    "last_updated": "2026-10-31T22:46:18.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
