@@ -21,7 +21,7 @@
                 "open_issues": 1967,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 33021,
+                "stars": 33020,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -137,7 +137,7 @@
                 "open_issues": 59,
                 "owner": "shenyunhang",
                 "repo": "APE",
-                "stars": 618,
+                "stars": 619,
                 "topics": [
                   "image-segmentation",
                   "object-detection",
@@ -400,7 +400,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39075,
+                    "stars": 39088,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -425,7 +425,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22237,
+                    "stars": 22238,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -467,7 +467,7 @@
                     "open_issues": 325,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10722,
+                    "stars": 10723,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -789,7 +789,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39075,
+                "stars": 39088,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -814,7 +814,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39075,
+                "stars": 39088,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2459,7 +2459,7 @@
                 "open_issues": 1,
                 "owner": "xyzzzh",
                 "repo": "Jag",
-                "stars": 35,
+                "stars": 36,
                 "topics": [
                   "modelscope",
                   "pytorch",
@@ -3232,7 +3232,7 @@
                 "open_issues": 690,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22237,
+                "stars": 22238,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3479,7 +3479,7 @@
             "open_issues": 6,
             "owner": "linhuixiao",
             "repo": "Awesome-Visual-Grounding",
-            "stars": 332,
+            "stars": 333,
             "topics": [
               "awesome",
               "grounding",
@@ -3611,7 +3611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T22:46:18.059Z",
+    "last_updated": "2026-11-01T22:59:58.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
