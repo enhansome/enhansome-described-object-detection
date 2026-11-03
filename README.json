@@ -21,7 +21,7 @@
                 "open_issues": 1967,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 33020,
+                "stars": 33022,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -63,7 +63,7 @@
                 "open_issues": 165,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6045,
+                "stars": 6046,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -137,7 +137,7 @@
                 "open_issues": 59,
                 "owner": "shenyunhang",
                 "repo": "APE",
-                "stars": 619,
+                "stars": 621,
                 "topics": [
                   "image-segmentation",
                   "object-detection",
@@ -400,7 +400,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39088,
+                    "stars": 39098,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -425,7 +425,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22238,
+                    "stars": 22239,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -467,7 +467,7 @@
                     "open_issues": 325,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10723,
+                    "stars": 10728,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -494,7 +494,7 @@
                     "open_issues": 8,
                     "owner": "apple-aiml-research",
                     "repo": "ml-ferret",
-                    "stars": 8650,
+                    "stars": 8649,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
@@ -515,7 +515,7 @@
                     "open_issues": 326,
                     "owner": "QwenLM",
                     "repo": "Qwen-VL",
-                    "stars": 6729,
+                    "stars": 6728,
                     "topics": [
                       "large-language-models",
                       "vision-language-model"
@@ -557,10 +557,10 @@
                     "language": "Jupyter Notebook",
                     "license": "NOASSERTION",
                     "last_commit": "2026-02-22T02:59:06Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "IDEA-Research",
                     "repo": "Rex-Omni",
-                    "stars": 1632,
+                    "stars": 1634,
                     "topics": [
                       "mllm",
                       "object-detection",
@@ -789,7 +789,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39088,
+                "stars": 39098,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -814,7 +814,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39088,
+                "stars": 39098,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -839,7 +839,7 @@
                 "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6594,
+                "stars": 6595,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -878,7 +878,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-31T15:53:13Z",
-                "open_issues": 313,
+                "open_issues": 314,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3847,
@@ -907,7 +907,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-31T15:53:13Z",
-                "open_issues": 313,
+                "open_issues": 314,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3847,
@@ -936,7 +936,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-31T15:53:13Z",
-                "open_issues": 313,
+                "open_issues": 314,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3847,
@@ -996,7 +996,7 @@
                 "open_issues": 82,
                 "owner": "THU-MIG",
                 "repo": "yoloe",
-                "stars": 2325,
+                "stars": 2326,
                 "topics": []
               },
               "first_seen": "2026-10-28T23:28:49.269Z"
@@ -1048,7 +1048,7 @@
                 "open_issues": 21,
                 "owner": "microsoft",
                 "repo": "RegionCLIP",
-                "stars": 819,
+                "stars": 820,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -1161,7 +1161,7 @@
                 "open_issues": 0,
                 "owner": "WeChatCV",
                 "repo": "WeDetect",
-                "stars": 307,
+                "stars": 309,
                 "topics": []
               },
               "first_seen": "2026-10-28T23:28:49.269Z"
@@ -1700,13 +1700,34 @@
                 "open_issues": 3,
                 "owner": "mlvlab",
                 "repo": "RALF",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "computer-vision",
                   "cvpr2024",
                   "object-detection",
                   "open-vocabulary-object-detection"
                 ]
+              },
+              "first_seen": "2026-08-29T02:25:33.857Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DitHub: A Modular Framework for Incremental Open-Vocabulary Object Detection (NeurIPS 2025) [paper]",
+              "description": "chiara-cap/DitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 974974892,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-10-06T11:56:04Z",
+                "open_issues": 0,
+                "owner": "chiara-cap",
+                "repo": "DitHub",
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
             },
@@ -1727,27 +1748,6 @@
                 "owner": "hbdat",
                 "repo": "cvpr22_cross_modal_pseudo_labeling",
                 "stars": 45,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:25:33.857Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DitHub: A Modular Framework for Incremental Open-Vocabulary Object Detection (NeurIPS 2025) [paper]",
-              "description": "chiara-cap/DitHub",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 974974892,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-10-06T11:56:04Z",
-                "open_issues": 0,
-                "owner": "chiara-cap",
-                "repo": "DitHub",
-                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3190,7 +3190,7 @@
                 "open_issues": 8,
                 "owner": "apple-aiml-research",
                 "repo": "ml-ferret",
-                "stars": 8650,
+                "stars": 8649,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3211,7 +3211,7 @@
                 "open_issues": 8,
                 "owner": "apple-aiml-research",
                 "repo": "ml-ferret",
-                "stars": 8650,
+                "stars": 8649,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3232,7 +3232,7 @@
                 "open_issues": 690,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22238,
+                "stars": 22239,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3611,7 +3611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:59:58.077Z",
+    "last_updated": "2026-11-03T01:45:08.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
