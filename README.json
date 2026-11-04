@@ -137,7 +137,7 @@
                 "open_issues": 59,
                 "owner": "shenyunhang",
                 "repo": "APE",
-                "stars": 621,
+                "stars": 622,
                 "topics": [
                   "image-segmentation",
                   "object-detection",
@@ -400,7 +400,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39098,
+                    "stars": 39101,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -425,7 +425,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22239,
+                    "stars": 22237,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -467,7 +467,7 @@
                     "open_issues": 325,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10728,
+                    "stars": 10731,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -753,7 +753,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2025-01-16T08:28:53Z",
-                    "open_issues": 10,
+                    "open_issues": 11,
                     "owner": "SY-Xuan",
                     "repo": "Pink",
                     "stars": 100,
@@ -789,7 +789,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39098,
+                "stars": 39101,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -814,7 +814,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39098,
+                "stars": 39101,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -839,7 +839,7 @@
                 "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6595,
+                "stars": 6596,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -996,7 +996,7 @@
                 "open_issues": 82,
                 "owner": "THU-MIG",
                 "repo": "yoloe",
-                "stars": 2326,
+                "stars": 2329,
                 "topics": []
               },
               "first_seen": "2026-10-28T23:28:49.269Z"
@@ -1017,7 +1017,7 @@
                 "open_issues": 8,
                 "owner": "om-ai-lab",
                 "repo": "OmDet",
-                "stars": 1409,
+                "stars": 1410,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -2459,7 +2459,7 @@
                 "open_issues": 1,
                 "owner": "xyzzzh",
                 "repo": "Jag",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "modelscope",
                   "pytorch",
@@ -3232,7 +3232,7 @@
                 "open_issues": 690,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22239,
+                "stars": 22237,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3453,7 +3453,7 @@
             "open_issues": 2,
             "owner": "jianzongwu",
             "repo": "Awesome-Open-Vocabulary",
-            "stars": 1010,
+            "stars": 1011,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -3475,8 +3475,8 @@
             "id": 823705182,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T01:29:43Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-03T06:23:22Z",
+            "open_issues": 4,
             "owner": "linhuixiao",
             "repo": "Awesome-Visual-Grounding",
             "stars": 333,
@@ -3611,7 +3611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:45:08.962Z",
+    "last_updated": "2026-11-04T00:10:39.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
