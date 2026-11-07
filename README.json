@@ -21,7 +21,7 @@
                 "open_issues": 1967,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 33025,
+                "stars": 33026,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -400,7 +400,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39122,
+                    "stars": 39127,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -422,7 +422,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-21T03:27:00Z",
-                    "open_issues": 690,
+                    "open_issues": 691,
                     "owner": "microsoft",
                     "repo": "unilm",
                     "stars": 22240,
@@ -494,7 +494,7 @@
                     "open_issues": 8,
                     "owner": "apple-aiml-research",
                     "repo": "ml-ferret",
-                    "stars": 8648,
+                    "stars": 8647,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
@@ -560,7 +560,7 @@
                     "open_issues": 0,
                     "owner": "IDEA-Research",
                     "repo": "Rex-Omni",
-                    "stars": 1634,
+                    "stars": 1635,
                     "topics": [
                       "mllm",
                       "object-detection",
@@ -789,7 +789,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39122,
+                "stars": 39127,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -814,7 +814,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39122,
+                "stars": 39127,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -839,7 +839,7 @@
                 "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6598,
+                "stars": 6599,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3190,7 +3190,7 @@
                 "open_issues": 8,
                 "owner": "apple-aiml-research",
                 "repo": "ml-ferret",
-                "stars": 8648,
+                "stars": 8647,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3211,7 +3211,7 @@
                 "open_issues": 8,
                 "owner": "apple-aiml-research",
                 "repo": "ml-ferret",
-                "stars": 8648,
+                "stars": 8647,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3229,7 +3229,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-21T03:27:00Z",
-                "open_issues": 690,
+                "open_issues": 691,
                 "owner": "microsoft",
                 "repo": "unilm",
                 "stars": 22240,
@@ -3476,7 +3476,7 @@
             "language": "Shell",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T06:23:22Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "linhuixiao",
             "repo": "Awesome-Visual-Grounding",
             "stars": 332,
@@ -3502,7 +3502,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-16T20:52:02Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "TheShadow29",
             "repo": "awesome-grounding",
             "stars": 1131,
@@ -3611,7 +3611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:47:43.677Z",
+    "last_updated": "2026-11-07T22:56:44.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
