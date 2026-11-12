@@ -21,7 +21,7 @@
                 "open_issues": 1967,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 33034,
+                "stars": 33035,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -396,11 +396,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-09T18:10:16Z",
+                    "last_commit": "2026-11-11T11:58:31Z",
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39151,
+                    "stars": 39158,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -467,7 +467,7 @@
                     "open_issues": 325,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10742,
+                    "stars": 10744,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -515,7 +515,7 @@
                     "open_issues": 326,
                     "owner": "QwenLM",
                     "repo": "Qwen-VL",
-                    "stars": 6724,
+                    "stars": 6725,
                     "topics": [
                       "large-language-models",
                       "vision-language-model"
@@ -539,7 +539,7 @@
                     "open_issues": 57,
                     "owner": "Alpha-VLLM",
                     "repo": "LLaMA2-Accessory",
-                    "stars": 2797,
+                    "stars": 2798,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:25:33.857Z"
@@ -560,7 +560,7 @@
                     "open_issues": 0,
                     "owner": "IDEA-Research",
                     "repo": "Rex-Omni",
-                    "stars": 1636,
+                    "stars": 1638,
                     "topics": [
                       "mllm",
                       "object-detection",
@@ -785,11 +785,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T18:10:16Z",
+                "last_commit": "2026-11-11T11:58:31Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39151,
+                "stars": 39158,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -810,11 +810,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T18:10:16Z",
+                "last_commit": "2026-11-11T11:58:31Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39151,
+                "stars": 39158,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -996,7 +996,7 @@
                 "open_issues": 82,
                 "owner": "THU-MIG",
                 "repo": "yoloe",
-                "stars": 2332,
+                "stars": 2330,
                 "topics": []
               },
               "first_seen": "2026-10-28T23:28:49.269Z"
@@ -2459,7 +2459,7 @@
                 "open_issues": 1,
                 "owner": "xyzzzh",
                 "repo": "Jag",
-                "stars": 40,
+                "stars": 41,
                 "topics": [
                   "modelscope",
                   "pytorch",
@@ -3611,7 +3611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:12:56.846Z",
+    "last_updated": "2026-11-12T01:38:33.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
