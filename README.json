@@ -21,7 +21,7 @@
                 "open_issues": 1967,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 33039,
+                "stars": 33036,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -221,7 +221,7 @@
                 "open_issues": 7,
                 "owner": "shikras",
                 "repo": "d-cube",
-                "stars": 138,
+                "stars": 139,
                 "topics": [
                   "dataset",
                   "multi-modal-learning",
@@ -396,11 +396,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-13T17:37:12Z",
+                    "last_commit": "2026-11-14T12:36:20Z",
                     "open_issues": 2013,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39169,
+                    "stars": 39177,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -467,7 +467,7 @@
                     "open_issues": 326,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10752,
+                    "stars": 10751,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -785,11 +785,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T17:37:12Z",
+                "last_commit": "2026-11-14T12:36:20Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39169,
+                "stars": 39177,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -810,11 +810,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T17:37:12Z",
+                "last_commit": "2026-11-14T12:36:20Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39169,
+                "stars": 39177,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -839,7 +839,7 @@
                 "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6610,
+                "stars": 6611,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -860,7 +860,7 @@
                 "open_issues": 318,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5281,
+                "stars": 5280,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -1111,7 +1111,7 @@
                 "open_issues": 16,
                 "owner": "Atten4Vis",
                 "repo": "LW-DETR",
-                "stars": 516,
+                "stars": 517,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -1161,7 +1161,7 @@
                 "open_issues": 0,
                 "owner": "WeChatCV",
                 "repo": "WeDetect",
-                "stars": 310,
+                "stars": 311,
                 "topics": []
               },
               "first_seen": "2026-10-28T23:28:49.269Z"
@@ -3006,7 +3006,7 @@
                 "open_issues": 7,
                 "owner": "shikras",
                 "repo": "d-cube",
-                "stars": 138,
+                "stars": 139,
                 "topics": [
                   "dataset",
                   "multi-modal-learning",
@@ -3611,7 +3611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:26:09.939Z",
+    "last_updated": "2026-11-14T23:18:55.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",

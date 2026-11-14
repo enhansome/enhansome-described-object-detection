@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,456 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,928 | 🐛 104 | 📅 2026-09-02
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/Charles-Xie/awesome-described-object-detection)
 
 # Awesome Described Object Detection with stars
@@ -39,7 +39,7 @@ If you find any work or resources missing, please send a [pull requests](https:/
 
 ## Described Object Detection
 
-* An Open and Comprehensive Pipeline for Unified Object Grounding and Detection (arxiv 2024) [\[paper\]](https://arxiv.org/abs/2401.02361) [\[code\]](https://github.com/open-mmlab/mmdetection/tree/main/configs/mm_grounding_dino) ⭐ 33,039 | 🐛 1,967 | 🌐 Python | 📅 2024-08-21![Star](https://img.shields.io/github/stars/open-mmlab/mmdetection.svg?style=social\&label=Star)
+* An Open and Comprehensive Pipeline for Unified Object Grounding and Detection (arxiv 2024) [\[paper\]](https://arxiv.org/abs/2401.02361) [\[code\]](https://github.com/open-mmlab/mmdetection/tree/main/configs/mm_grounding_dino) ⭐ 33,036 | 🐛 1,967 | 🌐 Python | 📅 2024-08-21![Star](https://img.shields.io/github/stars/open-mmlab/mmdetection.svg?style=social\&label=Star)
 
 * VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model (arxiv 2025) [\[paper\]](https://arxiv.org/abs/2504.07615) [\[code\]](https://github.com/om-ai-lab/VLM-R1) ⭐ 6,046 | 🐛 165 | 🌐 Python | 📅 2026-07-07
 
@@ -53,7 +53,7 @@ If you find any work or resources missing, please send a [pull requests](https:/
 
 * Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning (ICLR 2026) [\[paper\]](https://proceedings.iclr.cc/paper_files/paper/2026/hash/f6770316cf8aa1524f6282d6a147dd0d-Abstract-Conference.html) [\[code\]](https://github.com/IDEA-Research/Rex-Thinker) ⭐ 157 | 🐛 12 | 🌐 Python | 📅 2025-06-30
 
-* Described Object Detection: Liberating Object Detection with Flexible Expressions (NeurIPS 2023) [\[paper\]](https://arxiv.org/abs/2307.12813) [\[dataset\]](https://github.com/shikras/d-cube/) ⭐ 138 | 🐛 7 | 🌐 Python | 📅 2024-03-20 [\[code\]](https://github.com/shikras/d-cube/) ⭐ 138 | 🐛 7 | 🌐 Python | 📅 2024-03-20![Star](https://img.shields.io/github/stars/shikras/d-cube.svg?style=social\&label=Star)
+* Described Object Detection: Liberating Object Detection with Flexible Expressions (NeurIPS 2023) [\[paper\]](https://arxiv.org/abs/2307.12813) [\[dataset\]](https://github.com/shikras/d-cube/) ⭐ 139 | 🐛 7 | 🌐 Python | 📅 2024-03-20 [\[code\]](https://github.com/shikras/d-cube/) ⭐ 139 | 🐛 7 | 🌐 Python | 📅 2024-03-20![Star](https://img.shields.io/github/stars/shikras/d-cube.svg?style=social\&label=Star)
 
 * Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone (NeurIPS 2022) [\[paper\]](https://arxiv.org/abs/2206.07643) [\[code\]](https://github.com/microsoft/FIBER) ⭐ 131 | 🐛 11 | 🌐 Python | 📅 2023-10-10![Star](https://img.shields.io/github/stars/microsoft/FIBER.svg?style=social\&label=Star)
 
@@ -85,17 +85,17 @@ If you find any work or resources missing, please send a [pull requests](https:/
 
 * LLM-Optic: Unveiling the Capabilities of Large Language Models for Universal Visual Grounding (arxiv 2024) [\[paper\]](https://arxiv.org/abs/2405.17104)
 
-A leaderboard for DOD methods are available [here](https://github.com/shikras/d-cube/tree/main/eval_sota) ⭐ 138 | 🐛 7 | 🌐 Python | 📅 2024-03-20.
+A leaderboard for DOD methods are available [here](https://github.com/shikras/d-cube/tree/main/eval_sota) ⭐ 139 | 🐛 7 | 🌐 Python | 📅 2024-03-20.
 
 ### Methods with Potential for DOD
 
 These methods are either MLLM with capabilities related to detection/localization, or multi-task models handling both OD/OVD and REC. Though they are not directly handling DOD and not evaluated on DOD benchmarks in their original papers, it is possible that they obtain a performance similar to the DOD baseline.
 
-* FindIt: Generalized Localization with Natural Language Queries (ECCV 2022) [\[paper\]](https://arxiv.org/abs/2203.17273) [\[code\]](https://github.com/google-research/google-research/tree/master/findit) ⭐ 39,169 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-13![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social\&label=Star) (REC, OD, etc.)
+* FindIt: Generalized Localization with Natural Language Queries (ECCV 2022) [\[paper\]](https://arxiv.org/abs/2203.17273) [\[code\]](https://github.com/google-research/google-research/tree/master/findit) ⭐ 39,177 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-14![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social\&label=Star) (REC, OD, etc.)
 
 * Kosmos-2: Grounding Multimodal Large Language Models to the World (ICLR 2024) [\[paper\]](https://arxiv.org/abs/2306.14824) [\[demo\]](https://huggingface.co/spaces/ydshieh/Kosmos-2) [\[code\]](https://github.com/microsoft/unilm/tree/master/kosmos-2) ⭐ 22,242 | 🐛 691 | 🌐 Python | 📅 2026-09-21![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social\&label=Star)
 
-* Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection (arxiv 2023) [\[paper\]](https://arxiv.org/abs/2303.05499) [\[code (eval)\]](https://github.com/IDEA-Research/GroundingDINO) ⭐ 10,752 | 🐛 326 | 🌐 Python | 📅 2024-08-12![Star](https://img.shields.io/github/stars/IDEA-Research/GroundingDINO.svg?style=social\&label=Star) (REC, OD, etc.)
+* Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection (arxiv 2023) [\[paper\]](https://arxiv.org/abs/2303.05499) [\[code (eval)\]](https://github.com/IDEA-Research/GroundingDINO) ⭐ 10,751 | 🐛 326 | 🌐 Python | 📅 2024-08-12![Star](https://img.shields.io/github/stars/IDEA-Research/GroundingDINO.svg?style=social\&label=Star) (REC, OD, etc.)
 
 * Ferret: Refer and Ground Anything Anywhere at Any Granularity [\[paper\]](https://arxiv.org/abs/2310.07704) [\[code\]](https://github.com/apple/ml-ferret) ⭐ 8,646 | 🐛 8 | 🌐 Python | 📅 2026-09-11![Star](https://img.shields.io/github/stars/apple/ml-ferret.svg?style=social\&label=Star)
 
@@ -129,13 +129,13 @@ These methods are either MLLM with capabilities related to detection/localizatio
 
 Note that some generic object detection methods accepting language prompts are also listed here. Though they may not be evaluated on OVD benchmarks, they are essentially capable of this setting.
 
-* Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers (CVPR 2023) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Region-Aware_Pretraining_for_Open-Vocabulary_Object_Detection_With_Vision_Transformers_CVPR_2023_paper.pdf) [\[code\]](https://github.com/google-research/google-research/tree/master/fvlm/rovit) ⭐ 39,169 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-13
+* Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers (CVPR 2023) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Region-Aware_Pretraining_for_Open-Vocabulary_Object_Detection_With_Vision_Transformers_CVPR_2023_paper.pdf) [\[code\]](https://github.com/google-research/google-research/tree/master/fvlm/rovit) ⭐ 39,177 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-14
 
-* F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models (ICLR 2023) [\[paper\]](https://openreview.net/pdf?id=MIMwy4kh9lf) [\[code\]](https://github.com/google-research/google-research/tree/master/fvlm) ⭐ 39,169 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-13 [\[website\]](https://sites.google.com/view/f-vlm/home)
+* F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models (ICLR 2023) [\[paper\]](https://openreview.net/pdf?id=MIMwy4kh9lf) [\[code\]](https://github.com/google-research/google-research/tree/master/fvlm) ⭐ 39,177 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-14 [\[website\]](https://sites.google.com/view/f-vlm/home)
 
-* YOLO-World: Real-Time Open-Vocabulary Object Detection (arxiv 2024) [\[paper\]](https://arxiv.org/abs/2401.17270) [\[code\]](https://github.com/AILab-CVC/YOLO-World) ⭐ 6,610 | 🐛 421 | 🌐 Python | 📅 2025-02-26
+* YOLO-World: Real-Time Open-Vocabulary Object Detection (arxiv 2024) [\[paper\]](https://arxiv.org/abs/2401.17270) [\[code\]](https://github.com/AILab-CVC/YOLO-World) ⭐ 6,611 | 🐛 421 | 🌐 Python | 📅 2025-02-26
 
-* Open-vocabulary Object Detection via Vision and Language Knowledge Distillation (ICLR 2022) [\[paper\]](https://openreview.net/forum?id=lL3lnMbR4WU) [\[code\]](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild) ⭐ 5,281 | 🐛 318 | 🌐 Jupyter Notebook | 📅 2026-11-10
+* Open-vocabulary Object Detection via Vision and Language Knowledge Distillation (ICLR 2022) [\[paper\]](https://openreview.net/forum?id=lL3lnMbR4WU) [\[code\]](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild) ⭐ 5,280 | 🐛 318 | 🌐 Jupyter Notebook | 📅 2026-11-10
 
 * Scaling Open-Vocabulary Object Detection (arxiv 2023) [\[paper\]](https://arxiv.org/abs/2306.09683) [\[code (jax)\]](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit) ⭐ 3,848 | 🐛 314 | 🌐 Python | 📅 2026-10-31
 
@@ -155,11 +155,11 @@ Note that some generic object detection methods accepting language prompts are a
 
 * LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models (CVPR 2025 Highlight) [\[paper\]](https://arxiv.org/abs/2501.18954) [\[code\]](https://github.com/iSEE-Laboratory/LLMDet) ⭐ 629 | 🐛 4 | 🌐 Python | 📅 2026-02-04
 
-* OVLW-DETR: Open-Vocabulary Light-Weighted Detection Transformer (arxiv 2024) [\[paper\]](https://arxiv.org/abs/2407.10655) [\[code (TBD)\]](https://github.com/Atten4Vis/LW-DETR) ⭐ 516 | 🐛 16 | 🌐 Python | 📅 2025-02-18
+* OVLW-DETR: Open-Vocabulary Light-Weighted Detection Transformer (arxiv 2024) [\[paper\]](https://arxiv.org/abs/2407.10655) [\[code (TBD)\]](https://github.com/Atten4Vis/LW-DETR) ⭐ 517 | 🐛 16 | 🌐 Python | 📅 2025-02-18
 
 * OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion (arxiv 2024) [\[paper\]](https://arxiv.org/abs/2407.07844) [\[code\]](https://github.com/wanghao9610/OV-DINO) ⭐ 414 | 🐛 6 | 🌐 Python | 📅 2025-03-12
 
-* WeDetect: Fast Open-Vocabulary Object Detection as Retrieval (CVPR 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Fu_WeDetect_Fast_Open-Vocabulary_Object_Detection_as_Retrieval_CVPR_2026_paper.html) [\[code\]](https://github.com/WeChatCV/WeDetect) ⭐ 310 | 🐛 0 | 🌐 Python | 📅 2026-10-09
+* WeDetect: Fast Open-Vocabulary Object Detection as Retrieval (CVPR 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Fu_WeDetect_Fast_Open-Vocabulary_Object_Detection_as_Retrieval_CVPR_2026_paper.html) [\[code\]](https://github.com/WeChatCV/WeDetect) ⭐ 311 | 🐛 0 | 🌐 Python | 📅 2026-10-09
 
 * Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection (NeurIPS 2022) [\[paper\]](https://openreview.net/forum?id=aKXBrj0DHm) [\[code\]](https://github.com/hanoonaR/object-centric-ovd) ⭐ 295 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2022-10-12
 
@@ -460,7 +460,7 @@ This part is still in progress.
 
 | Name          |                                                                           Paper                                                                          |                Website               |                                                Code                                                | Train/Eval | Notes |
 | :------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------: | :------------------------------------------------------------------------------------------------: | :--------: | :---: |
-| **$D^3$**     |           [Described Object Detection: Liberating Object Detection with Flexible Expressions (NeurIPS 2023)](https://arxiv.org/abs/2307.12813)           |                   -                  |       [Github](https://github.com/shikras/d-cube) ⭐ 138 \| 🐛 7 \| 🌐 Python \| 📅 2024-03-20      |  eval only |   -   |
+| **$D^3$**     |           [Described Object Detection: Liberating Object Detection with Flexible Expressions (NeurIPS 2023)](https://arxiv.org/abs/2307.12813)           |                   -                  |       [Github](https://github.com/shikras/d-cube) ⭐ 139 \| 🐛 7 \| 🌐 Python \| 📅 2024-03-20      |  eval only |   -   |
 | **OmniLabel** |                  [OmniLabel: A Challenging Benchmark for Language-Based Object Detection (ICCV 2023)](https://arxiv.org/abs/2304.11463)                  | [Project](https://www.omnilabel.org) | [Github](https://github.com/samschulter/omnilabeltools) ⭐ 23 \| 🐛 4 \| 🌐 Python \| 📅 2025-02-01 |  eval only |   -   |
 | **OVDEval**   | [How to Evaluate the Generalization of Detection? A Benchmark for Comprehensive Open-Vocabulary Detection (AAAI 2024)](https://arxiv.org/pdf/2308.13177) |                   -                  |      [Github](https://github.com/om-ai-lab/OVDEval) ⭐ 63 \| 🐛 1 \| 🌐 Python \| 📅 2026-04-10     |  eval only |   -   |
 
@@ -511,7 +511,7 @@ Some similar github repos like awesome lists:
 
 # Acknowledgement
 
-The structure and format of this repo is inspired by [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,083 | 🐛 119 | 📅 2026-10-29.
+The structure and format of this repo is inspired by [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,087 | 🐛 119 | 📅 2026-10-29.
 
 ***
 
