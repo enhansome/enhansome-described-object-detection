@@ -63,7 +63,7 @@
                 "open_issues": 165,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6045,
+                "stars": 6046,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -396,11 +396,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T11:58:31Z",
-                    "open_issues": 2012,
+                    "last_commit": "2026-11-13T17:37:12Z",
+                    "open_issues": 2013,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39162,
+                    "stars": 39169,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -467,7 +467,7 @@
                     "open_issues": 326,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10749,
+                    "stars": 10752,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -785,11 +785,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T11:58:31Z",
-                "open_issues": 2012,
+                "last_commit": "2026-11-13T17:37:12Z",
+                "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39162,
+                "stars": 39169,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -810,11 +810,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T11:58:31Z",
-                "open_issues": 2012,
+                "last_commit": "2026-11-13T17:37:12Z",
+                "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39162,
+                "stars": 39169,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -996,7 +996,7 @@
                 "open_issues": 82,
                 "owner": "THU-MIG",
                 "repo": "yoloe",
-                "stars": 2333,
+                "stars": 2336,
                 "topics": []
               },
               "first_seen": "2026-10-28T23:28:49.269Z"
@@ -2459,7 +2459,7 @@
                 "open_issues": 1,
                 "owner": "xyzzzh",
                 "repo": "Jag",
-                "stars": 42,
+                "stars": 43,
                 "topics": [
                   "modelscope",
                   "pytorch",
@@ -3611,7 +3611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T00:39:42.125Z",
+    "last_updated": "2026-11-14T00:26:09.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
