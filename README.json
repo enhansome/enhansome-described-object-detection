@@ -63,7 +63,7 @@
                 "open_issues": 165,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6047,
+                "stars": 6046,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -137,7 +137,7 @@
                 "open_issues": 59,
                 "owner": "shenyunhang",
                 "repo": "APE",
-                "stars": 632,
+                "stars": 633,
                 "topics": [
                   "image-segmentation",
                   "object-detection",
@@ -396,11 +396,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-16T16:31:35Z",
+                    "last_commit": "2026-11-17T17:57:37Z",
                     "open_issues": 2013,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39199,
+                    "stars": 39210,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -425,7 +425,7 @@
                     "open_issues": 692,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22242,
+                    "stars": 22244,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -464,10 +464,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-08-12T08:52:02Z",
-                    "open_issues": 326,
+                    "open_issues": 325,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10752,
+                    "stars": 10755,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -515,7 +515,7 @@
                     "open_issues": 326,
                     "owner": "QwenLM",
                     "repo": "Qwen-VL",
-                    "stars": 6728,
+                    "stars": 6727,
                     "topics": [
                       "large-language-models",
                       "vision-language-model"
@@ -560,7 +560,7 @@
                     "open_issues": 0,
                     "owner": "IDEA-Research",
                     "repo": "Rex-Omni",
-                    "stars": 1640,
+                    "stars": 1641,
                     "topics": [
                       "mllm",
                       "object-detection",
@@ -785,11 +785,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T16:31:35Z",
+                "last_commit": "2026-11-17T17:57:37Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39199,
+                "stars": 39210,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -810,11 +810,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T16:31:35Z",
+                "last_commit": "2026-11-17T17:57:37Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39199,
+                "stars": 39210,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -839,7 +839,7 @@
                 "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6612,
+                "stars": 6613,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -860,7 +860,7 @@
                 "open_issues": 318,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5281,
+                "stars": 5282,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -996,7 +996,7 @@
                 "open_issues": 82,
                 "owner": "THU-MIG",
                 "repo": "yoloe",
-                "stars": 2335,
+                "stars": 2337,
                 "topics": []
               },
               "first_seen": "2026-10-28T23:28:49.269Z"
@@ -1111,7 +1111,7 @@
                 "open_issues": 16,
                 "owner": "Atten4Vis",
                 "repo": "LW-DETR",
-                "stars": 517,
+                "stars": 516,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -1161,7 +1161,7 @@
                 "open_issues": 0,
                 "owner": "WeChatCV",
                 "repo": "WeDetect",
-                "stars": 313,
+                "stars": 314,
                 "topics": []
               },
               "first_seen": "2026-10-28T23:28:49.269Z"
@@ -2042,7 +2042,7 @@
                 "open_issues": 113,
                 "owner": "OFA-Sys",
                 "repo": "OFA",
-                "stars": 2556,
+                "stars": 2555,
                 "topics": [
                   "chinese",
                   "image-captioning",
@@ -2456,7 +2456,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-24T04:50:39Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "xyzzzh",
                 "repo": "Jag",
                 "stars": 46,
@@ -3232,7 +3232,7 @@
                 "open_issues": 692,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22242,
+                "stars": 22244,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3545,7 +3545,7 @@
             "open_issues": 2,
             "owner": "MarkMoHR",
             "repo": "Awesome-Referring-Image-Segmentation",
-            "stars": 831,
+            "stars": 832,
             "topics": [
               "image-segmentation",
               "instance-segmentation",
@@ -3611,7 +3611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T02:35:05.994Z",
+    "last_updated": "2026-11-18T01:50:07.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
