@@ -21,7 +21,7 @@
                 "open_issues": 1967,
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 33047,
+                "stars": 33052,
                 "topics": [
                   "cascade-rcnn",
                   "convnext",
@@ -137,7 +137,7 @@
                 "open_issues": 59,
                 "owner": "shenyunhang",
                 "repo": "APE",
-                "stars": 639,
+                "stars": 640,
                 "topics": [
                   "image-segmentation",
                   "object-detection",
@@ -397,10 +397,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-21T15:37:23Z",
-                    "open_issues": 2013,
+                    "open_issues": 2014,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39251,
+                    "stars": 39261,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -425,7 +425,7 @@
                     "open_issues": 692,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22249,
+                    "stars": 22250,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -467,7 +467,7 @@
                     "open_issues": 326,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10762,
+                    "stars": 10766,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -786,10 +786,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-21T15:37:23Z",
-                "open_issues": 2013,
+                "open_issues": 2014,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39251,
+                "stars": 39261,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -811,10 +811,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-21T15:37:23Z",
-                "open_issues": 2013,
+                "open_issues": 2014,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39251,
+                "stars": 39261,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -839,7 +839,7 @@
                 "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6617,
+                "stars": 6618,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -1090,7 +1090,7 @@
                 "open_issues": 4,
                 "owner": "iSEE-Laboratory",
                 "repo": "LLMDet",
-                "stars": 628,
+                "stars": 629,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3232,7 +3232,7 @@
                 "open_issues": 692,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22249,
+                "stars": 22250,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3453,7 +3453,7 @@
             "open_issues": 2,
             "owner": "jianzongwu",
             "repo": "Awesome-Open-Vocabulary",
-            "stars": 1010,
+            "stars": 1009,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -3545,7 +3545,7 @@
             "open_issues": 2,
             "owner": "MarkMoHR",
             "repo": "Awesome-Referring-Image-Segmentation",
-            "stars": 833,
+            "stars": 834,
             "topics": [
               "image-segmentation",
               "instance-segmentation",
@@ -3611,7 +3611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T23:54:03.259Z",
+    "last_updated": "2026-11-23T00:26:25.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
