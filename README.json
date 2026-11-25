@@ -63,7 +63,7 @@
                 "open_issues": 166,
                 "owner": "om-ai-lab",
                 "repo": "VLM-R1",
-                "stars": 6049,
+                "stars": 6050,
                 "topics": [
                   "deepseek-r1",
                   "grpo",
@@ -95,7 +95,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "GLIP",
-                "stars": 2611,
+                "stars": 2612,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -116,7 +116,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "GLIP",
-                "stars": 2611,
+                "stars": 2612,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -137,7 +137,7 @@
                 "open_issues": 59,
                 "owner": "shenyunhang",
                 "repo": "APE",
-                "stars": 642,
+                "stars": 643,
                 "topics": [
                   "image-segmentation",
                   "object-detection",
@@ -396,11 +396,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-24T04:17:47Z",
-                    "open_issues": 2014,
+                    "last_commit": "2026-11-24T22:16:08Z",
+                    "open_issues": 2015,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39269,
+                    "stars": 39281,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -425,7 +425,7 @@
                     "open_issues": 692,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22249,
+                    "stars": 22251,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -467,7 +467,7 @@
                     "open_issues": 326,
                     "owner": "IDEA-Research",
                     "repo": "GroundingDINO",
-                    "stars": 10769,
+                    "stars": 10771,
                     "topics": [
                       "object-detection",
                       "open-world",
@@ -560,7 +560,7 @@
                     "open_issues": 0,
                     "owner": "IDEA-Research",
                     "repo": "Rex-Omni",
-                    "stars": 1645,
+                    "stars": 1646,
                     "topics": [
                       "mllm",
                       "object-detection",
@@ -785,11 +785,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T04:17:47Z",
-                "open_issues": 2014,
+                "last_commit": "2026-11-24T22:16:08Z",
+                "open_issues": 2015,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39269,
+                "stars": 39281,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -810,11 +810,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T04:17:47Z",
-                "open_issues": 2014,
+                "last_commit": "2026-11-24T22:16:08Z",
+                "open_issues": 2015,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39269,
+                "stars": 39281,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -839,7 +839,7 @@
                 "open_issues": 421,
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6618,
+                "stars": 6619,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -856,7 +856,7 @@
                 "id": 96946693,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T16:57:34Z",
+                "last_commit": "2026-11-24T18:19:13Z",
                 "open_issues": 318,
                 "owner": "tensorflow",
                 "repo": "tpu",
@@ -996,7 +996,7 @@
                 "open_issues": 82,
                 "owner": "THU-MIG",
                 "repo": "yoloe",
-                "stars": 2342,
+                "stars": 2344,
                 "topics": []
               },
               "first_seen": "2026-10-28T23:28:49.269Z"
@@ -1111,7 +1111,7 @@
                 "open_issues": 16,
                 "owner": "Atten4Vis",
                 "repo": "LW-DETR",
-                "stars": 517,
+                "stars": 518,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -2438,7 +2438,7 @@
                 "open_issues": 0,
                 "owner": "avaxiao",
                 "repo": "TextRegion",
-                "stars": 55,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:25:33.857Z"
@@ -3232,7 +3232,7 @@
                 "open_issues": 692,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22249,
+                "stars": 22251,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3611,7 +3611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:24:32.903Z",
+    "last_updated": "2026-11-25T03:08:07.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension. Updated frequently and pull requests welcomed.",
